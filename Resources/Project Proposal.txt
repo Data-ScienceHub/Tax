@@ -1,0 +1,37 @@
+﻿One Shared Story Capstone Proposal
+Ami Kano (ak7ra)
+Chunru Zheng (cz8yb)
+Rachel Grace (rg5xm)
+
+
+Background
+
+
+Our capstone project entails three parts: creating a database for data storage, a dashboard for searching the data interactively, and a dashboard and pipeline for future data entry. We will be writing code for data search and entry, creating compelling visualizations for dashboards to enable good user experience, and prioritizing longevity of the project throughout our work.
+
+
+Currently, extensive communication has occurred between the capstone team and the sponsor, Robin Patton, from One Shared Story. Over the fall semester, we communicated with her to understand her hopes for the project. We now have a good understanding of her priorities; however, as we have done more extensive research on how to achieve those priorities, we will need to engage in more communication so that she understands what we are doing. Some Python code has been successfully written to query the entire database, which has been created with MongoDB, and we have done preliminary brainstorming about dashboard visuals as well as requirements for the data entry pipeline.
+
+
+Goal
+
+
+From a societal perspective, this project is motivated by the current challenges in tracing ancestry in Virginia, especially for people of color and women. One Shared Story seeks to address this difficulty by making pre-Civil War property tax records searchable for the public. Because people of African descent in Virginia were most often considered to be legal property prior to the Civil War, these individuals were not recorded in census data, but were recorded in personal property tax records. After the Civil War, these individuals appeared in census data, but for many descendants, it is impossible to trace their ancestry because there is no link between the census records and property records. This project will make property records searchable, so that people may locate their ancestors’ records pre-Civil War.
+
+
+Practically, this goal requires a database to be built and populated with One Shared Story’s data. Then, a search dashboard needs to be created that can accommodate individuals searching for family members and historians making more general searches. Additionally, a data entry pipeline must be constructed, along with a dashboard of its own. Robin has informed us that ideally, this pipeline should be flexible enough to accommodate new kinds of data in the future. Finally, the database and dashboards should be hosted on the One Shared Story website. If possible, the hosting and maintenance of the database and dashboards should have no cost for One Shared Story, since it is a non-profit organization.
+
+
+A semi-structured database was created by a previous capstone group, although this database was not reproducible. However, the group did consolidate the data, which we have used to populate the MongoDB database. We hope to spend more of our time working on user interface, refining the search and data entry components.
+
+
+Dataset
+
+
+The data comes from historical documents. Currently, it is transcribed manually by volunteers into Google Sheets, which have then been fed into the existing database. It is in the form of semi-structured data, as each Google Sheet template has a different number of features, with varying names. This semi-structured status means that a NoSQL database is most appropriate for the data (which is also helpful because NoSQL is free, while SQL databases are expensive). Another component of the data is ownership - One Shared Story hopes to collaborate with churches and historical societies to make their data searchable as well, but wishes to accommodate other organizations’ wish to retain ownership of their data. This will necessitate conversations with the sponsor to understand how best to achieve this.
+
+
+Methods
+
+
+Our proposed methods are vague, but include the use of MongoDB to achieve our semi-structured database. We plan to use Python and JupyterLab for the querying of the database, and hope to create our dashboard either through a free method like the Dash library or a paid method like Tableau. Our client hopes to host the database through their website, and has access to a tool called phpMyAdmin, which may inform our hosting methods.
