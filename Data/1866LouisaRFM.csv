@@ -1,0 +1,1309 @@
+County,Year,District,Page,Transcriber's notes,Row number (1-35 each page),Surname,First Name(s) as written (ex Wm or Wm J),First Name(s) interpreted (ex William J),Prefix Title or Suffix (ex Mrs Misses Dr Col Jr Est),Free Negro Notation (enter FN),Number of white males over 21 taxed at 28,Number of male negroes over 21 taxed at 28,Horses and mules count,Horses and mules value,Cattle count,Cattle value,Sheep count,Sheep value,Hogs count,Hogs value,Carriages and wagons count,Carriages and wagons value,Watches Value,Clocks Value,Musical instruments value,Furnishings value,Gold/Jewelry value,Agricultural products value,Watercraft value,Aggregate personal property value,Schedule C Income Total,Schedule D Income Total,Schedule E Salaries,Oyster sales,Total State Taxes on all subjects
+Louisa,1866,RFM,1,,1,Arnett,Frances A,,Mrs,,,,1,50,5,75,,,,,1,50,,,,75,,,,,,,,,0.35
+Louisa,1866,RFM,1,,2,Arnett,David I,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,3,Arnett,Archibald D,,,,1,,2,100,10,150,,,23,115,,,,,,100,,,,,,,,,0.94
+Louisa,1866,RFM,1,,4,Atkins,Rebecca,,Mrs,,,,,,3,60,,,,,,,,5,,35,,,,,,,,,0.14
+Louisa,1866,RFM,1,,5,Anderson,Jesse,,,,1,,1,100,9,120,12,40,9,50,,,,,,100,,,,,,,,,0.86
+Louisa,1866,RFM,1,,6,Armstrong,Frances A,,Mrs,,,,1,50,6,90,7,20,,,,,,,,75,,,,,,,,,0.33
+Louisa,1866,RFM,1,,7,Armstrong,William E,,,,1,,1,70,4,60,,,3,15,,,15,,,50,,,,,,,,,0.38
+Louisa,1866,RFM,1,,8,Armstrong,Virginia M,,Miss,,,,,,2,40,,,2,10,,,,,,50,,,,,,,,,0.14
+Louisa,1866,RFM,1,,9,Armstrong,Elizabeth,,Miss,,,,,,1,20,,,2,10,,,,,,25,,,,,,,,,0.08
+Louisa,1866,RFM,1,,10,Andrews,Ann [?] D,,Mrs,,,,,,,,,,,,1,150,,,,,,,,,,,,,0.21
+Louisa,1866,RFM,1,,11,Austin,Thadeus R,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,12,Austin,Richard H,,,,1,,,,2,50,,,4,20,,,,5,,50,,,,,,,,,0.46
+Louisa,1866,RFM,1,,13,Austin,Riley,,,,1,,1,40,1,20,,,6,20,,,,5,,[40],,,,,,,,,0.46
+Louisa,1866,RFM,1,,14,Aleut[?],David G,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,15,Anderson,Edmund,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,16,Anderson,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,17,Anderson,Cyrus[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,18,Anderson,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,19,Anderson,Andrew,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,20,Anderson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,21,Anderson,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,22,Anderson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,23,Allen,Flemming,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,24,Anderson,Randolph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,25,Anderson,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,26,Anderson,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,27,Anderson,Adam,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,28,Allen,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,29,Allen,William Jr,,Jr,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,30,Anderson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,31,Atkissen[?],Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,32,Baker,William M M,,,,1,,5,300,[14],200,,,15,60,,,,15,150,200,,,,,,,,,1.58
+Louisa,1866,RFM,1,,33,Baker,William M Jr,,Jr,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,1,,34,Baker,William,,,,,,10,700,22,330,12,30,25,75,,,100,10,,200,,,,,,,,,2.02
+Louisa,1866,RFM,1,,35,Baker,Robert M,,,,1,,5,350,5,75,20,50,10,30,2,125,30,,200,100,,,,,,,,,1.63
+Louisa,1866,RFM,2,,1,Baker,Alfred M,,,,1,,4,300,5,50,18,60,,,,,,10,,200,10,,,,1000,,,,2.57
+Louisa,1866,RFM,2,,2,Baker,Joseph M,,,,1,,4,300,14,250,8,20,30,100,1,150,50,5,,200,,,,,5500,,,,9.49
+Louisa,1866,RFM,2,,3,Baker,Bushard W,,,,1,,3,420,6,90,8,20,6,20,1,25,15,5,,100,,,,,,,,,1.75
+Louisa,1866,RFM,2,,4,Baker,James W,,,,1,,2,100,2,50,,,17,50,1,25,,,,75,,,,,,,,,0.7
+Louisa,1866,RFM,2,,5,Baker,Martin,,,,1,,1,50,7,140,7,25,10,50,,,,,,25,,,,,,,,,0.69
+Louisa,1866,RFM,2,,6,Baker,John T [SM],,[SM],,1,,,,2,40,,,3,15,,,,5,,100,,,,,,,,,0.51
+Louisa,1866,RFM,2,,7,Baker,Edwin J,,,,1,,5,250,7,100,,,16,80,1,100,100,5,150,600,,,,,,,,,2.22
+Louisa,1866,Moss,2,,8,Baker ,William H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,9,Butler,Alexander F,,,,1,,4,250,10,150,,,7,30,1,60,60,,,100,,,,,1000,,,,2.59
+Louisa,1866,Moss,2,,10,Butler,Elliot,,,,1,,1,50,6,120,5,15,8,25,1,40,,,,50,,,,,,,,,0.7
+Louisa,1866,Moss,2,,11,Butler,Lewis H,,,,1,,2,100,5,100,8,20,8,30,1,25,,5,,40,,,,,,,,,0.73
+Louisa,1866,Moss,2,,12,Butler,Matthew,,,,1,,,,,,,,6,50,,,,,,50,,,,,,,,,0.42
+Louisa,1866,Moss,2,,13,Butler,David T,,,,1,,1,50,2,40,,,5,20,,,,,,40,,,,,,,,,0.49
+Louisa,1866,Moss,2,,14,Butler,Alexander,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,15,Butler,Wall[er] (SA),,SA,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,16,Boxley,[?]ilas,,,,1,,2,150,10,200,13,40,10,40,,,,,100,50,,,,,,,,,1.11
+Louisa,1866,Moss,2,,17,Boxley,Joseph C,,,,1,,6,400,18,250,,,16,50,1,50,120,5,,300,,,,,,,,,1.93
+Louisa,1866,Moss,2,,18,Boxley,Joseph C Jr,,Jr,,1,,7,400,,,,,,,,,,,,,,,,,,,,,0.84
+Louisa,1866,Moss,2,,19,Boxley,John W,,,,1,,2,150,4,60,,,8,30,,,,10,,100,,,,,,,,,0.87
+Louisa,1866,Moss,2,,20,Boxley,James,,,,1,,5,200,12,180,20,50,14,50,2,200,,5,100,200,,,,,,,,,1.8
+Louisa,1866,Moss,2,,21,Boxley,John C,,,,1,,1,100,2,40,,,,,,,,25,,50,,,,,,,,,.[5]9
+Louisa,1866,Moss,2,,22,Baker,Henry Clay (SWM),,SWM,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,23,Burress,Overton,,,,1,,5,400,11,220,8,20,16,50,1,100,,5,,100,,,,,,,,,1.53
+Louisa,1866,Moss,2,,24,Burress,Overton Jr,,Jr,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,25,Burress,John [S],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,26,B[inn]s,Daniel H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,27,Ballard,Lewis,,,,1,,1,20,2,30,,,5,25,,,,,,50,,,,,,,,,0.46
+Louisa,1866,Moss,2,,28,Boulware,C C R,,,,1,,7,350,6,[9]0,3[4],70,14,50,,,15,,,50,,,,,800,,,,2.28
+Louisa,1866,Moss,2,,29,Barret,Parsons,,,,,,,,1,25,5,15,12,50,,,,,,100,,,,,,,,,0.27
+Louisa,1866,Moss,2,,30,Barret,Thomas D,,,,1,,2,120,2,40,,,5,20,,,,,,50,,,,,,,,,0.61
+Louisa,1866,Moss,2,,31,Barret ,Richard P,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,32,Barret,Alexander M,,,,1,,1,30,1,20,,,10,30,,,,,,200,,,,,,,,,0.68
+Louisa,1866,Moss,2,,33,Barret,John W,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,2,,34,Barrett,Thomas J,,,,1,,2,120,5,100,35,80,20,75,1,100,,5,,50,,,,,,,,,1.03
+Louisa,1866,Moss,2,,35,Barret,Charles,,,,1,,2,150,,,,,5,20,,,,,,,,,,,,,,,0.32
+Louisa,1866,Moss,3,,1,Barret,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,2,Beadles,William W [???],,[?],,,,2,100,2,40,,,4,20,,,,5,,50,,,,,,,,,0.31
+Louisa,1866,Moss,3,,3,Beadles,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,4,Bibb,Elijah,,,,1,,3,200,5,100,,,9,40,,,,5,,150,,,,,,,,,0.98
+Louisa,1866,Moss,3,,5,Bibb,Henry,,,,1,,,,1,25,,,5,25,,,15,,,50,,,,,,,,,0.45
+Louisa,1866,Moss,3,,6,Bibb,Richard G,,,,1,,5,300,13,200,18,40,22,90,2,100,,10,30,300,30,,,,,,,,1.85
+Louisa,1866,Moss,3,,7,Bibb ,Robert T,,,,1,,6,300,12,250,10,25,8,40,1,50,,5,,100,,,,,,,,,1.36
+Louisa,1866,Moss,3,,8,Bibb,Jesse,,,,1,,,,7,100,,,13,50,,,,5,,75,,,,,200,,,,0.89
+Louisa,1866,Moss,3,,9,Bibb,James H,,,,1,,,,3,60,,,5,30,,,,,,50,,,,,,,,,0.48
+Louisa,1866,Moss,3,,10,Bibb,Andrew J,,,,1,,,,,,,,8,50,,,,,,,,,,,,,,,0.35
+Louisa,1866,Moss,3,,11,Bibb,Robert P,,,,1,,1,50,5,75,8,25,6,25,,,,,,100,,,,,,,,,0.67
+Louisa,1866,Moss,3,,12,Bibb,Horace B,,,,1,,5,250,11,170,11,30,31,100,1,50,100,,100,100,,,,,,,,,1.54
+Louisa,1866,Moss,3,,13,Bibb,Henry F,,,,1,,,,2,40,2,10,6,25,,,,5,,50,,,,,,,,,0.47
+Louisa,1866,Moss,3,,14,Bibb,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,15,Bagby,Catharine,,Mrs,,,,3,150,2,40,,,12,40,1,100,,,,100,,,,,,,,,0.61
+Louisa,1866,Moss,3,,16,Bagby,Richard M,,Dr,,1,,4,200,6,120,3,15,23,75,,,,,,100,,,,,,,,,1.14
+Louisa,1866,Moss,3,,17,Bagby,William [?],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,18,Bagby,William,,,,1,,2,100,3,50,,,14,40,,,,,,100,,,,,1000,,,,2.09
+Louisa,1866,Moss,3,,19,Baughm,[?]andy,,,,1,,1,50,3,60,,,,,1,20,,,,50,,,,,,,,,0.54
+Louisa,1866,Moss,3,,20,Bumpass,John T,,Capt,,1,,1,75,8,120,,,9,40,1,40,40,,,100,,,,,,,,,0.87
+Louisa,1866,Moss,3,,21,Bumpass,Henry O,,,,1,,2,125,6,90,9,20,10,40,1,25,50,,,100,,,,,,,,,0.91
+Louisa,1866,Moss,3,,22,Boston,John T,,,,1,,,,,,,,,,,,100,,,,,,,,,,,,0.42
+Louisa,1866,Moss,3,,23,Baker,Alfred M Jr,,Jr,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,24,Branham,H H [?] E A,,Misses,,,,4,300,7,200,6,25,12,75,1,50,,20,,200,50,,,,700,,,,2.27
+Louisa,1866,Moss,3,,25,Br[o]naugh,Thomas,,Capt,,1,,5,250,10,150,7,20,18,70,2,100,,,,125,,,,,,,,,1.29
+Louisa,1866,Moss,3,,26,Biggers,Richard F,,Est,,,,3,225,6,120,8,25,12,40,,,,5,,200,,,,,,,,,0.87
+Louisa,1866,Moss,3,,27,Bellany,James,,,,1,,1,25,3,60,,,,,,,,,,50,,,,,,,,,0.47
+Louisa,1866,Moss,3,,28,Brookes,Thomas J,,,,1,,1,25,2,40,4,15,2,10,,,,5,,75,,,,,,,,,0.52
+Louisa,1866,Moss,3,,29,Boyd,Edwin J,,,,1,,5,300,10,200,15,35,15,60,,,,,200,125,,,,,,,,,1.37
+Louisa,1866,Moss,3,,30,Buckner,B M,,Rev,,,,5,300,8,120,11,20,21,60,1,10,,,,150,,,,,2500,500,,,11.93
+Louisa,1866,Moss,3,,31,Buckner,William M,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,32,Bowles,Richard C,,,,1,,3,120,9,125,11,25,15,50,,,,5,,200,30,,,,600,,,,1.9
+Louisa,1866,Moss,3,,33,Bowles,Thomas,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,3,,34,Bullock,Robert M,,Dr,,1,,3,150,4,80,,,13,40,1,30,25,,,100,40,,,,,,,,0.94
+Louisa,1866,Moss,3,,35,Busick[?],Nathan,,,,1,,,,1,30,,,,,,,15,,,75,,,,,,,,,0.45
+Louisa,1866,Moss,4,,1,Bilbo,Edwin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,2,Buchanan,Thomas,,,,1,,,,,,,,,,,,,,,100,,,,,,,,,0.42
+Louisa,1866,Moss,4,,3,Brockman,John,,,,1,,1,100,1,20,,,,,1,25,,5,,25,,,,,,,,,0.33
+Louisa,1866,Moss,4,,4,Blubaugh,George O,,,,1,,2,150,3,60,,,10,40,,,40,,,,,,,,,,,,0.69
+Louisa,1866,Moss,4,,5,Bell,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,6,Bell,Malinda,,Miss,,,,2,150,4,80,,,5,25,,,,,,50,,,,,,,,,0.43
+Louisa,1866,Moss,4,,7,Beale,Charles W,,Dr,,1,,5,300,13,250,,,12,40,1,30,,10,50,200,,,,,,,,,1.52
+Louisa,1866,Moss,4,,8,Baughn,Richard,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,4,,9,Baughn,James,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,4,,10,Bickers,Garnett R,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,11,Barret[?],Robert S,,Dr,,1,,1,50,3,60,,,,,,,50,,,50,,,,,,,,,0.58
+Louisa,1866,Moss,4,,12,Bonavila,Francis M,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,13,Beadles,James M ,,(SWW),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,14,Beadles,George W,,(SWW),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,15,Bragg,Samuel,,,,1,,,,1,25,,,,,,,,,,75,,,,,,,,,0.42
+Louisa,1866,Moss,4,,16,Boxley,Julian,,,,1,,1,50,,,,,,,,,,,,,,,,,,,,,0.35
+Louisa,1866,Moss,4,,17,Boyd,Thomas N,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,18,Boxley,Edward,,,,1,,,,,,,,,,,,,,,50,,,,,,,,,0.35
+Louisa,1866,Moss,4,,19,Brady,Michael M,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,20,Blackburn,William [?],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,21,Baker,Martin,,,,1,,,,,,,,,,,,,,,125,,,,,,,,,0.46
+Louisa,1866,Moss,4,,22,Bagby,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,23,Bullock,Edmund,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,24,Baker,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,25,Baker,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,26,Boxley,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,27,Boykin,Moses,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,28,Brown,Armistead,,,,,1,,,1,25,,,,,,,,,,75,,,,,,,,,0.42
+Louisa,1866,Moss,4,,29,Bird,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,30,Boxley,Gabriel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,31,Brown,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,32,Brookes,Frederick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,33,Brockman,Jacob,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,34,Buckner,[Kie],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,4,,35,Bullock,Watson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,1,Bullock,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,2,Bibb,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,3,Banks,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,4,Bentley,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,5,Bu[nuss],All[ry],,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,6,Brown,Milton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,7,Braxton,Patrick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,8,Burnley[?],[L]ucian,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,9,Bohanon,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,10,Barret,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,11,Baker,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,12,Bullock,Jacob,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,13,Boxley,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,14,Boxley,Horace,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,15,Boxley,Isaac,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,16,Barbour,Fontaine[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,17,Barbour,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,18,Bibb,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,19,Barret,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,20,Bibb,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,21,Brown,Edmund,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,22,Biggers,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,23,Bird,Braxton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,24,Boulware,Bonaparte,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,25,Boulware,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,26,Boulware,Anderson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,27,Brown,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,28,Bruce,Jeffry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,29,Boyd,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,30,Barret,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,31,Bibb,Isaac,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,32,Bibb,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,33,Brown,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,34,Brown,Lynn[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,5,*RIGHT SIDE PAGE MISSING,35,Beadles,Jerry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,6,,1,Barbour,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,2,Bates,Benjamin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,3,Briggs,Albert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,4,Brookes,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,5,Barret,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,6,Boxley,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,7,Boykin,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,8,Boykin,Anthony,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,9,Bu[nuss],Patrick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,10,Brown,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,11,Boykin,Moses,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,12,Bohanah,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,13,Brown,Berry[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,14,Butler,Pel[h]am,,,,,1,2,150,1,25,,,,,,,,,,50,,,,,,,,,0.6
+Louisa,1866,Moss,6,,15,Boykin,Gilbert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,16,Banks,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,17,Burner[?],Aaron,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,18,Burns,Michael,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,19,Crebs,John C,,,,1,,,,2,40,,,1,10,,,,,,50,,,,,,,,,0.42
+Louisa,1866,Moss,6,,20,Cooke,John [?],,,,1,,1,25,1,25,,,7,25,1,25,,,,50,,,,,,,,,0.49
+Louisa,1866,Moss,6,,21,Cooke,Andrew B ,,Est,,,,2,100,4,80,,,10,40,1,15,,5,,50,,,,,,,,,0.41
+Louisa,1866,Moss,6,,22,Cooke,George H,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,6,,23,Cooke,George W,,,,1,,,,2,40,,,,,1,25,20,5,,100,,,,,,,,,0.55
+Louisa,1866,Moss,6,,24,Cooke,Alexander B,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,6,,25,Chick,John R,,,,1,,3,300,4,60,[9],20,12,40,1,50,,5,,100,,,,,,,,,1.08
+Louisa,1866,Moss,6,,26,Chiles,Henry,,,,1,,5,375,8,160,11,40,17,60,,,,,,,,,,,,,,,1.17
+Louisa,1866,Moss,6,,27,Carpenter,Cai[ns] M,,,,1,,4,300,12,180,11,25,25,75,2,250,,5,200,100,,,,,,,,,1.87
+Louisa,1866,Moss,6,,28,Carpenter,Sy[d]ia,,Miss,,,,,,,,,,,,,,,,,,,,,,1000,,,,1.4
+Louisa,1866,Moss,6,,29,Carpenter,John B,,,,1,,2,100,4,80,,,7,25,1,40,,,,75,,,,,,,,,0.73
+Louisa,1866,Moss,6,,30,Collins,John S,,,,1,,4,400,16,400,25,60,17,70,1,100,,10,,300,50,,,,,,,,2.23
+Louisa,1866,Moss,6,,31,Carter,John,,,,1,,1,100,3,60,,,5,20,,,,,,150,,,,,,,,,0.75
+Louisa,1866,Moss,6,,32,Carter,Ann C + Sisters,,Miss,,,,,,1,30,,,,,,,,,,70,,,,,,,,,0.14
+Louisa,1866,Moss,6,,33,Carter,William S,,,,1,,4,400,18,300,14,50,24,100,1,15,,5,150,200,,,,,,,,,1.99
+Louisa,1866,Moss,6,,34,Crawford,N H,,Dr,,1,,2,125,9,270,20,40,13,65,,,,30,,100,,,,,,,,,1.17
+Louisa,1866,Moss,6,,35,Claybrooke,James O,,,,1,,8,400,22,400,23,60,16,80,1,400,,10,,500,,,,,,,,,2.87
+Louisa,1866,Moss,7,,1,Coates,John B,,,,1,,1,40,4,80,,,,,1,60,,5,,100,,,,,,,,,0.68
+Louisa,1866,Moss,7,,2,Coates,John S,,,,1,,1,25,1,20,,,,,1,40,,,,25,,,,,,,,,0.44
+Louisa,1866,Moss,7,,3,Coates ,Addison T,,,,1,,3,150,10,150,8,20,18,50,1,200,,5,,250,,,,,,,,,1.44
+Louisa,1866,Moss,7,,4,Cosby,Credelia G,,Mrs,,,,10,500,10,150,,,18,50,2,100,,,,200,,,,,1000,,,,2.8
+Louisa,1866,Moss,7,,5,Cosby,Thomas W,,,,1,,,,,,,,,,,,50,,,,,,,,1000,,,,1.75
+Louisa,1866,Moss,7,,6,Cosby,Robert S,,,,1,,3,200,12,200,14,30,10,50,1,25,,5,,150,,,,,,,,,1.21
+Louisa,1866,Moss,7,,7,Cosby,Joseph T,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,8,Cosby ,Chalres T,,,,1,,3,150,9,120,8,20,10,40,1,25,,,,50,,,,,,,,,0.85
+Louisa,1866,Moss,7,,9,Chambers,Hardin,,,,,,,,5,100,9,30,,,,,,,,60,,,,,,,,,0.55
+Louisa,1866,Moss,7,,10,Chewning,Reubin T,,,,1,,4,250,7,140,9,30,14,70,1,90,,5,,150,,,,,,,,,1.31
+Louisa,1866,Moss,7,,11,Chewning,Benjamin T,,,,1,,1,75,,,,,,,1,75,40,,,,,,,,,,,,0.55
+Louisa,1866,Moss,7,,12,Chewning ,G[eorge] W,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,13,Chewning,William H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,14,Chewning,James W,,,,1,,2,150,2,40,,,5,20,,,,,,50,,,,,,,,,0.65
+Louisa,1866,Moss,7,,15,Coleman,Clayton G,,Genl,,1,,9,800,30,600,17,50,10,30,1,100,70,10,,2000,200,,,,,,3800,,24.69
+Louisa,1866,Moss,7,,16,Coleman,John J,,(SC[G]),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,17,Coleman,William F ,,(SC[G]),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,18,Cocke,William B,,,,1,,3,150,3,60,,,12,50,1,30,,,100,75,,,,,,,,,0.94
+Louisa,1866,Moss,7,,19,Cocke,Thomas E,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,20,Cullen ,Hugh,,,,1,,,,2,40,,,5,20,,,,5,,100,,,,,,,,,0.52
+Louisa,1866,Moss,7,,21,Cowherd,Jonathan T,,,,1,,6,350,14,170,15,30,14,50,1,150,100,5,,250,,,,,5000,,,,8.83
+Louisa,1866,Moss,7,,22,Cowherd,Edward,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,23,Campbell,John,,,,1,,3,150,5,75,,,5,50,,,,,,100,,,,,,,,,0.81
+Louisa,1866,Moss,7,,24,Crafton,William T,,,,1,,1,40,4,80,,,,,,,,5,,50,,,,,,,,,0.53
+Louisa,1866,Moss,7,,25,Conner,Paul W,,,,1,,,,1,25,,,2,15,,,25,,,200,,,,,,,,,0.66
+Louisa,1866,Moss,7,,26,Conner,Susan F,,,,,,,,,,,,,,,,,10,,,,,,,250,,,,0.37
+Louisa,1866,Moss,7,,27,Christmas,William J,,,,1,,1,100,,,,,[3],20,,,,5,,50,,,,,,,,,0.53
+Louisa,1866,Moss,7,,28,Christmas,Charles N,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,29,Camblin,William,,,,1,,2,100,6,100,,,10,40,,,,,,20,,,,,,,,,0.65
+Louisa,1866,Moss,7,,30,Cox,Abner,,,,1,,2,120,4,80,,,8,50,,,,,,20,,,,,,,,,0.66
+Louisa,1866,Moss,7,,31,Ca[v]e,Wallace S,,,,1,,5,200,11,160,20,40,20,100,1,30,,5,,40,,,,,,,575,,3.97
+Louisa,1866,Moss,7,,32,Curtis,Thomas A,,,,1,,1,100,1,20,,,12,50,1,50,,5,,300,,,,,,,,,1.02
+Louisa,1866,Moss,7,,33,Carter,Robert W,,(SW[S]),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,34,Carter,Charles H,,(SW[S]),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,7,,35,Chandler,Henry H,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,8,*PAGE MISSING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,9,,1,Dickinson,Robert P,,(SC[?]),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,2,Dickinson,John F,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,ink smudge over cattle count,3,Dickinson,Ralph N,,,,1,,3,225,[12],180,12,40,12,40,,,15,5,,100,,,,,200,,,,1.41
+Louisa,1866,Moss,9,,4,Duke,Garland,,,,1,,4,200,14,280,14,40,30,120,1,200,,5,,150,,,,,,,,,1.68
+Louisa,1866,Moss,9,,5,Duke,Harden S,,,,1,,2,80,6,120,,,16,50,1,100,,,,150,,,,,,,,,0.98
+Louisa,1866,Moss,9,,6,Duke,George W,,,,1,,2,80,5,75,,,12,75,,,10,5,,50,,,,,,,,,0.7
+Louisa,1866,Moss,9,,7,Duke,Patrick H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,8,Duke,William G,,,,1,,2,130,7,150,,,18,70,,,,5,,100,,,,,,,,,0.95
+Louisa,1866,Moss,9,,9,Duke,Edwin P,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,10,Durvin,William A,,,,1,,3,225,4,80,,,10,40,,,,5,,75,,,,,,,,,0.88
+Louisa,1866,Moss,9,,11,Davis,Reubin B,,,,1,,6,250,13,200,14,30,7,30,1,50,50,,,,,,,,8000,,,,12.34
+Louisa,1866,Moss,9,,12,Dunn,Thomas R,,Rev,,,,3,225,4,60,,,16,50,,,,5,,150,,,,,,,,,0.69
+Louisa,1866,Moss,9,,13,Dunn ,Benjamin [T],,Dr,,1,,3,225,5,100,7,25,16,80,1,50,,,,100,,,,,,,,,1.1
+Louisa,1866,Moss,9,,14,Dunn,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,15,Darnall,Nelson,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,16,Dalton,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,17,Dunn[augh],Stephen,,,,1,,3,120,5,100,,,20,80,1,25,,,,100,,,,,,,,,0.88
+Louisa,1866,Moss,9,,18,Deals,Nathaniel,,,,1,,1,75,2,40,,,2,10,,,10,,,25,,,,,,,,,0.51
+Louisa,1866,Moss,9,,19,Dunnahoe,Charles,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,20,Da[n]ne,Charles,,,,1,,1,75,1,30,,,6,20,,,,,,50,,,,,,,,,0.53
+Louisa,1866,Moss,9,,21,Dodd,Joseph H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,22,Dunnaway,[Euliurd],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,23,Duke,Jab[ey] F,,(SHS),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,24,Dade,Henry F,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,25,Daniel,John M,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,9,,26,Dunn,William G,,,,1,,,,4,100,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,9,,27,Danne,Charles,,Jr (SC),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,28,Duke,Suther,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,Moss,9,,29,Dandridge,Sp[???????],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,30,Dickinson ,Ballard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,31,Dickinson,Nelson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,32,Dabney,Anderson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,33,Dennis,David,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,34,Dickinson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,9,,35,Dickinson,Anderson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,1,Davis,Anderson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,2,Dickinson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,3,Dickinson,Overton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,4,Dickinson,Anderson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,5,Do[s]nell,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,6,Dickinson,Thomas H.,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,7,Dickinson,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,8,Davis,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,9,Danne,Arthur,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,10,Dunnings,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,11,Dournings,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,12,Dournings,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,13,Dickinson,Nelson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,14,Diggs,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,15,Dandridge,Malcom,,,,,1,2,100,,,,,5,20,,,50,,,50,,,,,,,,,0.59
+Louisa,1866,RFM,10,,16,Davidson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,17,Du[c]t,Roubi[n],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,18,Daniel,Wiliam,,,,,1,1,100,3,50,,,9,50,,,,10,,50,,,,,,,,,0.65
+Louisa,1866,RFM,10,,19,Edwards,Howard B.,,Est.,,,,2,100,2,40,,,5,25,,,,,,50,,,,,,,,,0.31
+Louisa,1866,RFM,10,,20,Eetes,M[in]wood,,,,1,,1,50,1,30,,,,,,,,,,50,,,,,,,,,0.47
+Louisa,1866,RFM,10,,21,Eetes,Joel,,,,1,,1,50,3,50,,,20,70,,,,,,50,,,,,,,,,0.39
+Louisa,1866,RFM,10,,22,Eetes,Abram,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,23,Eaton,Edmond N.,,,,1,,2,150,6,120,5,10,13,50,,,,,,75,,,,,,,,,0.85
+Louisa,1866,RFM,10,,24,Ely,Thomas W.,,,,1,,1,50,1,20,,,,,,,,,,,,,,,,,,,0.38
+Louisa,1866,RFM,10,,25,Edmonds,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,26,Ellis,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,27,E[rtis],Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,28,Ellis,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,29,E[--]dins,Randall,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,30,Eastin,Andrew,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,31,Eastin,Harrison,,,,,1,,,1,30,,,,,,,,10,,60,,,,,,,,,0.42
+Louisa,1866,RFM,10,,32,Emmis,Armistead,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,10,,33,Fisher,Sancelot,,,,1,,1,50,2,50,,,,,,,,,,50,,,,,,,,,0.69
+Louisa,1866,RFM,10,,34,Fisher,William,,,,1,,1,50,2,50,,,5,20,,,,,,40,,,,,,,,,0.31
+Louisa,1866,RFM,10,,35,Hemming,Bentley,,,,1,,1,75,5,100,,,1,10,,,,,,50,,,,,,,,,0.61
+Louisa,1866,RFM,11,,1,Fortune,Joseph,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,2,Fielding,James,,,,1,,2,150,2,40,,,5,20,,,,5,,100,,,,,,,,,0.73
+Louisa,1866,RFM,11,,3,Fleeman,Lorenzo D.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,4,Francis,Lewis,,,,1,,1,50,1,30,,,,,,,,10,,50,,,,,,,,,0.48
+Louisa,1866,RFM,11,,5,Faulconer,George,,,,1,,3,200,4,100,,,2,10,,,,,,50,,,,,,,,,0.79
+Louisa,1866,RFM,11,,6,Fielding,Samuel D. (S.J.),,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,7,Foster,John C.,,,,1,,,,3,50,,,7,30,,,10,5,,50,,,,,,,,,0.48
+Louisa,1866,RFM,11,,8,Floyd,J. Wallker,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,9,Freeman,Jordan,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,10,Foster,Stephen,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,11,Foster,Isaac,,,,,1,1,50,2,50,,,5,20,,,,,,40,,,,,,,,,0.51
+Louisa,1866,RFM,11,,12,Fontaine,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,13,Fox,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,14,Francisco,Americus,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,15,Francisco,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,16,F[u]rg[er]son,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,17,Fox,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,18,Gunter,James S.,,,,1,,3,150,12,180,4,10,25,75,1,75,,10,,200,,,,,,,,,1.26
+Louisa,1866,RFM,11,,19,Gunter,D. Enos J.,,,,1,,2,100,11,160,,,12,40,,,,5,,200,,,,,,,,,0.99
+Louisa,1866,RFM,11,,20,Garrett,Alexander & John,,,,,,5,400,13,200,7,20,20,100,2,100,,,,200,,,,,,,,,1.43
+Louisa,1866,RFM,11,,21,Garrett,Ashton N.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,22,Garrett,Henry,,Jr.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,23,Garrett,George A.,,,,1,,1,50,2,40,,,3,10,,,,,,50,,,,,,,,,0.49
+Louisa,1866,RFM,11,,24,Gibson,George,,,,1,,3,200,7,150,14,30,20,100,,,,,,100,,,,,,,,,1.1
+Louisa,1866,RFM,11,,25,Gibson,Martha J.,,Mrs.,,,,1,100,1,30,,,4,15,,,,,,50,,,,,,,,,0.28
+Louisa,1866,RFM,11,,26,Gibson,Thomas,,,,1,,,,2,40,,,,,,,,,,60,,,,,,,,,0.42
+Louisa,1866,RFM,11,,27,Gibson,Henry F.,,Est.,,,,,,1,35,,,2,10,,,,,,50,,,,,,,,,0.12
+Louisa,1866,RFM,11,,28,Gibson,John F.,,,,1,,,,3,50,,,14,40,,,,5,,80,,,,,,,,,0.53
+Louisa,1866,RFM,11,,29,Gibson,William,,,,1,,,,2,60,,,9,40,,,,,,50,,,,,,,,,0.49
+Louisa,1866,RFM,11,,30,Gibson,Or[igim],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,11,,31,Gibson,Eve[r]lina,,Miss,,,,,,,,,,,,,,,,,,,,,,,,,,1.96
+Louisa,1866,RFM,11,,32,Gibson,John N.,,,,1,,1,40,2,30,,,9,30,1,50,,5,,50,,,,,,,,,0.57
+Louisa,1866,RFM,11,,33,Garrett,William A.,,,,1,,3,225,8,120,,,11,50,1,50,,,,100,,,,,,,,,1.04
+Louisa,1866,RFM,11,,34,Garrett,William,,,,1,,5,350,27,300,16,40,26,80,2,150,50,5,,150,,,,,,,,,1.86
+Louisa,1866,RFM,11,,35,Green,William W.,,,,1,,2,100,3,60,,,,,,,,,,50,,,,,,,,,0.58
+,,,12,,1,Gooch,Younger[?],,,,1,,,,2,50,,,5,20,,,,,,50,,,,,,,,,0.45
+Louisa,1866,RFM,12,,2,Gooch,Robert T.,,,,1,,3,300,2,40,,,6,20,1,150,,5,150,400,,,,,3000,,,,5.98
+Louisa,1866,RFM,12,,3,Gooch,Elizabeth,Mrs,,,,,4,200,16,175,8,20,26,60,1,40,,5,,150,,,,,,,,,0.91
+Louisa,1866,RFM,12,,4,Gooch,James R.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,12,,5,Gooch,Stapleton D.,,,,1,,6,450,17,250,,,49,150,,,200,,,25,,,,,,,,,1.79
+Louisa,1866,RFM,12,,6,Goodwin,Robert,,,,1,,4,400,20,350,,,38,125,1,175,20,,200,300,50,,,,,,,,2.55
+Louisa,1866,RFM,12,,7,Goodwin,Semple,,,,1,,3,150,8,100,12,25,10,30,,,,,,50,,,,,,,,,0.78
+Louisa,1866,RFM,12,,8,Goodwin,Anthony S.,,,,1,,2,100,4,60,,,,,1,50,50,,,40,,,,,,,,,0.7
+Louisa,1866,RFM,12,,9,Goodwin,James R.,,,,1,,5,500,10,150,5,10,20,50,2,100,,,125,250,,,,,,,,,1.94
+Louisa,1866,RFM,12,,10,Goodwin,Charles [S.],,,,1,,6,450,20,300,11,30,33,130,,,,10,,250,,,,,4000,,,,7.52
+Louisa,1866,RFM,12,,11,Goodwin,Frances J.,,Mrs.,,,,5,250,13,225,23,50,20,60,1,100,50,25,,150,,,,,,,,,1.28
+Louisa,1866,RFM,12,,12,Goodwin,William H.,,,,1,,2,80,14,225,12,25,8,40,1,50,40,,,125,,,,,500,,,,1.8
+Louisa,1866,RFM,12,,13,Goodwin,Andrew J.,,,,1,,4,250,12,150,,,22,75,1,25,25,,,125,,,,,,,,,1.19
+Louisa,1866,RFM,12,,14,Goodwin,John C. B.,,,,1,,1,100,,,,,,,,,25,,,,,,,,,,,,0.46
+Louisa,1866,RFM,12,,15,Goodwin,Edmund P.,,Dr.,,1,,6,300,5,75,5,10,15,40,2,75,25,,,50,,,,,,,,,1.09
+Louisa,1866,RFM,12,,16,Garland,Clover + sister,,Miss,,,,5,300,11,275,21,60,13,70,1,100,120,25,,700,50,,,,6000,,,,10.78
+Louisa,1866,RFM,12,,17,Grady,George W.,,,,1,,1,50,2,40,,,1,10,,,,5,,100,,,,,,,,,0.57
+Louisa,1866,RFM,12,,18,Grady,William E[?],,,,,,1,50,1,25,,,,,,,,5,,50,,,,,,,,,0.19
+Louisa,1866,RFM,12,,19,Gillian,Jacqueline D.,,,,1,,1,30,12,180,,,5,30,,,,,,100,,,,,,,,,0.76
+Louisa,1866,RFM,12,,20,Gillian,Iva[?] S.,,,,1,,1,120,8,120,,,3,40,,,,,,100,,,,,,,,,0.82
+Louisa,1866,RFM,12,,21,Gentry,Robert H. ,,,,1,,,,1,30,,,1,5,,,,,,65,,,,,,,,,0.42
+Louisa,1866,RFM,12,,22,Gentry,Austin,,,,1,,2,100,3,50,,,1,5,,,,,,40,,,,,,,,,0.56
+Louisa,1866,RFM,12,,23,Gentry,Abner,,SA,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,12,,24,Gentry,Addison T.,,,,1,,3,150,5,100,13,30,5,20,2,75,,,,100,,,,,,,,,0.95
+Louisa,1866,RFM,12,,25,Graves,John R.,,,,1,,3,180,10,200,12,30,10,50,1,25,,,,50,,,,,1000,,,,2.43
+Louisa,1866,RFM,12,,26,Gillespie,William A.,,Dr.,,1,,10,500,35,500,45,100,30,100,2,150,50,10,100,300,40,,,,,,,,2.87
+Louisa,1866,RFM,12,,27,Gillespie,James H.,,Dr.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,12,,28,Goodman,Charles G.,,,,1,,8,400,12,180,,,25,40,1,75,50,5,,150,..,,,,,,,,1.54
+Louisa,1866,RFM,12,,29,Goodman,George A.,,Col,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,12,,30,Gardener,John B.,,Dr.,,1,,2,140,3,90,,,,,,,20,10,,100,,,,,,,,,0.79
+Louisa,1866,RFM,12,,31,Gardener,Miles H.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,12,,32,Gregory,Thomas N,,,,1,,,,1,20,,,1,15,,,,5,,40,,,,,,,,,0.4
+Louisa,1866,RFM,12,,33,Graves,John Q.,,,,1,,1,50,4,60,,,5,20,,,50,,,50,,,,,,,,,0.61
+Louisa,1866,RFM,12,,34,Graham,Pierce N.,,,,1,,1,75,,,,,6,25,,,,5,,50,,,,,,,,,0.5
+Louisa,1866,RFM,12,,35,Gardener,James M.,,,,1,,1,50,1,25,,,3,15,,,,,,25,,,,,,,,,0.45
+Louisa,1866,RFM,13,,1,Goodwin,Joseph B.,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,13,,2,Groom,John Q.,,SWW,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,3,Goodwin,Thornton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,4,Goodwin,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,5,Goodwin,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,6,Gooch,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,7,Goodwin,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,8,Gardener,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,9,Gray,Anthony,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,10,Gunter,Alfred,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,11,Green,Wilson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,12,Graves,P. Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,13,Gooch,Caswell,,,,,1,2,200,1,25,2,5,11,30,,,,5,,50,,,,,,,,,0.75
+Louisa,1866,RFM,13,,14,Guy,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,15,Green,Ellis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,16,Green,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,17,Garrett,Jackson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,18,Gillian,Coleman,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,19,Goodwin,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,20,Green,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,21,Gordon,Ralph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,22,Green,Hunter,,,,,1,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,13,,23,Gooch,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,24,Gillespie,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,25,Garrison,Edward,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,26,Green,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,27,Garrett,Abram,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,28,Gooch,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,29,Goodwin,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,30,Groom,Albert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,31,Goodwin,Isaac,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,32,Goodwin,Abram,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,33,Graves,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,34,Goodwin,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,13,,35,Goodwin,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,1,Gatewood,Reubin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,2,Gordon,Wilson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,3,Grady,Timothy F.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,4,Gibson,Joshua F.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,5,Gibson,Granville[?],,SG,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,6,Gentry,Charles H.,,SRH,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,7,Gibson,Churchwell,,SW,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,8,Gentry,Robert D.,,SRH,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,9,Harris,Henry,,,,1,,5,300,21,300,36,120,37,100,2,100,20,5,,300,,,,,150,,,,2.24
+Louisa,1866,RFM,14,,10,Harris,Nathaniel W.,,,,1,,10,600,30,500,50,100,30,90,2,150,150,5,125,500,,,,,,,,,3.11
+Louisa,1866,RFM,14,,11,Harris,Fredrick S.,,,,,,,,,,,,,,1,50,100,,,50,,,,,4200,,,,6.16
+Louisa,1866,RFM,14,,12,Harris,Sarah S.,,Miss,,,,,,,,,,,,,,,,,,,,,,8000,,,,11.2
+Louisa,1866,RFM,14,,13,Harris,William W.,,,,1,,1,30,2,60,3,10,,,,,,,,40,,,,,,,,,0.48
+Louisa,1866,RFM,14,,14,Harris,William H.,,,,1,,1,50,2,40,,,10,40,,,,,,50,,,,,,,,,0.54
+Louisa,1866,RFM,14,,15,Harris,Thomas S.,,SC,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,16,Harris,William,,SC,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,17,Harris,James O.,,SC,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,18,Harris,Mercer,,SC,,1,,1,50,2,40,,,5,20,,,,,,50,,,,,,,,,0.51
+Louisa,1866,RFM,14,,19,Harris,Thomas,,SH,,1,,3,200,6,100,7,20,8,30,1,25,,5,100,100,,,,,,,,,1.1
+Louisa,1866,RFM,14,,20,Harris,Thomas H.,,ST,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,21,Harris,Henry H. ,,,,1,,1,50,1,25,,,,,,,,,,25,,,,,,,,,0.42
+Louisa,1866,RFM,14,,22,Harris,John O.,,,,1,,,,4,60,,,10,30,,,,,25,50,,,,,,,,,0.52
+Louisa,1866,RFM,14,,23,Harris,John J.,,SJO,,1,,1,40,1,20,,,,,,,,,,,,,,,,,,,0.37
+Louisa,1866,RFM,14,,24,Harris,John R.,,Dr.,,1,,1,80,1,25,,,,,,,,,,25,,,,,,,,,0.47
+Louisa,1866,RFM,14,,25,Harris,Lewis M,,,,1,,4,250,3,60,,,11,35,1,25,,,,100,,,,,,,,,0.94
+Louisa,1866,RFM,14,,26,Harris,George W.,,,,1,,2,150,5,100,10,30,15,45,,,,,,200,,,,,,,,,1.02
+Louisa,1866,RFM,14,,27,Harris,George,,,,1,,,,,,,,2,25,,,,,,50,,,,,,,,,0.39
+Louisa,1866,RFM,14,,28,Harris,Thomas B.,,,,1,,1,30,7,140,,,20,50,1,50,,,,125,,,,,1000,,,,2.24
+Louisa,1866,RFM,14,,29,Harris,Samuel C.,,,,1,,3,150,5,100,10,25,7,30,,,,,,50,,,,,,,,,0.78
+Louisa,1866,RFM,14,,30,Harris,Elias T.,,,,1,,1,75,5,10,14,30,8,40,,,,5,,100,,,,,,,,,0.77
+Louisa,1866,RFM,14,,31,Holladay,Sarah K.,,Mrs.,,,,5,250,13,250,10,25,12,25,2,300,,5,200,300,,,,,,,,,1.9
+Louisa,1866,RFM,14,,32,Hunter,John,,,,1,3,2,150,15,150,,,20,150,1,150,50,,100,400,20,,,,,,,,2.76
+Louisa,1866,RFM,14,Line drawn connecting lines 33 & 32,33,,Ex[??] David H Pendelton ,,Est.,,,,,,,,,,,,,,,,,,,,,,3000,,,,4.2
+Louisa,1866,RFM,14,,34,Hunter,John,,Jr.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,14,,35,Hawkins,E. P.,,Rev.,,,,12,900,10,250,15,40,20,75,1,25,15,5,,150,,,,,1500,300,500,,24.15
+Louisa,1866,RFM,15,,1,Hester,Robert,,,,1,,2,150,3,60,,,3,15,,,,,,25,,,,,,,,,0.63
+Louisa,1866,RFM,15,,2,Hester,G. T. B.,,Capt. Est.,,,,2,100,5,100,14,40,15,60,1,20,,5,,100,,,,,,,,,0.6
+Louisa,1866,RFM,15,,3,Hester,Joseph S.,,,,1,,3,225,4,80,,,30,60,,,,,,100,,,,,,,,,0.94
+Louisa,1866,RFM,15,,4,Hester,John W.,,,,1,,2,50,8,150,,,,,,,,,,100,,,,,,,,,0.7
+Louisa,1866,RFM,15,,5,Hester,Benjamin H.,,,,1,,,,,,,,,,,,,,,25,,,,,,,,,0.32
+Louisa,1866,RFM,15,,6,Hester,William P.,,,,1,,1,40,,,,,,,,,,,,,,,,,,,,,0.34
+Louisa,1866,RFM,15,,7,Hester ,James H.,,,,1,,2,100,,,,,12,50,,,,,,75,,,,,,,,,0.6
+Louisa,1866,RFM,15,,8,Hester,John T.,,,,1,,,,4,100,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,15,,9,Hall,Benjamin Melton[?],,,,1,,1,25,2,40,,,4,15,,,,,,25,,,,,,,,,0.43
+Louisa,1866,RFM,15,,10,Hall,Eli M.,,,,1,,4,300,6,90,6,15,4,20,1,15,,5,,100,,,,,,,,,1.04
+Louisa,1866,RFM,15,,11,Hall,Mary H.,,Mrs.,,,,,,2,50,,,,,,,,,,50,,,,,,,,,0.14
+Louisa,1866,RFM,15,,12,Hall,Sim[eon],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,13,Hall,Watson,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,14,Hall,James T.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,15,Hall,Benjamin F.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,16,Hall,Thomas,,,,1,,2,150,1,20,9,20,13,30,1,20,,,,75,,,,,,,,,0.75
+Louisa,1866,RFM,15,,17,Hall,Richard G.,,,,1,,,,1,20,,,,,,,,,,30,,,,,,,,,0.35
+Louisa,1866,RFM,15,,18,Hart,James,,Col.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,19,Hart,Jesse B.,,,,1,,3,180,4,80,14,40,8,30,1,50,,5,,40,40,,,,,,,,0.94
+Louisa,1866,RFM,15,,20,Hart,Robert,,,,1,,2,100,6,120,,,21,100,,,,,150,75,,,,,,,,,1.04
+Louisa,1866,RFM,15,,21,Hiles[?],William Y.,,,,1,,4,200,10,150,20,80,2,50,,,,,,150,,,,,,,,,1.17
+Louisa,1866,RFM,15,,22,Hiles[?],Peter,,SWY,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,23,Hiles[?],Hugh G.,,,,1,,5,400,16,300,7,20,20,60,2,100,,,150,100,,,,,,,,,1.87
+Louisa,1866,RFM,15,,24,Hiles[?],James,,,,1,,1,50,,,,,,,,,,,,125,,,,,,,,,0.53
+Louisa,1866,RFM,15,,25,Hambleton,William O. M.,,,,1,,1,50,4,50,,,7,25,,,,,,60,,,,,,,,,0.54
+Louisa,1866,RFM,15,,26,Hambleton,Alexander C.,,,,1,,,,1,30,,,1,10,,,,,,60,,,,,,,,,0.42
+Louisa,1866,RFM,15,,27,Hambleton,Nancy,,Mrs.,,,,,,2,60,,,6,25,,,,5,,50,,,,,,,,,0.2
+Louisa,1866,RFM,15,,28,Hambleton,Benjamin M.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,29,Hambleton,James P.,,,,1,,1,100,1,20,,,,,,,,,,,,,,,,,,,0.45
+Louisa,1866,RFM,15,,30,Harper,John J.,,,,1,,2,150,8,100,9,20,10,30,,,,,,100,,,,,,,,,0.84
+Louisa,1866,RFM,15,,31,Harper,George W.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,32,Harper,Martha Ann,,Mrs.,,,,2,150,12,200,9,25,19,100,1,100,,5,,150,,,,,,,,,1.02
+Louisa,1866,RFM,15,,33,Harper,James M.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,15,,34,Hancock,John,,Est.,,,,4,300,9,180,3,10,15,40,1,50,,5,,150,,,,,1000,,,,2.43
+Louisa,1866,RFM,15,,35,Hancock,James M.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,1,Hancock,Horatio P.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,2,Hancock,Augustine,,,,1,,4,250,8,160,6,15,20,100,,,,5,,100,,,,,,,,,1.17
+Louisa,1866,RFM,16,,3,Hancock,Elias A.,,,,1,,,,,,,,,,,,100,,,,,,,,,,,,0.42
+Louisa,1866,RFM,16,,4,Hancock,Phillip B.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,5,Henshaw,Mary,,Mrs.,,,,1,50,2,30,,,6,20,,,,10,,50,,,,,,,,,0.23
+Louisa,1866,RFM,16,,6,Henshaw,Albert G.,,,,,,1,50,2,30,,,5,20,,,,,,50,,,,,,,,,0.21
+Louisa,1866,RFM,16,,7,Henshaw,Pleasant J.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,8,Haynes,Garland,,,,1,,1,40,4,40,3,10,,,,,,5,,70,,,,,,,,,0.52
+Louisa,1866,RFM,16,,9,Haynes,Benjamin F.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,"""x"" marked next to row number",10,Hope,Matthew A.,,,,1,,12,720,17,205,14,35,34,68,1,50,,,100,200,,,,,,,,,2.21
+Louisa,1866,RFM,16,,11,Harlow,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,12,Harlow,Shelton,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,13,Hillman,John A.,,,,1,,2,150,8,120,,,12,50,,,,5,,25,,,,,,,,,0.77
+Louisa,1866,RFM,16,,14,Hill,William P.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,15,Hundley,John W.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,16,Haley,Littleberry J. ,,Rev.,,,,3,250,6,90,3,10,3,20,1,40,75,,,100,,,,,,,,,0.82
+Louisa,1866,RFM,16,,17,Harris,Garland J.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,18,Hall,Elridge A.,,,,1,,,,1,20,,,2,10,,,,,,20,,,,,,,,,0.35
+Louisa,1866,RFM,16,,19,Harris,Richmond S.,,SC,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,20,Hawkins,[+] Graham,,,,,,,,,,,,,,,,,,,,,,,,,,,,1.12
+Louisa,1866,RFM,16,,21,Hawkins,Sarah E.,,Mrs.,,,,2,125,6,200,,,,,,,50,,,100,,,,,800,,,,0.67
+Louisa,1866,RFM,16,,22,Hughson,Frederick,,,,1,,2,200,2,50,,,,,,,,,,50,,,,,500,,,,1.4
+Louisa,1866,RFM,16,,23,Harris,James W.,,SHH,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,24,Harris,Abner,,,,1,,1,100,,,,,,,,,50,,,,,,,,,,,,0.49
+Louisa,1866,RFM,16,,25,Harris,Jerry M.,,SH,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,16,,26,Harris,John C.,,,,1,,4,200,10,150,17,45,14,60,,,,,,125,,,,,50,,,,1.17
+Louisa,1866,RFM,16,,27,Henry,Patrick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,28,Holmes,Anthony,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,29,Henderson,Jackson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,30,Harper,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,31,Harper,Thornton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,32,Harris,Overton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,33,Hiles[?],John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,34,Holeman,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,16,,35,Hembry,Thornton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,1,Harris,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,2,Haden,Edmond,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,3,Howard,David,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,4,Howard,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,5,Honeyman,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,6,Hart,Edward,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,7,Hodges,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,8,Hall,Julius,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,9,Hart,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,10,Hester,Buck,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,11,Harris,Wyatt,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,12,Hawkins,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,13,Hunter,Fontaine,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,14,Hancock,Edward,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,15,Harris,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,16,Harris,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,17,Harris,Jesse,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,18,Harrison,William Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,19,Howard,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,20,Hancock,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,21,Hines,Winston,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,22,Holeman,Julius,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,23,Hochins,John L.,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,24,Hall,Wilson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,25,Hall,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,26,Johnson,Joseph H.,,,,1,,5,375,22,300,25,60,25,75,2,150,15,,,150,,,,,,,,,1.86
+Louisa,1866,RFM,17,,27,Johnson,Thomas B.,,,,1,,7,400,26,400,11,25,25,60,,,50,,,100,,,,,1500,500,,,23.83
+Louisa,1866,RFM,17,,28,Johnson,Ann M.,,Mrs.,,,,,,5,100,16,50,16,60,,,,,,150,,,,,,,,,0.57
+Louisa,1866,RFM,17,,29,Johnson,John M.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,30,Johnson,James C.,,,,1,,2,200,,,,,,,,,,,,,,,,,,,,,0.36
+Louisa,1866,RFM,17,,31,Johnson,Lewis,,,,1,,2,140,4,60,,,12,50,1,50,,,,100,,,,,,,,,0.84
+Louisa,1866,RFM,17,,32,Johnson,Jugurtha P. ,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,33,Johnson,George W.,,SJP,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,17,,34,Johnson,John,,,,1,,,,2,60,,,2,20,,,20,,,50,,,,,,,,,0.49
+Louisa,1866,RFM,17,,35,Johnson,Richard,,,,1,,,,1,20,,,3,10,,,,,,20,,,,,,,,,0.35
+Louisa,1866,RFM,18,,1,Johnson,Christopher N.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,2,Jones,Sarah K.,,Mrs.,,,,2,200,12,180,,,18,35,1,75,,5,150,200,,,,,1000,,,,2.58
+Louisa,1866,RFM,18,,3,Jones ,Charles S,,Capt.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,4,Jones,Robert L.,,,,1,,1,20,3,60,,,1,5,,,,,,100,,,,,,,,,0.54
+Louisa,1866,RFM,18,,5,Jones,Charles E.,,,,1,,5,250,2,30,,,,,1,20,,,100,150,,,,,,,,,1.05
+Louisa,1866,RFM,18,,6,Jones,Patrick H.,,,,1,,2,100,7,140,8,20,22,70,1,10,,,,100,,,,,1000,,,,2.3
+Louisa,1866,RFM,18,,7,Jordan,Francis,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,8,Johnson,Edmond,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,9,Jackson,Edward,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,10,Jackson,Marshall,,,,,1,1,100,2,40,,,6,50,,,,,,25,,,,,,,,,0.59
+Louisa,1866,RFM,18,,11,Jackson,Stanley,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,12,Jackson,Winston,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,13,Jackson,Solomon,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,14,Johnson,Aph[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,15,Jackson,Harrison,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,16,Jefferson,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,17,James,Alfred,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,18,Jackson,Mills,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,19,Jackson,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,20,Jackson,Fontaine,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,21,Jackson,Charles E.,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,22,Johnson,Solomon,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,23,Jackson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,24,Johnson,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,25,Johnson,Clarence,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,26,Johnson,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,27,Jackson,Lilbam[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,28,Jackson,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,29,Jefferson,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,30,Jackson,Daniel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,31,Johnson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,32,Johnson,Cornelius,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,33,Johnson,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,34,Johnson,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,18,,35,Johnson,Nelson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,1,Jackson,Dabney,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,2,Jackson,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,3,Jackson,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,4,Jackson,Austin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,5,Jackson,Overton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,6,Jackson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,7,Jackson,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,8,Johnson,Jerry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,9,Johnson,Waller,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,10,Jones,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,11,Johnson,Hembry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,12,Jackson,Claron,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,13,Jackson,Sonney,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,14,Jones,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,15,Jones,David,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,16,Johnson,Jackson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,17,Johnson,Nathaniel W.,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,18,Jackson,Overton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,19,Johnson,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,20,Jackson,Ezekiel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,21,Jackson,Dunford[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,22,Jones,Solomon,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,23,Jackson,Duke,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,24,Johnson,Stephen,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,25,Jackson,Ralph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,26,Johnson,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,27,Jefferson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,28,Johnson,Jacob,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,29,Johnson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,30,Jackson,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,31,Jackson,Andrew,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,32,Jones,Granville,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,33,Johnson,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,34,Jones,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,19,,35,Jackson,Andrew,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,1,Johnson,Festus,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,2,Johnson,Edward,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,3,Johnson,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,4,Johnson,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,5,Johnson,Walter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,6,Johnson,Edward,,,,,1,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,20,,7,Jones,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,8,Johnson,Ashton,,,,,1,2,100,,,,,3,10,,,,,,40,,,,,,,,,0.43
+Louisa,1866,RFM,20,,9,Johnson,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,10,Johnson,Edmond,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,11,Jackson,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,12,Johnson,Reubin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,13,Jones,William,,,,,1,2,130,,,,,,,,,20,,,20,,,,,,,,,0.36
+Louisa,1866,RFM,20,,14,Johnson,Anthony,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,15,Jordan,Mingo,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,16,Jordan,Meredith,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,17,Johnson,Milford,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,18,Keane,James S.,,,,1,,4,300,10,130,15,40,23,100,,,,5,75,150,,,,,,,,,1.43
+Louisa,1866,RFM,20,,19,Kuper,William A.,,,,1,,4,200,4,60,,,20,402,75,,,5,75,175,,,,,,,,,1.17
+Louisa,1866,RFM,20,,20,Kuper,William A.,,Jr.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,21,Knightow,Joesph G.,,,,1,,2,100,3,60,,,2,10,2,50,60,5,,100,,,,,,200,,,8.82
+Louisa,1866,RFM,20,,22,Knightow,Thomas M.,,,,1,,1,50,2,40,,,3,10,,,,,,50,,,,,,,,,0.49
+Louisa,1866,RFM,20,,23,Kersey,Woodson,,,,1,,1,25,1,20,,,,,,,,,,50,,,,,,,,,0.42
+Louisa,1866,RFM,20,,24,Kenner,George,,,,1,,,,3,50,,,1,5,,,,5,,100,,,,,,,,,0.51
+Louisa,1866,RFM,20,,25,Kenner,William I.,,,,1,,,,,,,,,,,,60,,,,,,,,2000,,,,3.17
+Louisa,1866,RFM,20,,26,Kenner,George S.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,27,Kenner,Richard,,,,1,,4,150,12,150,16,40,13,50,1,30,,,,150,,,,,,,,,1.08
+Louisa,1866,RFM,20,,28,Kenner,Nathaniel,,,,1,,,,1,25,,,,,,,,,,50,,,,,,,,,0.39
+Louisa,1866,RFM,20,Two names in this row,29,Kendrick/ Kennedy,William M./Henry,,,,1-Jan,,0/2,0/100,0/8,0/120,,,0/9,0/40,,,0/10,,,100/25,,,,,,,,,0.42/0.70
+Louisa,1866,RFM,20,,30,Keesaer,William H.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,31,Kenner,Joseph W. ,,Sr.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,32,Kinney,Wilson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,33,Kinney,Gabriel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,20,,34,Kinney,Robert,,,,,1,,,2,40,,,2,10,,,,,,50,,,,,,,,,0.42
+Louisa,1866,RFM,20,,35,Kinney,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,1,Kersey,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,2,Kinney,Harriet + Sister,,,,,,,,3,60,5,20,4,20,,,,,,50,,,,,,,,,0.49
+Louisa,1866,RFM,21,,3,King,David,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,4,Keane,Isaac,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,5,Keane,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,6,Kinney,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,7,Kinney,Thomas,,Jr.,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,8,Kinney,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,9,Kinney,Middleberry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,10,Kinney,Acho,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,11,Kinney,Winston,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,12,Lewis,Charles W. ,,,,1,,1,100,3,50,,,,,,,,,,50,,,,,,,,,0.36
+Louisa,1866,RFM,21,,13,Longan,William E. ,,,,1,,5,250,12,240,9,20,25,100,,,,5,,100,,,,,,,,,1.29
+Louisa,1866,RFM,21,,14,Longan,Thomas A. ,,,,1,,2,100,4,100,8,20,,,,,,,,75,,,,,,,,,0.7
+Louisa,1866,RFM,21,,15,Lapeter,Henry W.,,,,1,,1,75,2,30,,,10,30,,,,,,25,,,,,,,,,0.51
+Louisa,1866,RFM,21,,16,Lapeter,Lewis,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,17,Levy,Heyman,,,,1,,1,75,,,,,,,,,100,,100,100,,,,,,,,,0.81
+Louisa,1866,RFM,21,,18,Locker,Walney,,,,1,,1,75,6,120,7,25,12,50,,,,,,100,,,,,,,,,0.8
+Louisa,1866,RFM,21,,19,Loyd,Robert H.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,20,Leake,Walter S. ,,,,1,,1,50,2,40,,3,15,,,,,,,75,,,,,,,,,0.54
+Louisa,1866,RFM,21,,21,Loving,Benjamin J.,,,,1,,1,50,1,30,,2,20,,,,,10,,50,,,,,,,,,0.51
+Louisa,1866,RFM,21,,22,Loving,James H.,,,,1,,2,150,1,30,,,,,,,,,,,,,,200,,,,,0.82
+Louisa,1866,RFM,21,,23,Lacy,Matthew W.,,,,1,,4,200,9,100,9,20,13,40,,,,,,60,,,,,,,,,0.87
+Louisa,1866,RFM,21,,24,Lohi,Ulris,,,,1,,,,1,30,,,,,,,,5,,65,,,,,,,,,0.42
+Louisa,1866,RFM,21,,25,Luck,Robert G.,,,,1,,2,150,1,20,,,6,20,1,25,,,,50,,,,,,,,,0.66
+Louisa,1866,RFM,21,,26,Luck,William E. ,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,21,,27,Locker,William H.,,,,1,,3,150,,,,,,,,,,,,,,,,,,,,,0.49
+Louisa,1866,RFM,21,,28,Locker,Jacob M,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,29,Ladd,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,30,Lewis,Booker,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,31,Lewis,Anderson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,32,Lewis,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,33,Lewis,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,34,Lewis,Addison,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,21,,35,Lewis,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,1,Lewis,Bailey,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,2,Level,Addison,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,3,Lewis,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,4,Lipscomb,Harmon,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,5,Lewis,Benjamin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,6,Makie,Jabe,,,,1,,3,300,7,160,14,40,13,65,1,50,,,100,100,,,,,,,,,1.43
+Louisa,1866,RFM,22,,7,Michie,M W M,,,,1,,2,150,12,240,,,10,40,,,,5,,100,,,,,,,,,1.03
+Louisa,1866,RFM,22,,8,Michie,Reubin J.,,,,1,,5,250,12,240,14,60,10,40,2,20,,5,,250,,,,,,,,,1.5
+Louisa,1866,RFM,22,,9,Matthews,Clayton,,,,1,,2,50,3,50,15,30,4,20,,,,,,50,,,,,,,,,0.56
+Louisa,1866,RFM,22,,10,Morrison,Roxey I,,Mrs.,,,,1,40,2,60,,,2,20,,,,,,60,,,,,,,,,0.26
+Louisa,1866,RFM,22,,11,McGehee,G W,,Col.,,1,,,,5,100,4,20,10,30,,,15,10,,100,,,,,,,,,0.67
+Louisa,1866,RFM,22,,12,McGehee,Garrete W.,,Jr.,,1,,2,100,1,25,,,,,,,,10,,50,,,,,,,,,0.54
+Louisa,1866,RFM,22,,13,McGehee,Lewis W.,,Capt.,,1,,,,1,20,,,5,25,,,,,,40,,,,,,,,,0.4
+Louisa,1866,RFM,22,,14,McGehee,Albert G.,,,,1,,,,1,25,,,,,,,15,,,40,,,,,100,,,,0.54
+Louisa,1866,RFM,22,,15,Milton,Jesse W.,,,,1,,3,225,3,50,,,8,20,1,40,75,,,100,,,,,,,,,1
+Louisa,1866,RFM,22,,16,Milton,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,17,Milton,Mary A.,,Mrs.,,,,1,30,3,60,14,30,,,,,,,,75,,,,,,,,,0.28
+Louisa,1866,RFM,22,,18,Moss,Frances A.,,,,,,2,100,3,50,,,3,15,1,150,,15,,75,,,,,,,,,0.57
+Louisa,1866,RFM,22,,19,Moss,Thomas W.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,20,Moss,Samuel V.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,21,Moss,Robert F.,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,22,,22,Moss,Francis W.,,,,1,,1,50,6,150,,,9,30,1,25,,,,150,,,,,,,,,0.85
+Louisa,1866,RFM,22,,23,Mansfield,Edward I.,,,,1,,5,400,6,100,,,15,120,1,50,,5,,250,,,,,,,,,1.58
+Louisa,1866,RFM,22,,24,Mansfield,William D.,,Est,,,,7,450,27,400,9,20,33,100,1,150,50,,75,200,25,,,1200,,,,,3.74
+Louisa,1866,RFM,22,,25,Mills,Susanna,,Mrs.,,,,4,300,15,225,17,40,30,90,,,,,100,150,,,,,,,,,1.27
+Louisa,1866,RFM,22,,26,Meeks,John C.,,,,1,,1,75,,,,,3,15,,,,,,100,,,,,,,,,0.55
+Louisa,1866,RFM,22,,27,May,John I. ,,Est,,,,4,200,13,150,17,50,30,50,,,,5,,125,,,,,2000,,,,3.62
+Louisa,1866,RFM,22,,28,McAllister,William E. ,,Est,,,,1,50,3,60,,,,,1,30,,,,50,,,,,,,,,0.27
+Louisa,1866,RFM,22,,29,McAllister,Nathaniel A. ,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,30,Morris,Thomas,,,,1,,1,30,,,,,5,20,,,,,,50,,,,,,,,,0.42
+Louisa,1866,RFM,22,,31,Morris,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,22,,32,Marshall,John R.,,,,1,,2,150,8,160,,,12,40,,,,5,,100,,,,,,,,,0.92
+Louisa,1866,RFM,22,,33,Modena,Francis,,,,1,,1,50,2,40,,,6,25,,,,5,,50,,,,,,,,,0.52
+Louisa,1866,RFM,22,,34,Madison,James B.,,,,1,,,,1,30,,,,,,,50,5,,75,,,,,,,,,0.51
+Louisa,1866,RFM,22,,35,Morris,Amanda,,,,,,2,150,2,50,,,5,25,,,,,,50,,,,,,,,,0.39
+Louisa,1866,RFM,23,,1,May,John S.,,SJS,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,2,May,George W.,,SJS,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,3,May,Phillip P.,,SJS,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,4,Mason,Granville,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,5,Meredith,Thomas W.,,,,1,,4,300,6,90,,,10,20,1,40,50,,75,100,,,,,,,,,1.23
+Louisa,1866,RFM,23,,6,Meeks,Sylvanius,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,7,McGehee,James,,,,1,,1,50,,,,,,,,,,,,,,,,,400,,,,0.91
+Louisa,1866,RFM,23,,8,Mills,Pallison B,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,9,Mills,Andrew L,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,10,Mallory,Benjamin F.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,11,Moore,Robert L.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,12,Milton,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,13,Minor,Lucian,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,14,Murray,Jesse,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,15,Minor,Madison,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,16,Monroe,Gabriel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,17,Morris,Miles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,18,Mansfield,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,19,Morris,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,20,Mansfield,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,21,Mansfield,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,22,Mansfield,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,23,Mansfield,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,24,Mansfield,David,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,25,Moseby,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,26,McGehee,Winston,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,27,Moss,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,28,Moss,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,29,Moss,Medrick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,30,Moss,Frederick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,31,Moss,Wm Nelson,William Nelson,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,32,Moss,Benjamin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,33,Minor,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,34,Morris,Benjamin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,23,,35,Murray,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,1,Mosby,Moses,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,2,Morris,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,3,Marshall,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,4,Minor,Bartley,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,5,Michie,Warrick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,6,Minor,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,7,Malone,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,8,Morrison,King,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,9,Martin,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,10,Mosby,Wyatt,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,11,Mahanes,James,,,,,1,2,150,2,40,,,12,40,,,,,,50,,,,,,,,,0.68
+Louisa,1866,RFM,24,,12,Morris,Chapman,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,13,Morris,Granville,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,14,Michie,Nelson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,15,Michie,Jack,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,16,Monroe,Carter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,17,Monroe,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,18,Monroe,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,19,May,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,20,May,Jacob,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,21,Mills,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,22,Morris,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,23,Macks,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,24,Meade,Meredith,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,25,Minor,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,26,Mason,Edward,,,,,1,1,100,,,,,,,,,15,5,,50,,,,,,,,,0.53
+Louisa,1866,RFM,24,,27,McGehee,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,28,Mansfield,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,29,Moody,Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,30,Morris,Berkley,,,,,1,,,1,40,,,,,,,20,,,40,,,,,,,,,0.42
+Louisa,1866,RFM,24,,31,Morris,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,32,Morris,Iberson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,24,,33,Nunn,Joseph A.,,,,1,,4,300,7,140,8,25,18,75,1,30,,5,125,150,,,,,,,,,1.5
+Louisa,1866,RFM,24,,34,Nuherland,William A.,,,,1,,3,150,7,100,4,10,13,50,1,30,15,5,,50,,,,,,,,,0.86
+Louisa,1866,RFM,24,,35,Nunn,John W.,,,,1,,3,225,12,200,8,25,13,100,,,,5,,50,,,,,,,,,1.13
+Louisa,1866,RFM,25,,1,Nelson,William G. J.,,,,1,,2,200,9,180,,,4,20,1,150,50,,,200,,,,,,,,,1.67
+Louisa,1866,RFM,25,,2,Nelson,Thomas,,,,1,,2,100,8,120,,,7,30,1,65,,,,100,,,,,,,,,0.87
+Louisa,1866,RFM,25,,3,Nelson,William H.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,4,Nickolls,Leighton,,,,1,,7,350,13,150,16,40,26,75,1,65,,5,,200,,,,,,,,,1.6
+Louisa,1866,RFM,25,,5,Nickolls,Leighton J.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,6,Nickolls,James Jr.,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,7,Nickolls,Martha A.,,Mrs.,,,,,,2,50,10,30,1,5,2,100,30,,,175,,,,,500,,,,1.25
+Louisa,1866,RFM,25,,8,Nickolls,Joseph S.,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,25,,9,Nickolls,James P.,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,25,,10,Norford,James M.,,,,1,,,,1,30,,,,,,,,10,,100,,,,,,,,,0.48
+Louisa,1866,RFM,25,,11,Nelson,Susan O.,,[Miss?],,,,1,50,2,40,,,,,1,75,,,100,75,,,,,,,,,0.48
+Louisa,1866,RFM,25,,12,Nunn,David R.,,,,1,,1,150,,,,,,,,,,,,,,,,,,,,,0.49
+Louisa,1866,RFM,25,,13,Nicholas,Henry Sr.,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,14,Nicholas,Henry Jr.,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,15,Nicholas,Watson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,16,Nunn,Prince,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,17,Nicholas,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,18,Nelson,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,19,Nelson,Julius,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,20,Nickolls,Jeremiah,,,,,1,1,150,,,,,,,,,,,,,,,,,,,,,0.49
+Louisa,1866,RFM,25,,21,Nelson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,22,Ne[u]ton,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,23,Nelson,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,24,Nunn,Bartley,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,25,Ogg,Thomas ,,[?],,,,3,250,7,200,9,30,7,40,,,,,,100,15,,,,500,,,,1.63
+Louisa,1866,RFM,25,,26,Ogg,Richard J.,,,,1,,1,40,4,80,3,10,7,30,,,5,,,50,,,,,,,,,0.62
+Louisa,1866,RFM,25,,27,Ogg,Andrew J,,,,1,,1,50,2,50,,,1,10,,,,,,50,,,,,,,,,0.51
+Louisa,1866,RFM,25,,28,Ogg,Samuel,,[Eu],,,,1,100,4,60,,,7,40,,,5,,,150,,,,,,,,,0.5
+Louisa,1866,RFM,25,,29,Ogg,Benjamin,,,,1,,1,50,2,40,,,5,20,,,,,,50,,,,,,,,,0.51
+Louisa,1866,RFM,25,,30,Ogg,James G.,,,,1,,3,50,,,,,1,40,1,20,,,,,,,,,100,,,,0.28
+Louisa,1866,RFM,25,,31,Ogg,Richard H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,32,Ogg,Meredith,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,33,Ogg,William D.,,(SS),,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,25,,34,Oliver,Henry,,,,1,,1,20,,,4,20,,,,,,,,25,,,,,,,,,0.38
+Louisa,1866,RFM,25,,35,[Omchandro?],John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,26,,1,Overton,Albert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,26,,2,Pendleton,William B,,Capt,,1,,1,100,,,,,,,,,,,,,,,,,2000,,,,3.22
+Louisa,1866,RFM,26,,3,Pendleton,Unity,,Mrs.,,,,,,,,,,,,,,,,,300,,,,,800,,,,1.54
+Louisa,1866,RFM,26,,4,Pendleton,Madison,,Dr,,1,,6,400,18,200,27,60,26,100,2,150,20,,,300,,,,,,,,,2.01
+Louisa,1866,RFM,26,,5,Gan,Sallie B Mallory,,,,,,,,,,,,,,,,,,,,,,,,2250,,,,3.15
+Louisa,1866,RFM,26,,6,Pendleton,William J,,Dr,,1,,7,600,19,270,17,40,24,70,2,250,100,10,200,600,,,,,6000,,,,11.68
+Louisa,1866,RFM,26,,7,Pendleton,Phillip B,,Dr,,1,,8,480,10,190,27,80,18,90,1,100,50,,,,,,,,6000,,,,10.07
+Louisa,1866,RFM,26,,8,Pendleton,John B,,,,,,1,50,5,75,12,25,6,15,1,50,,,,100,,,,,,,,,0.45
+Louisa,1866,RFM,26,,9,Pendleton,Charles H,,,,1,,3,300,,,,,,,,,100,,,,,,,,1000,,,,2.24
+Louisa,1866,RFM,26,,10,Poinderler [?],Samuel,,,,1,,1,40,5,75,,,2,10,,,,5,,100,,,,,,,,,0.61
+Louisa,1866,RFM,26,,11,Poindexter [?],Dabney,,,,1,,2,100,5,75,12,40,1,5,1,25,,5,,75,,,,,,,,,0.74
+Louisa,1866,RFM,26,,12,Poindexter [?],James R,,,,1,,2,150,8,120,24,50,,,1,40,,,,100,,,,,,,,,0.93
+Louisa,1866,RFM,26,,13,Poindexter [?],Charles J,,,,1,,1,100,2,40,,,5,20,,,,,,50,,,,,,,,,0.58
+Louisa,1866,RFM,26,,14,Poindexter [?],Alexander V,,,,1,,1,75,8,120,,,7,30,,,,5,,100,,,,,,,,,0.75
+Louisa,1866,RFM,26,,15,Parsons,Samuel H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,26,,16,Parsons,Woodson,,,,1,,2,100,8,120,8,15,17,50,1,40,,5,,200,,,,,,,,,1.03
+Louisa,1866,RFM,26,,17,Parsons,William J,,,,1,,2,150,3,60,,,7,15,,,,,,50,,,,,,,,,0.67
+Louisa,1866,RFM,26,,18,Parsons,Alpheus,,,,1,,1,50,,,,,,,,,,,,50,,,,,,,,,0.42
+Louisa,1866,RFM,26,,19,Parsons,William ,,(SA),,1,,,,,,,,,,,,,,,50,,,,,,,,,0.35
+Louisa,1866,RFM,26,,20,Parsons,Elizabeth,,Miss,,,,1,25,2,40,,,,,,,,,,,,,,,,,,,0.1
+Louisa,1866,RFM,26,,21,Patton,John M,,Col,,,,15,1000,32,800,85,350,73,370,2,400,200,,200,500,,,,,,,,,5.35
+Louisa,1866,RFM,26,,22,Pleasants,Abner,,E[st],,,,4,200,10,200,8,20,34,100,1,100,,5,,150,,,,,,,,,1.09
+Louisa,1866,RFM,26,,23,Pleasants,Thomas J,,,,1,,2,150,,,,,,,1,50,,,,,,,,,,,,,0.56
+Louisa,1866,RFM,26,,24,Pleasants,Abner G,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,26,,25,Porter,James D,,,,2,,5,250,11,180,,,15,50,,,,,,300,,,,,,,,,1
+Louisa,1866,RFM,26,,26,Porter,Jesse J,,,,1,,1,75,2,40,,,,,,,50,,,50,,,,,,,,,0.59
+Louisa,1866,RFM,26,ink blot over name,27,Pitt[?],Overton H,,,,1,,4,300,12,200,,,30,100,1,30,15,,,200,,,,,,,,,1.46
+Louisa,1866,RFM,26,,28,Perkins,William P,,,,1,,1,50,3,75,,,5,20,,,,,,50,,,,,,,,,0.56
+Louisa,1866,RFM,26,,29,Perkins,Richard A,,,,1,,1,40,6,90,,,6,20,,,,5,,50,,,,,,,,,0.57
+Louisa,1866,RFM,26,,30,Perkins,John B,,,,1,,2,120,,,,,,,,,,,,50,,,,,,,,,0.52
+Louisa,1866,RFM,26,,31,Perry,William,,,,1,,4,300,8,200,,,10,30,,,10,,,100,,,,,,,,,1.18
+Louisa,1866,RFM,26,,32,Perry,Thomas W,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,26,,33,Pa[??],Oates[?],,,,1,,2,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,26,,34,Phillips,Joseph N,,,,1,,1,50,5,75,,,9,30,,,5,,,100,50,,,,,,,,0.72
+Louisa,1866,RFM,26,,35,Parrish,Humphrey J,,,,1,,1,50,3,50,,,,,1,25,,,,25,,,,,,,,,0.49
+Louisa,1866,RFM,27,,1,Proffit,Willis R.,,,,1,,2,150,2,40,,,,,,,,5,,50,,,,,,,,,0.62
+Louisa,1866,RFM,27,,2,Payne,Jake H.,,,,1,,1,70,3,50,,,6,20,,,,,,25,,,,,,,,,0.52
+Louisa,1866,RFM,27,,3,Payne,Samuel H.,,,,1,,,,1,25,,,,,,,,,,50,,,,,,,,,0.37
+Louisa,1866,RFM,27,,4,Payne,Thomas B.,,,,1,,,,1,20,,,,,,,,,,30,,,,,,,,,0.35
+Louisa,1866,RFM,27,,5,Payne,Anthony,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,6,Poindexter,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,7,Powell,George A,,,,,1,1,50,1,25,,,4,20,,,,5,,100,,,,,,,,,0.56
+Louisa,1866,RFM,27,,8,Pollux [?],John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,9,Perry,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,10,Perkins,Ralph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,11,Perkins,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,12,Poindexter,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,13,Price,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,14,Pollux [?],Walker,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,15,Poindexter,Gabriel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,16,Pollux[?],Ralph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,17,Pollux,Edward,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,18,Perkins,Shandy[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,19,Perrington,Gey [?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,20,Price,Joshua,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,21,Pollux [?],Austin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,22,Priddie [?],Edmund,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,23,Pellus [?],Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,24,Pollie[?],Pleasant,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,25,Pellus [?],Hugh,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,26,Pendleton,Frederick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,27,Poindexter,Sheppard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,28,Poindexter,Arthur,,,,,1,1,125,1,25,,,,,,,,,,50,,,,,,,,,0.56
+Louisa,1866,RFM,27,,29,Pendleton [?],David,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,30,Porter,Richmond,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,31,Perkins,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,32,Poindexter,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,33,Perry[?],William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,34,Powell,Andrew J,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,27,,35,Perkins,Richard,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,1,Pendleton,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,2,Porter,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,3,Pennington,Elisha,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,4,Pendleton,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,5,Quarles,Charles,,Rev,,,,11,530,44,530,37,120,42,120,3,300,100,5,200,300,125,,,,,,,,3.29
+Louisa,1866,RFM,28,link connectin row 5 & 6,6,Quarles,John R.,,Admr Est.,,,,9,540,25,300,17,40,39,120,1,30,15,5,,300,40,,,,,,,,1.75
+Louisa,1866,RFM,28,,7,Quarles,James C.,,,,1,,1,50,,,,,,,,,,,,,,,,,,,,,0.35
+Louisa,1866,RFM,28,,8,Quarles,Henry W.,,,,1,,5,300,3,60,,,14,60,,,,5,100,150,,,,,,,,,1.23
+Louisa,1866,RFM,28,,9,Quisenberry,James,,,,1,,2,125,5,100,16,30,15,50,1,100,,,,100,,,,,,,,,0.99
+Louisa,1866,RFM,28,,10,Quarles,James W.,,Dr.,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,11,Quarles,Willie A.,,Mrs.,,,,6,400,5,100,,,25,100,,,50,10,,250,,,,,,,,,1.28
+Louisa,1866,RFM,28,,12,Quisenberry,Alexander,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,13,Quarles,Washington,,,,,1,2,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,28,,14,Quarles,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,15,Robertson ,William T,,Est,,,,,,,,,,,,,,,,,,,,,,500,,,,0.7
+Louisa,1866,RFM,28,,16,Robertson ,James R,,,,1,,3,150,7,100,6,15,9,30,1,50,,,,100,,,,,,,,,0.8
+Louisa,1866,RFM,28,,17,Robertson ,Lewis D,,,,1,,1,50,7,70,16,40,12,50,,,15,5,,75,,,,,,,,,0.71
+Louisa,1866,RFM,28,,18,Robertson ,Lewis G,,,,1,,1,75,,,,,5,20,,,15,,,50,,,,,,,,,0.51
+Louisa,1866,RFM,28,,19,Rennolds,William,,,,1,,5,250,8,120,14,30,5,20,1,50,60,,,150,20,,,,1000,,,,2.66
+Louisa,1866,RFM,28,line connecting row 19 & 20,20,Rennolds,Reubin,,Ex[?],,,,,,,,,,,,,,,,,,,,,,800,,,,1.12
+Louisa,1866,RFM,28,,21,Reynolds,William,,,,1,,1,75,4,80,,,16,80,,,,,,100,,,,,,,,,0.75
+Louisa,1866,RFM,28,,22,Reynolds,Tobias,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,23,Reynolds,Washington T,,,,1,,7,400,12,150,40,100,30,80,1,40,,5,,200,,,,,,,,,1.65
+Louisa,1866,RFM,28,,24,Richardson,Thomas,,,,1,,1,50,3,60,,,3,20,,,,,,50,,,,,,,,,0.54
+Louisa,1866,RFM,28,,25,Richardson,William G,,,,1,,2,100,6,90,,,8,40,1,20,40,,,50,,,,,,,200,,1.76
+Louisa,1866,RFM,28,,26,Rose,Benjamin,,,,,,4,400,9,225,,,9,50,1,25,,,,,,,,,,,,,0.98
+Louisa,1866,RFM,28,,27,Rosson,John H,,,,1,,3,120,6,150,,,9,40,,,,,,100,,,,,,,,,0.86
+Louisa,1866,RFM,28,,28,Robinson,Benjamin R,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,29,Rines,Jacob,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,30,Rines,Robert,,,,1,,1,50,2,50,,,5,20,,,,,,30,,,,,,,,,0.49
+Louisa,1866,RFM,28,,31,Rines,Aaron,,,,1,,1,40,2,40,,,5,25,,,,,,50,,,,,,,,,0.5
+Louisa,1866,RFM,28,,32,Rogers,James H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,33,Robertson ,Joseph W,,,,1,,2,150,2,40,6,20,10,30,1,75,,10,,30,,,,,,,,,0.78
+Louisa,1866,RFM,28,,34,Riley,Bernard W,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,28,,35,Riley,Patrick,,,,1,,,,,,,,,,,,,,,100,,,,,,,,,0.42
+Louisa,1866,RFM,29,,1,Rogers,Joseph,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,2,Randolph,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,3,Richardson,Washington,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,4,Robinson,Burruss[?],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,5,Rice,Isaac,,,,,1,1,50,2,40,,,2,20,,,,,,25,,,,,,,,,0.47
+Louisa,1866,RFM,29,,6,Ross,Austin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,7,Robertson ,Bluff,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,8,Randall ,Edmond,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,9,Rosson,Joseph,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,10,Robertson ,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,11,Robertson ,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,12,Robinson,Humphrey,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,13,Robinson,Peter,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,14,Robinson,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,15,Robinson,Minor,,,,,1,1,50,,,,,,,,,15,5,,30,,,,,,,,,0.42
+Louisa,1866,RFM,29,,16,Strange,John B,,Col Est,,,,2,150,10,250,6,20,10,50,1,50,,,,100,,,,,,,,,0.87
+Louisa,1866,RFM,29,,17,Swift,Luther R,,,,1,,3,150,7,200,10,25,10,40,1,30,,,200,125,,,,,,,,,1.36
+Louisa,1866,RFM,29,,18,Swift,Edmond,,,,1,,4,200,12,220,11,25,27,60,,,,5,,150,20,,,,,,,,1.24
+Louisa,1866,RFM,29,,19,Swift,William Z,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,20,Swift,David,,,,1,,6,300,4,60,8,20,5,20,,,,,,100,,,,,550,,,,1.75
+Louisa,1866,RFM,29,,21,Swift,Worther T,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,22,Swift,Susan,,Mrs,,,,3,225,10,150,6,15,20,60,1,50,,,,200,,,,,,,,,0.99
+Louisa,1866,RFM,29,,23,Swift ,William M,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,24,Sanner,Josiah C,,,,1,,1,60,1,25,,,7,25,,,,5,,100,,,,,,,,,0.59
+Louisa,1866,RFM,29,,25,Shisler,Sallie T,,Mrs,,,,,,4,100,,,,,,,,,,100,,,,,800,,,,1.4
+Louisa,1866,RFM,29,,26,Shisler,John R.,,,,1,,2,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,29,,27,Strong,William M,,,,1,,1,50,3,60,,,4,15,,,,,,100,,,,,,,,,0.6
+Louisa,1866,RFM,29,,28,Strong,George C,,,,1,,3,150,3,50,10,30,2,10,,,,,,100,,,,,,,,,0.76
+Louisa,1866,RFM,29,,29,Strong,John H,,,,1,,2,80,3,50,,,,,,,,,,50,,,,,,,,,0.54
+Louisa,1866,RFM,29,,30,Sims,Garland,,,,1,,1,50,6,120,4,10,3,20,,,,,,50,,,,,1000,,,,2.03
+Louisa,1866,RFM,29,,31,Sims,David S,,,,1,,1,75,1,20,,,4,10,1,15,,,,40,,,,,,,,,0.51
+Louisa,1866,RFM,29,,32,Sims,Pettus[?] W,,,,1,,2,100,4,60,,,8,40,,,20,5,,50,,,,,,,,,0.67
+Louisa,1866,RFM,29,,33,SIms,Elisha M,,,,1,,1,40,1,20,,,6,20,,,10,,,30,,,,,,,,,0.45
+Louisa,1866,RFM,29,,34,Sims,George A,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,29,,35,Sims,John S,,Est,,,,2,150,2,50,5,15,8,30,2,50,,,50,100,,,,,,,,,0.62
+Louisa,1866,RFM,30,,1,Sims,Sueran,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,2,Sims,John,,,,1,,1,50,2,40,,,5,20,,,,,,,,,,100,,,,,0.38
+Louisa,1866,RFM,30,,3,Sims,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,4,Sims,Henry,,,,1,,,,4,60,,,1,10,,,,,,,,,,30,,,,,0.42
+Louisa,1866,RFM,30,,5,Sims,Patrick,,,,1,,,,1,25,,,6,25,,,,,,,,,,35,,,,,0.4
+Louisa,1866,RFM,30,,6,Sims,Richard,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,7,Sims,Charles,,,,1,,,,1,30,,,,,,,,,,,,,,20,,,,,0.35
+Louisa,1866,RFM,30,,8,Spicer,John,,,,1,,1,20,3,40,,,5,20,,,,,,,,,,50,,,,,0.47
+Louisa,1866,RFM,30,,9,Spicer,Albert,,,,1,,1,75,1,25,,,7,30,1,50,,,,,,,,50,,,,,0.61
+Louisa,1866,RFM,30,,10,Spicer,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,11,Spicer,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,12,Smith,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,13,Spicer,William,,,,1,,,,2,30,,,8,15,,,,5,,,,,,25,,,,,0.39
+Louisa,1866,RFM,30,,14,Smith,John,,,,1,,2,150,4,60,,,7,35,4,30,,5,,,,,,250,,,,,1.31
+Louisa,1866,RFM,30,,15,Smith,[Timber],,Col,,,,2,200,2,40,,,3,10,,,,,,,,,,150,,,,,0.84
+Louisa,1866,RFM,30,,16,Smith,Charles,,,,1,,6,250,9,180,9,20,10,40,,,,,,,,,,50,,,,,1.04
+Louisa,1866,RFM,30,,17,Smith,Joseph,,,,1,,4,150,4,60,3,10,6,20,,,,,,,,,,100,,,,,0.77
+Louisa,1866,RFM,30,,18,Smith,John,,,,1,,2,150,9,250,12,25,10,40,,,,,,,,,,125,,,,,1.11
+Louisa,1866,RFM,30,,19,Smith,James,,,,1,,,,1,25,,,4,20,,,,5,,,,,,50,,,,,0.42
+Louisa,1866,RFM,30,,20,Smith,Timothy,,,,1,,4,40,2,50,,,4,20,,,,,,,,,,30,,,,,0.48
+Louisa,1866,RFM,30,,21,Smith,[Semida],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,22,Smith,Lewis,,,,1,,2,100,1,25,,,5,20,,,,,,,,,,50,,,,,0.56
+Louisa,1866,RFM,30,,23,Smith,Martin,,,,1,,2,120,4,60,,,10,50,1,30,,,,,,,,80,,,,,0.76
+Louisa,1866,RFM,30,,24,Smith,Edwin,,Dr,,1,,2,150,6,120,,,10,40,,,,,,,,,,300,,,,,1.56
+Louisa,1866,RFM,30,,25,Smith,Charles,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,26,Smith,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,27,Smith,Samuel,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,28,Sharpe,Edwin,,,,1,,3,150,4,60,10,20,8,25,,,,,,,,,,150,,,,,0.85
+Louisa,1866,RFM,30,,29,Sharpe,Thomas,,,,1,,,,,,,,,,,,,,,,,,,50,,,,,0.35
+Louisa,1866,RFM,30,,30,Sharpe,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,31,Sharpe,Charles,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,30,,32,Stewart,John,,,,1,,,,,,,,,,,,,,,,,,,50,,,,,0.35
+Louisa,1866,RFM,30,,33,Seay,Woodson,,,,1,,2,100,2,30,,,7,30,,,,,,,,,,50,,,,,0.38
+Louisa,1866,RFM,30,,34,Seay,Cabel,,,,1,,2,75,4,50,4,12,11,40,,,,5,,,,,,200,,,,,0.82
+Louisa,1866,RFM,30,,35,Seay,James,,,,1,,2,130,2,50,,,5,50,,,,5,,,,,,50,,,,,0.68
+Louisa,1866,RFM,31,,1,Seay,Henry,,,,1,,,,1,25,,,1,5,,,10,,,,,,,25,,,,,0.28
+Louisa,1866,RFM,31,,2,Seay ,Thomas,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.38
+Louisa,1866,RFM,31,,3,Seay,Herman,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,4,Shiffler,Mordici,,,,1,,1,100,4,100,,,4,20,,,,5,,,,,,50,,,,,0.28
+Louisa,1866,RFM,31,,5,Shiffler,Archibald,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.67
+Louisa,1866,RFM,31,,6,Sizer,William,,,,1,,,,2,40,,,4,20,,,,,,,,,,40,,,,,0.28
+Louisa,1866,RFM,31,,7,Sheeler,Thomas,,,,1,,2,200,4,80,,,4,15,,,50,,,,,,,75,,,,,0.42
+Louisa,1866,RFM,31,,8,Stanley,Ellis,,,,1,,1,50,4,80,,,1,10,,,,,,,,,,50,,,,,0.9
+Louisa,1866,RFM,31,,9,Stanley,William,,,,1,,1,75,2,50,,,15,75,,,10,5,,,,,,50,,,,,0.51
+Louisa,1866,RFM,31,,10,Saera,William,,,,1,,1,50,5,100,,,1,5,,,,,,,,,,100,,,,,0.73
+Louisa,1866,RFM,31,,11,Siman,Edward,,,,1,,,,5,100,,,3,25,,,,,,,,,,75,,,,,0.64
+Louisa,1866,RFM,31,,12,Sprouse,Margarette,,Miss,,,,1,100,1,20,,,12,50,,,60,,,,,,,200,,,,,0.28
+Louisa,1866,RFM,31,,13,Stowe,William,,,,1,,6,300,7,150,,,22,60,,,,,,,,,,125,,,,,0.96
+Louisa,1866,RFM,31,,14,Saunders,David,,,,1,,1,50,1,50,,,4,15,,,,,,,,,,45,,,,,3.41
+Louisa,1866,RFM,31,,15,Snelson,Mildred,,Mrs,,,,,,,,,,,,,,,,,,,,,,,,,,0.21
+Louisa,1866,RFM,31,,16,Strong,William,,,,1,,,,1,30,,,,,,,,,,,,,,70,,,,,0.28
+Louisa,1866,RFM,31,,17,Swan,Alexander,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,31,,18,Sims,Benjamin,,,,1,,2,100,,,,,5,15,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,19,Smith,Edwin,,,,1,,2,150,1,30,,,,,,,50,5,,,,,,15,,,,,0.28
+Louisa,1866,RFM,31,,20,Smith,James,,,,1,,,,,,,,,,,,,,,,,,,100,,,,,0.47
+Louisa,1866,RFM,31,,21,Smith,G,,Dr,,1,,,,,,,,,,,,,,,,,,,,,,,,0.89
+Louisa,1866,RFM,31,,22,Smith,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,23,Smith,George,,,,1,,1,40,1,25,,,2,10,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,24,Smith,Butcher,,,,1,,,,,,,,,,,,,,,,,,,50,,,,,0.28
+Louisa,1866,RFM,31,,25,Smith,Miles,,,,1,,2,130,3,60,6,20,9,25,,,,5,,,,,,,,,,,0.46
+Louisa,1866,RFM,31,,26,Smith,Curtis,,,,1,,1,100,1,30,,,3,15,,,,,,,,,,50,,,,,0.28
+Louisa,1866,RFM,31,,27,Sharpe,Thomas,,,,1,,,,,,,,,,,,,,,,,,,50,,,,,0.73
+Louisa,1866,RFM,31,,28,Sheperd,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.56
+Louisa,1866,RFM,31,,29,Spieler,Elijah,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,30,Sailor,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,31,Seaul,Minor,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,32,Smith,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,33,Slogdile,Joshua,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,34,[Shother],[Amos],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,31,,35,Smith,Edmond,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,1,Smith,Nelson,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,2,Swift,Lewis,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,3,Swift,Saunders,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,4,Smith,Oragin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,5,Simmons,Addison,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,6,Shelton,Moses,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,7,Smith,Barak,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,8,Seoul,Isaac,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,9,Seoul,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,10,Stewart,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,11,Sevie,Washington,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,12,Sale,Randall,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,13,Saunders,Phillip,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,14,Seoll,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,15,Strong,Henry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,16,Shackelford,Henry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,17,Smith,Wilson,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,18,Sims,Austin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,19,Seole,Nicholas,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,20,Smith,Patrick,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,21,Sales,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,22,Smith,Washington,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,23,Standard,Joseph,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,24,Saunders,Ezekiel,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,32,,25,Smith,Isaac,,,,1,,1,50,,,,,4,20,,,,,,,,,,30,,,,,0.42
+Louisa,1866,RFM,32,,26,Talley,Francis,,,,,1,,,3,75,7,20,10,40,,1,,,,,,,,75,,,,,1.52
+Louisa,1866,RFM,32,,27,Talley,Lucy,,,,,,2,100,2,30,4,10,5,20,,,,,,,,,,50,,,,,0.28
+Louisa,1866,RFM,32,,28,Talley,Richard,,,,,1,,,1,25,,,,,,1,,,,,,,,75,,,,,0.23
+Louisa,1866,RFM,32,,29,Talley,Anderson,,,,,1,3,150,8,100,12,20,17,50,,,1,,,,,,,100,,,,,2.99
+Louisa,1866,RFM,32,,30,Talley,John,,,,,1,4,200,5,100,14,30,10,40,1,,,,,,,,,75,,,,,0.98
+Louisa,1866,RFM,32,,31,Talley,Richard,,,,,1,1,25,3,50,9,30,8,20,,,,,,,,,,50,,,,,0.52
+Louisa,1866,RFM,32,,32,Talley,Henry,,,,,1,,,2,50,,,3,10,,,,,,,,,,50,,,,,0.44
+Louisa,1866,RFM,32,,33,Talley,Jonathan,,,,,,3,250,5,50,4,10,7,30,,,,,,,,,,100,,,,,0.62
+Louisa,1866,RFM,32,,34,Talley,Samuel,,,,,1,3,100,9,100,,,9,40,,,,,,,,,,150,,,,,0.89
+Louisa,1866,RFM,32,,35,Talley,Meriwhether,,,,,,1,20,1,25,,,1,10,,,,,,,,,,50,,,,,0.15
+Louisa,1866,RFM,33,,1,Talley,Samuel ,,,,1,,,,3,60,,,,,,,100,,,75,,,,,,,,,0.61
+Louisa,1866,RFM,33,,2,Talley,Peyton,,,,1,,,,3,60,,,2,10,,,,,,,,,,,,,,,0.38
+Louisa,1866,RFM,33,,3,Talley,Richard ,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,4,Talley,William,,,,1,,,,,,,,,,,,50,,,50,,,,,,,,,0.35
+Louisa,1866,RFM,33,,5,Thomson,William,,,,1,,4,300,25,350,,,41,205,1,200,75,,75,200,,,,,,,,,2.25
+Louisa,1866,RFM,33,,6,Trice,Dabney,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,7,Trice,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,8,Trice,Andrew,,,,,,1,75,3,40,,,7,30,,,,,,150,,,,,,,,,0.42
+Louisa,1866,RFM,33,,9,Trice,Anderson,,,,1,,1,20,2,40,,,,,,,,,,60,,,,,,,,,0.45
+Louisa,1866,RFM,33,,10,Trice,Alfred,,,,1,,,,4,60,,,19,60,,,,,,75,,,,,,,,,0.56
+Louisa,1866,RFM,33,,11,Trice,John,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,33,,12,Trice,Robert,,,,1,,4,200,15,225,,,27,90,1,30,,5,,200,,,,,,,,,1.33
+Louisa,1866,RFM,33,,13,Trice,Benjamin,,,,,,2,100,13,190,,,,,,,,5,,150,,,,,,,,,0.62
+Louisa,1866,RFM,33,,14,Trice,Benjamin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,15,Trice,David,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,16,Trice,George,,,,1,,1,50,1,25,,,,,,,25,,,,,,,5000,,,,,7.42
+Louisa,1866,RFM,33,,17,Trice,Thomas,,,,1,,2,150,,,,,,,1,25,50,,,200,,,,,,,,,0.88
+Louisa,1866,RFM,33,,18,Trice,James,,Capt,,1,,2,200,10,180,14,30,14,30,1,125,50,5,,300,,,,15000,,,,,22.57
+Louisa,1866,RFM,33,,19,Trice,Richard,,,,1,,2,100,2,50,12,40,,,,,,,,50,,,,,,,,,0.62
+Louisa,1866,RFM,33,,20,Trice,James,,,,1,,1,100,,,,,,,,,,,,,,,,,,,,,0.42
+Louisa,1866,RFM,33,,21,Trice,Timo[lion],,,,1,,2,70,10,150,,,10,40,1,25,,5,,75,,,,,,,,,0.8
+Louisa,1866,RFM,33,,22,Terrell,[J]erry,,,,1,,,,,,,,,,,,,,,,,,,1500,,,,,2.38
+Louisa,1866,RFM,33,,23,Cosby,Ella[n],,Es[a]n,,,,,,,,,,,,,,,,,,,,,1800,,,,,2.52
+Louisa,1866,RFM,33,,24,Cosby,John,,Ga[r],,,,,,,,,,,,,,,,,,,,,1800,,,,,2.52
+Louisa,1866,RFM,33,,25,Turner,William,,Rev,,,,1,50,3,50,,,2,20,,,,,,40,,,,,,,,,0.23
+Louisa,1866,RFM,33,,26,Tulloh,Henrietta,,Miss,,,,1,50,4,80,5,10,5,20,,,,,,50,,,,,,,,,0.3
+Louisa,1866,RFM,33,,27,Tulloh,John,,,,1,,2,150,6,90,4,10,5,20,,,,,,50,,,,,,,,,0.73
+Louisa,1866,RFM,33,,28,Tulloh,Joseph,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,29,Tulloh,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,30,Thomason,Sep[sevont],,,,,,3,150,4,60,5,15,3,40,,,,,,100,,,,,,,,,0.52
+Louisa,1866,RFM,33,,31,Thomason,Charles,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,32,Thomason,Merdi[ieai],,,,1,,,,,,5,75,14,50,,,,,,50,,,,,,,,,0.53
+Louisa,1866,RFM,33,,33,Thomason,Lewis,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,33,,34,Trainham,Garland,,,,1,,,,,,1,30,,,,,,5,,65,,,,,,,,,0.42
+Louisa,1866,RFM,33,,35,Trainham,Andrew,,,,1,,,,,,1,30,,,,,,,,100,,,,,,,,,0.47
+Louisa,1866,RFM,34,,1,Tyler,Henry W,,,,1,,2,120,6,93,,,10,40,,,,5,,125,,,,,,,,,0.8
+Louisa,1866,RFM,34,,2,Tale,Louisa A [?],,Miss,,,,1,50,2,60,,,3,15,,,,,,40,,,,,,,,,0.24
+Louisa,1866,RFM,34,,3,Tale,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,4,Tale,Michael,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,5,Tale,Mesediah [?],,,,1,,,,2,60,,,6,20,,,,,,40,,,,,,,,,0.42
+Louisa,1866,RFM,34,,6,Tale,Flemming D,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,7,Tale,Nelson,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,8,Tale,Henry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,9,Thomas,William C[?],,,,1,,3,150,7,100,5,10,17,50,,,,,,100,,,,,,,,,0.86
+Louisa,1866,RFM,34,,10,Trevillian,Charles G,,,,1,,2,150,10,120,10,30,7,20,,,15,5,200,300,,,,,2500,,,,4.96
+Louisa,1866,RFM,34,,11,Timberlake,James,,,,1,,3,150,8,100,8,16,12,25,,,,5,,100,,,,,,,,,0.84
+Louisa,1866,RFM,34,,12,Timberlake,Charles G,,,,1,,2,150,3,75,3,10,10,70,1,25,,,,50,,,,,150,,,,1.03
+Louisa,1866,RFM,34,,13,Timberlake,Phillip,,,,1,,2,200,16,80,16,60,,,1,50,,,,100,,,,,,,,,0.97
+Louisa,1866,RFM,34,,14,Timberlake,Joseph,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,15,Tousey,Richard R,,,,1,,1,50,4,75,,,,,,,50,5,,70,,,,,,,,,0.64
+Louisa,1866,RFM,34,,16,Tisdale,Andrew J,,,,1,,,,,,,,3,15,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,17,Tribble,Joseph,,,,1,,,,1,20,,,7,35,,,,,,25,,,,,,,,,0.64
+Louisa,1866,RFM,34,,18,Tribble,James J,,,,1,,,,1,30,,,,,,,,,,50,,,,,,,,,0.28
+Louisa,1866,RFM,34,,19,Trainham,Elias S,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.37
+Louisa,1866,RFM,34,,20,Thomas,Samuel,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.45
+Louisa,1866,RFM,34,,21,Tenee [?],Julian J,,,,1,,,,1,20,,,,,,,,,,30,,,,,,,,,0.28
+Louisa,1866,RFM,34,,22,Talley,William N,,,,1,,2,100,1,25,,,2,10,,,,,,30,,,,,,,,,0.28
+Louisa,1866,RFM,34,,23,Talley,Samuel C [?],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.35
+Louisa,1866,RFM,34,,24,Trainham,Charles G,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.32
+Louisa,1866,RFM,34,,25,Tate,Calvin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,26,Tate,Franklin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,27,Tribble,Mary A,,Mrs,,,,1,30,4,100,,,2,10,,,,,,60,,,,,,,,,0.28
+Louisa,1866,RFM,34,,28,Tyler,Adam,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,29,Tyler,George,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,30,Trice,William,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,31,Triee[?],Nelson,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,32,Terrell,James,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,33,Tyler,Randall,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,34,Tyler,Thomas,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,34,,35,Thompson,John,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,1,Thompson,George,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,2,Taylor,[J]onny,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,3,T[ri]o ,Jackson,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,4,Temple,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,5,Temple,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,6,Toliver,Henry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,7,Timberlake,Sab[re],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,8,Trice,Simon,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,9,Trice,Simon,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,10,Timberlake,George,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,11,T[u]iman,John,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,12,Timberlake,Horace,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,13,Taylor,Henry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,14,Tinsley,Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,15,[Tire],Robert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,16,Thacker,Thomas,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,17,Thomas,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,18,Thomas,Marcell[ue],,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,19,Turner,Albert,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,20,Thompson,Harry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,21,Trice,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,22,Thurston,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,23,Timberlake,Richard  ,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,24,Thompson,James,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,25,Thurston,Walli[s],,,,1,,1,100,,,,,3,20,,,10,,,30,,,,,,,,,0.51
+Louisa,1866,RFM,35,,26,Thurston,Samuel,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,27,Terrell,Charles  ,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,28,Thompson,Samuel,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,29,Talley,Martin,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,30,Thirsty,Guy,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,31,Terrell,Buck,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,32,Terrell,William,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,33,Thompson,Dudley,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,34,Thompson,Aaron,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,35,,35,Thompson,Henry,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,1,Valentine,Christopher,,,,1,,5,250,9,100,7,35,26,130,1,25,,10,150,200,,,,,,,,,1.54
+Louisa,1866,RFM,36,,2,Valentine,John W,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,3,Vest,James M,,,,1,,14,900,35,800,43,200,49,200,2,300,200,5,200,500,,,,,,,,,4.91
+Louisa,1866,RFM,36,,4,Vena,James ,,,,,1,2,150,2,60,,,,,,,,,,50,,,,,,,,,0.65
+Louisa,1866,RFM,36,,5,Whitlock,Rev Bartholomew [?],,,,,,,,2,50,,,7,30,,,20,,,50,,,,,,,,,0.21
+Louisa,1866,RFM,36,,6,Whitlock,Emily E,,,,,,2,200,3,75,,,7,50,1,75,,,,100,,,,,,,,,0.7
+Louisa,1866,RFM,36,,7,Whitlock,James B,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,8,Whitlock,Jake E [?],,,,1,,2,150,4,60,,,14,40,,,,,,50,,,,250 [?],,,,,1.05
+Louisa,1866,RFM,36,,9,Whitlock,James A,,,,1,,,,2,40,,,1,10,,,75,,,75,,,,,,,,,0.56
+Louisa,1866,RFM,36,,10,Waddy,Sophia A,,Mrs,,,,3,300,15,300,20,50,,,2,200,,5,150,250,,,,2000,,,,,4.56
+Louisa,1866,RFM,36,,11,Waddy,George J,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,12,Waddy,Woodson P,,,,1,,1,50,,,,,,,,,,,,,,,,,,,,,0.35
+Louisa,1866,RFM,36,,13,Waddy,William,,,,1,,6,350,5,125,9,30,9,90,1,50,,5,,125,,,,,,,,,1.44
+Louisa,1866,RFM,36,,14,Wright,William H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,15,Waldsore [?],Frank L,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,16,Waldsore [?],George J,,,,1,,,,3,75,12,40,11,33,7,75,,5,,100,,,,,,,,,0.77
+Louisa,1866,RFM,36,,17,Ware,Nathan A,,,,1,,2,100,15,250,4,10,6,20,,,,,,125,,,,1200,,,,,2.67
+Louisa,1866,RFM,36,,18,Wash,Edward L,,,,1,,1,60,4,100,3,10,18,75,,,,,,25,,,,,,,,,0.66
+Louisa,1866,RFM,36,,19,Wallow,Palsey,,Mrs,,,,1,100,5,100,,,5,20,,,,5,,200,,,,3000,,,,,4.8
+Louisa,1866,RFM,36,"An extra name was added in this row, so I split up both people into two separate entries. James B Walton was the other name and William Webb is the person who was added in. This is why there are 36 entries, instead of 35, for page 36.",20,Webb,William,,,,1,,2,200,,,,,,,,,,,,50,,,,,,,,,0.63
+Louisa,1866,RFM,36,"This is the second name, noted above.",21,Walton,James B,,,,1,,3,180,17,240,18,54,20,160,2,60,,5,,150,,,,,,,,,1.47
+Louisa,1866,RFM,36,,22,Walton,Andrew W,,,,1,,2,100,11,150,,,17,35,,,30,,,,,,,,,,,,0.73
+Louisa,1866,RFM,36,,23,Williams,Nancey,,Mrs,,,,,,1,30,,,3,25,,,,,,50,,,,,,,,,0.15
+Louisa,1866,RFM,36,,24,Woolfolk,Ann E,,Mrs,,,,5,325,10,150,,,15,50,1,25,,,100,200,,,,3000,,,,,5.39
+Louisa,1866,RFM,36,,25,Woolfolk,James H,,,,1,,5,375,32,320,25,60,20,80,1,25,,,,200,,,,,,,,,1.77
+Louisa,1866,RFM,36,,26,Wren [?],Edward,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,27,Wilkinson,Elizabeth,,Mrs,,,,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,RFM,36,,28,Warren [?],Wm Jr Prest Victor [?],William Junior,,,,,15,1500,2,60,,,,,,,,,,,,,,,,,,,2.19
+Louisa,1866,RFM,36,,29,Winston,Frank V,,,,1,,,,,,,,,,,,,,,,,,,9000,,,,,12.88
+Louisa,1866,RFM,36,,30,Whitlock,John H (SJG) [?],Senior [?],,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,31,Whitlock,Jake A (SJG) [?],Senior [?],,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,32,Woolfolk,Robert W,,,,1,,5,300,5,120,,,22,130,,,60,,,150,,,,,,,,,1.35
+Louisa,1866,RFM,36,,33,Wood,George W,,,,1,,2,100,1,30,,,,,,,,,,25,,,,,,,,,0.5
+Louisa,1866,RFM,36,,34,Ward,Dennis,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,RFM,36,,35,Wale,Henry J,,,,1,,3,300,7,140,20,50,21,50,,,,,150,100,,,,,,,,,1.39
+Louisa,1866,RFM,36,,36,Washington,William,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,1,Willis,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,2,Wood,Emanuet,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,3,West,Reubin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,4,Wilson,Isaac,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,5,Woolcloth [?],Reubin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,6,Whitlow,Nelson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,7,Wright,Randall,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,8,Waddy,Granville,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,9,Winn,Jake,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,10,White,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,11,Wood,Robert,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,12,Watson,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,13,Watson,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,14,West,Squire,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,15,Winston,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,16,Waddy,Holmy,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,17,Watson,Scotson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,18,Winston,Cornelius,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,19,Williams,John Thomas,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,20,Willis,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,21,Wood,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,"First name smudged, hard to tell",22,Wood,Wesley,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,23,Waddy,John,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,24,Watson,Benjamin,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,25,White,James,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,26,West,Charles,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,27,Willis,Jacob,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,28,Walls,George A,,,,,1,1,75,2,40,,,,,,,,,,,,,,,,,,,0.45
+Louisa,1866,Moss,37,,29,Watson,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,30,Whitlow,Jackson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,31,Wright,James H,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,32,Willis,Thorton,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,First name hard to interpret,33,Winston,Seeves,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,34,White,Jefferson,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,37,,35,Washington,George,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,,1,Wise,Lewis,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,,2,Young,Margarite,,Mrs,,,,1,50,2,40,,,8,10,,,,10,50,50,,,,,,,,,0.3
+Louisa,1866,Moss,38,,3,Young,William H,,,,1,,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,,4,Yancey,Dabney,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,"First name super difficult, just a wild guess",5,Yancey,Cloceter [???],,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,,6,Yancey,Samuel,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,,7,Yancey,Henry,,,,,1,,,,,,,,,,,,,,,,,,,,,,,0.28
+Louisa,1866,Moss,38,*LAST ROW,8,Yancey,Patrick,,,,,1,,,,,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,39,*TABULATION,1,RECAP,,,,,11,17,27,1760,84,1290,51,140,99,405,4,325,145,40,350,1100,,,,,,,,,15.66
+Louisa,1866,Moss,39,,2,,,,,,34,,70,4560,140,2385,150,375,269,1020,12,875,360,90,350,2880,10,,,,8300,,,,39.25
+Louisa,1866,Moss,39,,3,,,,,,30,,64,3695,150,2665,125,330,293,1133,13,575,345,70,350,2875,150,,,,5000,500,,,40.04
+Louisa,1866,Moss,39,,4,,,,,,20,14,14,1000,26,520,,,27,105,2,55,90,15,50,750,,,,,,,,,13.16
+Louisa,1866,Moss,39,,5,,,,,,,35,,,,,,,,,,,,,,,,,,,,,,,9.8
+Louisa,1866,Moss,39,,6,,,,,,15,17,39,2875,107,2150,194,295,154,510,10,920,30,65,350,1895,50,,,,1000,,,,23.2
+Louisa,1866,Moss,39,,7,,,,,,33,,62,3750,140,2410,100,250,176,755,14,975,290,65,100,4240,200,,,,7250,,4.375,,59.55
+Louisa,1866,Moss,39,,8,,,,,,6,27,16,1000,27,465,23,55,73,240,3,70,45,5,,975,,,,,,,,,13.29
+Louisa,1866,Moss,39,,9,,,,,,27,7,35,2130,82,1515,47,135,165,665,5,425,85,30,,1050,,,,,8200,,,,29.51
+Louisa,1866,Moss,39,,10,,,,,,8,26,13,775,26,540,5,10,58,245,,,50,20,,525,,,,,,,,,12.59
+Louisa,1866,Moss,39,,11,,,,,,22,9,33,2165,106,1715,41,100,174,670,7,425,60,50,,1680,,,,,1400,,,,20.31
+Louisa,1866,Moss,39,,12,,,,,,31,,91,5725,252,4045,167,390,362,1240,18,1090,725,120,575,3985,140,,,,14500,,,,54.48
+Louisa,1866,Moss,39,,13,,,,,,2,33,4,400,1,25,2,5,11,30,,,,5,,50,,,,,,,,,10.53
+Louisa,1866,Moss,39,,14,,,,,,28,5,54,3355,133,2120,150,400,225,785,12,875,335,30,550,2665,20,,,,17850,500,,,69.91
+Louisa,1866,Moss,39,,15,,,,,,30,,44,2820,109,2000,71,190,208,750,10,405,,30,300,1765,40,,,,1000,,,,21.5
+Louisa,1866,Moss,39,,16,,,,,,21,9,34,2235,68,1095,45,115,96,348,2,70,275,25,100,890,,,,,1350,,,,17.57
+Louisa,1866,Moss,39,,17,,,,,,9,25,16,1115,60,940,52,135,83,275,3,200,85,,,570,,,,,1500,500,,,36.28
+Louisa,1866,Moss,39,,18,,,,,,6,28,11,670,26,450,8,20,47,160,3,105,,5,250,575,,,,,2000,,,,15.46
+Louisa,1866,Moss,39,,19,,,,,,,35,,,,,,,,,,,,,,,,,,,,,,,9.8
+Louisa,1866,Moss,39,,20,,,,,,15,21,23,1275,46,715,31,80,76,265,5,155,155,20,150,1050,,,,,2000,200,,,26.33
+Louisa,1866,Moss,39,,21,,,,,,18,16,24,1425,47,900,38,105,75,275,1,25,100,20,100,850,,,,,200,,,,15.21
+Louisa,1866,Moss,39,,22,,,,,,22,5,50,3220,137,2475,110,290,212,790,9,515,205,70,275,2390,25,,,,3300,,,,26.64
+Louisa,1866,Moss,39,,23,,,,,,11,24,5,350,6,90,,,10,20,1,40,50,,75,100,,,,,400,,,,11.38
+Louisa,1866,Moss,39,schedule d & e ripped off,24,,,,,,3,32,13,925,29,520,20,60,56,265,2,60,50,20,125,390,,,,,,,,,13.24
+Louisa,1866,Moss,39,schedule d & e ripped off,25,,,,,,18,13,23,1690,58,1070,38,110,75,290,10,610,100,25,100,1325,15,,,,1100,,,,17.73
+Louisa,1866,Moss,39,schedule d & e ripped off,26,,,,,,29,1,82,5405,190,3295,220,680,295,1125,15,1260,550,40,400,3650,50,,,,18050,,,,56.83
+Louisa,1866,Moss,39,schedule d & e ripped off,27,,,,,,4,31,5,395,9,185,,,10,40,,,,10,,305,,,,,,,,,11.12
+Louisa,1866,Moss,39,schedule d & e ripped off,28,,,,,,22,7,68,3975,150,2265,152,395,261,955,11,690,295,45,300,2185,185,,,,2300,,200,,28.2
+Louisa,1866,Moss,39,schedule d & e ripped off,29,,,,,,17,14,36,1980,73,1475,60,160,116,420,7,205,35,20,250,1440,20,,,,2350,,,,20.45
+Louisa,1866,Moss,39,schedule d & e ripped off,30,,,,,,34,6,35,1910,69,1310,38,87,127,360,3,110,10,25,200,2045,,,,,500,,,,19.06
+Louisa,1866,Moss,39,schedule d & e ripped off,31,,,,,,27,6,22,1445,44,960,6,20,90,365,7,205,180,20,,1170,95,,,,1500,,,,17.74
+Louisa,1866,Moss,39,schedule d & e ripped off,32,,,,,,7,25,18,935,39,605,52,110,74,285,1,50,150,10,100,800,,,,,2000,,,,16.08
+Louisa,1866,Moss,39,schedule d & e ripped off,33,,,,,,29,,30,1865,114,1845,28,65,171,655,5,405,300,25,75,2040,,,,,25100,,,,53.52
+Louisa,1866,Moss,39,schedule d & e ripped off,34,,,,,,25,8,19,1150,56,920,26,66,95,370,2,75,65,20,200,1125,,,,,2650,,,,18.61
+Louisa,1866,Moss,39,schedule d & e ripped off,35,,,,,,,35,1,100,,,,,3,20,,,10,,,30,,,,,,,,,10.03
+Louisa,1866,Moss,40,right page missing,1,Recap pt. 2,,,,,26,2,81,5990,189,3345,163,539,271,1250,13,865,435,40,750,2775,,,,,18450,,,,
+Louisa,1866,Moss,40,right page missing,2,,,,,,,35,1,75,2,40,,,,,,,,,,,,,,,,,,,
+Louisa,1866,Moss,40,right page missing,3,,,,,,1,6,1,50,2,40,3,10,,,,,,10,50,50,,,,,,,,,
