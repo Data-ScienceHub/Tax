@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>MongoBnB | Home</title>
+    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container mx-auto">
+      <div class="flex">
+          <div class="row w-full text-center my-4">
+              <h1 class="text-4xl font-bold mb-5">Demo</h1>
+          </div>
+      </div>
+      <div>
+      {% for record in response %}
+        <p>
+          {{ record.surname }}
+        </p>
+      {% endfor %}
+      </div>
+    </div>
+</body>
+</html>
+
+
