@@ -1,0 +1,42 @@
+## Meeting Notes 2/13/23
+
+- Anticipating new data
+    - Will future dates include days and months?
+        - She wants to stick with focusing on the 4-digit year
+- Ask for search inputs
+    - First name/surname
+    - Location
+    - Range of dates
+    - Record type (1782 property taxes for example)
+    - Also want to search for other (non primary) names
+- Remind to agree on proposal
+    - She’s concerned that she won’t get what she wants based on our proposal
+    - Wants to reword some of the intro stuff
+    - Wants to remove the structure
+    - She wants to pare down the document so that it only includes what we’ve agree on
+    - Feels like the hosting is the only thing up in the air too, the rest has moved under our feet
+    - She wants everything out that can be removed
+- Show query
+    - Yay Ami!
+- Discuss our tool of choice - Starlette
+    - Her sense: when the other guys completed their project, their interface was searching through a static representation of the data
+        - Esri insights - code capable way to visualize data
+        - You could use Esri insights on a static version of the data that you bring over to the Esri web services - she says she did this with Chunru
+        - She thinks the other option - to write a particular kind of code to access the dynamic data - is above our pay grade
+        - SOUNDS LIKE she is on board with using a different tool as long as it’s free!
+    - Ideal response: hyperlink to record image, subset of data (name, year, location, ALWAYS RETURN event title)
+    - Can we try to get output sorted by particular columns
+- For future spreadsheets:
+    - Month and day as separate integer columns needs to not have the word ‘year’ in it
+- Hosting
+    - Reclaim would be inexpensive (theoretically)
+    - She wants to try Reclaim Cloud one more time!
+    - But she seems kind of nervous about MongoDB… but starting to be convinced!
+
+
+- To do:
+    - Access the website, see where we’d put an html page (check for a port)
+    - Reach out to Reclaim Hosting myself (Rachel) to solve the problem
+    - Look up whether it’s possible to get Reclaim Cloud to host the database
+    - Look up what the customer service is like for MongoDB and AWS
+    - Reword proposal by tomorrow morning
