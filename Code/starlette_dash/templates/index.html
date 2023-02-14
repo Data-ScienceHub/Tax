@@ -1,22 +1,67 @@
 <html>
 <head>
-    <title>MongoBnB | Home</title>
-    <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
+    <title>Property Taxes | Home</title>
+    <style>
+    table, th, td {
+
+      border: 1px solid black;
+      
+      border-collapse: collapse;
+      
+    }
+      
+    th, td {
+      
+      padding: 10px;
+      
+    }
+      
+    th {
+      
+      background-color: #d4ebf2;
+      
+    }
+</style>
 </head>
 <body>
 
     <div class="container mx-auto">
       <div class="flex">
           <div class="row w-full text-center my-4">
-              <h1 class="text-4xl font-bold mb-5">Demo</h1>
+              <h1 class="text-4xl font-bold mb-5">Property Taxes Display Demo</h1>
           </div>
       </div>
       <div>
-      {% for record in response %}
-        <p>
-          {{ record.surname }}
-        </p>
-      {% endfor %}
+        <table>
+          <tr>
+
+            <th>ID</th>
+
+            <th>Source Steward</th>
+            
+            <th>Source Loc City</th>
+            
+            <th>Source Loc State</th>
+
+            <th>Source Title</th>
+            
+          </tr>
+          {% for person in response %}
+          <tr>
+
+            <th>{{ person.id }}</th>
+            
+            <td>{{ person.sourcesteward }}</td>
+            
+            <td>{{ person.sourceloccity }}</td>
+
+            <td>{{ person.sourcelocstate }}</td>
+
+            <td>{{ person.sourcetitle }}</td>
+            
+          </tr>
+          {% endfor %}
+        </table>
       </div>
     </div>
 </body>

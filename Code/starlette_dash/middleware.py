@@ -5,8 +5,8 @@ import ssl
 
 class DatabaseMiddleware(BaseHTTPMiddleware):
     async def dispatch(self, request, call_next):
-      client = pymongo.MongoClient("mongodb+srv://racheltreene:Rgftw2000!@cluster0.uwoettr.mongodb.net/test")
-      db = client["onesharedstory"]
+      client = pymongo.MongoClient("mongodb+srv://DS6013_Students_Rachel:DS6013_Students_RG@countyrecords.4cdfgz2.mongodb.net/test")
+      db = client["TaxRecords"]
       request.state.db = db
       response = await call_next(request)
       return response
