@@ -42,69 +42,69 @@ Below is a graphic representation of this project’s tasks. Tasks are organized
 
 ### Task Specification and Description
 
-Below is a more detailed description of each component of the above graphic, along with deliverables listed. The most important deliverables for the project are under the database and hosting components of the Work Breakdown Structure. See the end of this document for a deliverable timeline and importance rating of each deliverable.
+Below is a more detailed description of each component of the above graphic, along with deliverables listed. The most important deliverables for the project are under the database and hosting components of the Work Breakdown Structure. See the end of this document for a deliverable timeline.
 
 #### Database: Data Structure
 
 ##### Restructure Data.
 
-The data in the database must be structured such that it may be potentially merged with datasets from other organizations. In particular, it should be compatible with Ancestry.com and the organization On These Grounds’ (OTG) data structure. This will entail a change in structure from the current tabular data provided by OSS to a JSON structure. Deliverable: restructured data compatible with, or at least similar to, Ancestry.com datasets.
+The data in the database must be structured such that it may be potentially merged with datasets from other organizations. In particular, it should be compatible with Ancestry.com and the organization On These Grounds’ (OTG) data structure. This will entail a change in structure from the current tabular data provided by OSS to a JSON structure. **Deliverable: restructured data compatible with, or at least similar to, Ancestry.com datasets.**
 
 ##### Adjust Column Names.
 
-The current data features, or columns, have names that make queries difficult to write and do not reflect the desired data structure. These will be renamed to honor the controlled vocabulary data structure of OTG and make queries easier to write. Deliverable: renamed feature names in the database for ease of querying and OTG controlled vocabulary adherence.
+The current data features, or columns, have names that make queries difficult to write and do not reflect the desired data structure. These will be renamed to honor the controlled vocabulary data structure of OTG and make queries easier to write. **Deliverable: renamed feature names in the database for ease of querying and OTG controlled vocabulary adherence.**
 
 #### Database: Querying
 
 ##### Write Name-Event Query.
 
-The query function for accessing and searching the database must return names in association with events. This can be expressed as a name-event relationship. The query should search by name, location, date (as a range), and record type. In addition, the query must be flexible and capable of searching new datasets that are similar or identical in their features. This means the query should be general enough to search for names and events with data from a slightly different historical record. For example, the queries will be designed around the current available data, which is property tax records. However, queries should also function for other property tax records with similar feature names. Deliverable: Queries that return names in association with events, and are general enough to accommodate new datasets.
+The query function for accessing and searching the database must return names in association with events. This can be expressed as a name-event relationship. The query should search by name, location, date (as a range), and record type. In addition, the query must be flexible and capable of searching new datasets that are similar or identical in their features. This means the query should be general enough to search for names and events with data from a slightly different historical record. For example, the queries will be designed around the current available data, which is property tax records. However, queries should also function for other property tax records with similar feature names. **Deliverable: Queries that return names in association with events, and are general enough to accommodate new datasets.**
 
 ##### Document Query Writing.
 
-The queries should be well-documented such that Robin can understand and replicate them, even modifying them when appropriate. Deliverable: a well-documented query function with instructions for replicating and editing queries in the future.
+The queries should be well-documented such that Robin can understand and replicate them, even modifying them when appropriate. **Deliverable: a well-documented query function with instructions for replicating and editing queries in the future.**
 
 #### Searching: Public Dashboard
 
 ##### Choose Tool.
 
-A no-cost tool will be chosen for the dashboards. Currently, the team’s pick is a Python package called Starlette, recommended by Professor Fox. This package is free of charge and offers easy interfacing with MongoDB, as well as extensive documentation. Deliverable: a dashboard made with a free tool, most likely Starlette.
+A no-cost tool will be chosen for the dashboards. Currently, the team’s pick is a Python package called Starlette, recommended by Professor Fox. This package is free of charge and offers easy interfacing with MongoDB, as well as extensive documentation. **Deliverable: a dashboard made with a free tool, most likely Starlette.**
 
 ##### Configure Search Fields.
 
-For the search dashboard, which must be a publicly available application, search fields should reflect similar ancestry record search interfaces, such as the dashboard provided by Ancestry.com. These fields may be tweaked and adjusted in conversation with Robin. Important fields include Name, Location, and Event. Deliverable: appropriate search terms on search dashboard for returning genealogy records by name, event, and/or location.
+For the search dashboard, which must be a publicly available application, search fields should reflect similar ancestry record search interfaces, such as the dashboard provided by Ancestry.com. These fields may be tweaked and adjusted in conversation with Robin. Important fields include Name, Location, and Event. **Deliverable: appropriate search terms on search dashboard for returning genealogy records by name, event, and/or location.**
 
 ##### Choose Output Display.
 
-The search dashboard should display results in an appropriately neat and clear manner. The query returns should include a link to the hosted document image (when available as a URL) to open in a new window. This could be a dataframe format or more structured, like the format of Ancestry.com. Other visualizations like charts or graphs are also possible. Deliverable: a neat and readable search result display.
+The search dashboard should display results in an appropriately neat and clear manner. The query returns should include a link to the hosted document image (when available as a URL) to open in a new window. This could be a dataframe format or more structured, like the format of Ancestry.com. Other visualizations like charts or graphs are also possible. **Deliverable: a neat and readable search result display.**
 
 ##### Update Query as Needed.
 
-As the search dashboard and search fields are chosen and adjusted, the query function may need updates. This should be done concurrently with search term decisions and well-documented, as specified under the Database: Querying deliverable. Deliverable: edited and documented query function as needed to accommodate search dashboard.
+As the search dashboard and search fields are chosen and adjusted, the query function may need updates. This should be done concurrently with search term decisions and well-documented, as specified under the Database: Querying deliverable. **Deliverable: edited and documented query function as needed to accommodate search dashboard.**
 
 #### Data Entry: Spreadsheet Entry
 
 ##### Choose Tool.
 
-Spreadsheet entry should be accomplished either through the same dashboard tool used for searching, or directly in MongoDB Compass. Deliverable: a dashboard or direct upload pipeline.
+Spreadsheet entry should be accomplished either through the same dashboard tool used for searching, or directly in MongoDB Compass. **Deliverable: a dashboard or direct upload pipeline.**
 
 ##### Write Code or Documentation.
 
-The data entry dashboard must be appropriately connected to the database and enter data correctly. This will require writing functional code that correctly adds an entire spreadsheet of data to the database in such a way that it will be accessible by the query function. Additionally, the format of the spreadsheet that is to be added has been or will be defined by Robin and OSS. Alternatively, instead of code, this functionality could be achieved with documentation for uploading a spreadsheet directly in MongoDB Compass. Deliverable: working data entry code for adding an entire collection to the MongoDB database, or documentation for uploading a spreadsheet to MongoDB.
+The data entry dashboard must be appropriately connected to the database and enter data correctly. This will require writing functional code that correctly adds an entire spreadsheet of data to the database in such a way that it will be accessible by the query function. Additionally, the format of the spreadsheet that is to be added has been or will be defined by Robin and OSS. Alternatively, instead of code, this functionality could be achieved with documentation for uploading a spreadsheet directly in MongoDB Compass. **Deliverable: working data entry code for adding an entire collection to the MongoDB database, or documentation for uploading a spreadsheet to MongoDB.**
 
 #### Hosting: MongoDB
 
 ##### Run Tests
 
-The database, once created, must be appropriately tested. This includes testing its scalability by adding new data and checking for the functionality of the query function, testing its performance, and testing its usability among other important tests. Deliverable: appropriately tested and, when needed, fixed database.
+The database, once created, must be appropriately tested. This includes testing its scalability by adding new data and checking for the functionality of the query function, testing its performance, and testing its usability among other important tests. **Deliverable: appropriately tested and, when needed, fixed database.**
 
 ##### Choose Hosting Location.
 
-The database needs to be hosted on the OSS website through its hosting service, Reclaim Cloud, or on AWS through MongoDB. Deliverable: working database hosted appropriately.
+The database needs to be hosted on the OSS website through its hosting service, Reclaim Cloud, or on AWS through MongoDB. **Deliverable: working database hosted appropriately.**
 
 ##### Document Maintenance.
 
-Robin would like to maintain the database herself whenever possible. The maintenance of the database should be well-documented to facilitate this. This documentation will be developed with Dr. Fox and Ian Liu, who have expertise and knowledge about maintaining a database. Deliverable: detailed documentation for maintaining the database.
+Robin would like to maintain the database herself whenever possible. The maintenance of the database should be well-documented to facilitate this. This documentation will be developed with Dr. Fox and Ian Liu, who have expertise and knowledge about maintaining a database. **Deliverable: detailed documentation for maintaining the database.**
 
 ## Project Exclusions
 
@@ -144,30 +144,30 @@ Rachel Grace: communication lead
 
 ## Project Deliverables
 
-2/15/23 - **Database: Data Structure** Restructured data compatible with, or at least similar to, Ancestry.com datasets.
+2/15/23 - *Database: Data Structure* Restructured data compatible with, or at least similar to, Ancestry.com datasets.
 
-2/15/23 - **Database: Data Structure** Renamed feature names in the database for ease of querying
+2/15/23 - *Database: Data Structure* Renamed feature names in the database for ease of querying
 
-2/22/23 - **Database: Querying** Queries that return names in association with events, and are general enough to accommodate new datasets
+2/22/23 - *Database: Querying* Queries that return names in association with events, and are general enough to accommodate new datasets
 
-4/1/23 - **Data Entry** A dashboard or direct upload pipeline
+4/1/23 - *Data Entry* A dashboard or direct upload pipeline
 
-4/1/23 - **Searching** A dashboard made with a free tool, most likely Starlette
+4/1/23 - *Searching* A dashboard made with a free tool, most likely Starlette
 
-4/1/23 - **Searching** Appropriate search terms on search dashboard for returning genealogy records by name, event, and/or location
+4/1/23 - *Searching* Appropriate search terms on search dashboard for returning genealogy records by name, event, and/or location
 
-4/1/23 - **Searching** A neat and readable search result display
+4/1/23 - *Searching* A neat and readable search result display
 
-4/1/23 - **Data Entry** Working data entry code for adding an entire collection to the MongoDB database, or documentation for uploading a spreadsheet to MongoDB
+4/1/23 - *Data Entry* Working data entry code for adding an entire collection to the MongoDB database, or documentation for uploading a spreadsheet to MongoDB
 
-5/3/23 - **Hosting** Appropriately tested and, when needed, fixed database
+5/3/23 - *Hosting* Appropriately tested and, when needed, fixed database
 
-5/3/23 - **Hosting** Working database hosted appropriately
+5/3/23 - *Hosting* Working database hosted appropriately
 
-5/3/23 - **Searching** Edited and documented query function as needed to accommodate search dashboard
+5/3/23 - *Searching* Edited and documented query function as needed to accommodate search dashboard
 
-5/3/23 - **Database: Querying** A well-documented query function with instructions for replicating and editing queries in the future
+5/3/23 - *Database: Querying* A well-documented query function with instructions for replicating and editing queries in the future
 
-5/3/23 - **Hosting** Detailed documentation for maintaining the database
+5/3/23 - *Hosting* Detailed documentation for maintaining the database
 
 5/3/23 - Complete project
