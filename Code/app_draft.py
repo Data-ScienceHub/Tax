@@ -12,12 +12,12 @@ import numpy as np
 import dotenv
 dotenv.load_dotenv(dotenv_path="/Users/amikano/Documents/MSDS/Capstone/web_app/.env")
 
-app = Flask(__name__)
+app = Flask(__name__, template_folder = 'template')
 
 # print(os.getenv("MONGO_DBNAME")) # returns None
 
 app.config["MONGO_DBNAME"] = "TaxRecords" # os.getenv("MONGO_DBNAME")
-app.config["MONGO_URI"] = "mongodb+srv://DS6013_Students_Ami:DS6013_Students_AK@countyrecords.4cdfgz2.mongodb.net/?retryWrites=true&w=majority"
+app.config["MONGO_URI"] = "mongodb+srv://DS6013_Students_Ami:DS6013_Students_AK@countyrecords.4cdfgz2.mongodb.net/TaxRecords?retryWrites=true&w=majority"
 # os.getenv("MONGO_URI")
 
 mongo = PyMongo(app)
@@ -26,8 +26,8 @@ mongo = PyMongo(app)
 
 
 @app.route("/")
-@app.route("/main_page")
-def main_page():
+@app.route("/records_list")
+def records_list():
     """
     Renders the main page; no cards/people for now
     Takes inputs: text search bars (given_name, surname), 
@@ -36,9 +36,9 @@ def main_page():
                   dropdown (source)
     """
     
-    sources = mongo.list_collection_names()
+    sources = mongo.db.list_collection_names()
     return render_template(
-        "main_page.html",
+        "records_list.html",
         sources=sources
     )
 
@@ -63,6 +63,8 @@ def search():
     
     date_range = [date_range_0, date_range_1]
     
+    sources = mongo.db.list_collection_names()
+    
     # SEARCH FUNCTION
     #----------------------------------------------
     
@@ -70,7 +72,7 @@ def search():
     output = list()
 
     # if searching all documents in database
-    if source=="any":
+    if source=="":
         
         # look at each table/document
         for collection in mongo.db.list_collection_names():
@@ -230,7 +232,7 @@ def search():
     
     events = output # currently list of pandas dataframes
     return render_template(
-        "main_page.html",
+        "get_records.html",
         sources=sources,
         events=events
     )
