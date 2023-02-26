@@ -61,12 +61,7 @@ def search():
     location = request.form.get("location")
     source = request.form.get("source")
     
-    if date_range_0 != "" and date_range_1 != "":
-        date_range_0 = int(date_range_0)
-        date_range_1 = int(date_range_1)
-        date_range = [date_range_0, date_range_1]
-    else:
-        date_range = []
+    date_range = [date_range_0, date_range_1]
     
     sources = mongo.db.list_collection_names()
     
@@ -130,32 +125,28 @@ def search():
                 given_name_query = {"$or" : []}
                 for key in key_for_given_name:
                     given_name_query["$or"].append({ key: {"$regex" : given_name, "$options" : "i"} })
-                if given_name_query:
-                    query["$and"].append(given_name_query)
+                query["$and"].append(given_name_query)
 
             if surname:
                 surname_query = {"$or" : []}
                 for key in key_for_surname:
                     surname_query["$or"].append({ key: {"$regex" : surname, "$options" : "i"} })
-                if surname_query:
-                    query["$and"].append(surname_query)
+                query["$and"].append(surname_query)
 
             if date_range:
                 date_query = {"$or" : []}
                 for key in key_with_date:
                     date_query["$or"].append({ key: {'$gte' : date_range[0], '$lte' : date_range[1]} })
-                if date_query:
-                    query["$and"].append(date_query)
+                query["$and"].append(date_query)
 
             if location:
                 location_query = {"$or" : []}
                 for key in key_with_location:
                     location_query["$or"].append({ key : {"$regex" : location, "$options" : "i"} })
-                if location_query:
-                    query["$and"].append(location_query)
+                query["$and"].append(location_query)
 
             # add results in output list
-            output.append(pd.DataFrame(list(mongo.db[collection].find(query))).to_html(header=True))
+            output.append(pd.DataFrame(list(mongo.db[collection].find(query))))
 
     # if a specific source document is selected
     else:
@@ -211,41 +202,39 @@ def search():
             given_name_query = {"$or" : []}
             for key in key_for_given_name:
                 given_name_query["$or"].append({ key: {"$regex" : given_name, "$options" : "i"} })
-            if given_name_query:
-                query["$and"].append(given_name_query)
+            query["$and"].append(given_name_query)
 
         if surname:
             surname_query = {"$or" : []}
             for key in key_for_surname:
                 surname_query["$or"].append({ key: {"$regex" : surname, "$options" : "i"} })
-            if surname_query:
-                query["$and"].append(surname_query)
+            query["$and"].append(surname_query)
 
         if date_range:
             date_query = {"$or" : []}
             for key in key_with_date:
                 date_query["$or"].append({ key: {'$gte' : date_range[0], '$lte' : date_range[1]} })
-            if date_query:
-                query["$and"].append(date_query)
+            query["$and"].append(date_query)
 
         if location:
             location_query = {"$or" : []}
             for key in key_with_location:
                 location_query["$or"].append({ key : {"$regex" : location, "$options" : "i"} })
-            if location_query:
-                query["$and"].append(location_query)
+            query["$and"].append(location_query)
         
         # produce result
-        output.append(pd.DataFrame(list(mongo.db[source].find(query))).to_html(header=True))
+        output.append(pd.DataFrame(list(mongo.db[source].find(query))))
 
     
     #----------------------------------------------
     # END SEARCH FUNCTION
     
+    
+    events = output # currently list of pandas dataframes
     return render_template(
         "get_records.html",
         sources=sources,
-        event_tables=output
+        events=events
     )
 
 
