@@ -1,0 +1,46 @@
+## Omeka Site Creation Documentation
+
+- Updates 3/16/2023
+    - Using Installatron on Reclaim Hosting, installed an Omeka instance at the URL http://onesharedstory.org/records/
+        - using version 3.0.3 (recommended)
+        - administrator username: MSDS_OSS
+        - administrator PW: #zGZ)d^8IQ86
+        - administrator email: rwpatton@alumni.virginia.edu
+        - website title: Records
+    - can log in with credentials at onesharedstory.org/records/admin/users/login
+    - added our data in the database oneshare_Junk (still logged in with Robin's credentials)
+        - cleared database, uploaded the two new .csv files
+        - to do this:
+            - from oneshare_Junk location (click on it on the left), select import tab
+            - select file (ex: Tax_Record_1782.csv)
+            - make sure format is CSV
+            - under format-specific options, check "The first line of the file contains the table column names"
+            - click "Go"
+            - click the name of the table on the left (probably TABLE followed by a number) to look at the data - everything should look good!
+            - click the operations tab
+            - under table options rename the table if desired (ex: I renamed table to Tax_Record_1782)
+        - repeat this step for all tables needed in the database!
+    - set up the new Omeka instance with the database
+        - opened a terminal under "Advanced" in cPanel
+        - it issued a warning to be careful since I could cause some damage from the terminal - proceed with caution!
+        - steps within the terminal:
+            - put me in the home directory with the username 'oneshare@outofstep'
+            - changed directory into public_html with the command `cd public_html`
+            - changed directory into records, my Omeka instance, with the command `cd records`
+            - opened the file db.ini with the command `vi db.ini`
+            - this opened the configuration file which showed that, after all that, the Omeka instance already had a database called 'oneshare_om4`
+            - the username for this database is 'oneshare_om4' and the password is 'P.hmeqj5h9mneAIx5XD63'
+            - to exit the file, typed `:quit<Enter>`
+        - this indicated that I needed to simply upload the files into the database 'oneshare_om4' so I repeated the above steps for importing data in this other database under the 'om_collections' collection, except the column names had to be specified
+            - this did not work!
+        - back to the drawing board - back to editing the db.ini
+            - username: oneshare_UVA
+            - PW: OneSharedStory
+            - dbname: oneshare_Junk
+            - commented out the prefix line
+        - that also did not work :( got an internal server error even when I uncommented the prefix line. Changed the settings back
+    - I'm pivoting to try something called Laravel
+        - the directory is records_dash, meaning that the URL is http://onesharedstory.org/records_dash/
+        - version is 9.19.0
+        - instance is called "Records Dashboard"
+- Future Updates
