@@ -1,0 +1,62 @@
+{% extends "records_list.html" %}
+
+{% block searchbar %}
+
+<div class="page-wrapper bg-img-3 p-t-240 p-b-120">
+    <div class="wrapper wrapper--w900">
+        <div class="card card-6">
+            <div class="card-body">
+                <form action="{{ url_for('search') }}" method="POST" class="col s12">
+                    <div class="row row-space">
+                        <div class="col-2">
+                            <div class="input-group"> 
+                                    <label for="given_name">First Name:</label><br>
+                                    <input type="text" name="surname" id="surname" value="" class="input--style-1" type = "text" placeholder="James"><br>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="input-group">
+                                <label for="surname">Last Name:</label><br>
+                                <input type="text" name="surname" id="surname" value="" minlength="3" class="input--style-1" type = "text" placeholder="Johnson"><br>
+                            </div>
+                        </div>  
+                    </div>
+                    <div class="row row-space"> 
+                        <div class="col-2">
+                            <div class="input-group">  
+                                <label for="location">County Name:</label><br>
+                                <input type="text" name="location" id="location" value="" minlength="3" class="input--style-1" type = "text" placeholder="Richmond"><br>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <div class="input-group"> 
+                                <label for="date_range_1">Year Range:</label><br>
+                                <input type="text" name="date_range_0" id="date_range_0" value="" minlength="3" class="input--style-1" type = "text" placeholder="1686">
+                                <input type="text" name="date_range_1" id="date_range_1" value="" minlength="3" class="input--style-1" type = "text" placeholder="1886"><br>
+                            </div>
+                        </div> 
+                    </div> 
+                    <div class="row row-space">
+                        <div class="input-field col s12 m4">
+                            <div class="input-group"> 
+                                <label>Source:</label><br>
+                                <select id="source" name="source" class="input--style-1">
+                                    <option value="" selected>All source</option>
+                                    {% for source in sources %}
+                                    <option value="{{ source }}">{{ source.capitalize() }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-2">
+                            <button class="btn-submit m-b-0" type="submit">search</button>
+                        </div>
+                    </div>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,10 @@
+<!-- Error page displayed when trying to access a page that doesn't exist -->
+
+{% extends "base.html" %}
+{% block content %}
+<div class="card-panel white-transparent">
+    <h2>Oops! Looks like this page doesn't exist</h2>
+    <p><a href="{{ url_for('search') }}" class="orange-link"><strong>Click Here</strong></a> to go to the Home
+        Page</p>
+</div>
+{% endblock %}
