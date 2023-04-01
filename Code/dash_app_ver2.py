@@ -7,7 +7,7 @@ Date: March 31, 2023
 
 Comments:
 - Issues:
-  - Plots may not work depending on combination of inputs. May have to hardcode numerous if statements. This has been partially mitigated by limiting the y-value field to numeric fields.
+  - Plots may not work depending on combination of inputs. May have to hardcode numerous if statements. 
   - Search result may stop working if only one column is selected for display.
   - Query takes a long time / crashes the application. This has been temporarily mitigated by limiting the number of outputted rows to 20.
 - Areas for Improvement:
@@ -43,7 +43,7 @@ client = MongoClient(uri)
 database = client['TaxRecords']
 
 data = pd.DataFrame(list(database['Tax_Record_1867'].find()))
-all_col=data.columns
+
 cat_col=['EventDateYear',
             'EventImageLink',
             'EventLocJurisdictionCounty',
@@ -93,8 +93,11 @@ num_col=['PersonTaxCountCarriageWagon',
                 'PersonTaxValueWatches',
                 'PersonsTaxedCountNMalesover21',
                 'PersonsTaxedCountWMalesover21']
+
+col = data.columns
+
 for column in num_col:
-    data[column] = data[column].replace(r'^\s*$', 0, regex=True).replace(np.NaN, 0, regex=True).fillna(0)
+    data[column] = data[column].replace(r'^\s*$', 0, regex=True).replace(np.nan, 0, regex=True).fillna(0)
     data[column] = data[column].astype(float)
 
 #--------------------------------------------------------------
@@ -112,16 +115,16 @@ app.layout = html.Div([
         html.H4("X-Value"),
         dcc.Dropdown(id = 'var_1',
              options=[{'label': i, 'value': i} 
-                      for i in all_col],
+                      for i in col],
               multi=False,
-              value=all_col[4]
+              value='PersonTaxLeviedLand'
              ),
         html.H4("Y-Value"),
         dcc.Dropdown(id = 'var_2',
              options=[{'label': i, 'value': i} 
-                      for i in num_col],
+                      for i in col],
              multi=False,
-             value=num_col[13]
+             value='PersonTaxValueAggregatePersonlProperty'
         ),
         html.H4("Third Variable (Group)"),
         dcc.Dropdown(id = 'var_3',
@@ -138,7 +141,7 @@ app.layout = html.Div([
                       {'label':'bar', 'value':'bar'},
                      {'label':'scatter', 'value':'scatter'}],
              multi=False,
-             value='bar'
+             value='scatter'
              ),
         html.H4("Aggregate Function"),
         dcc.Dropdown(id = 'agg_func',
@@ -148,7 +151,7 @@ app.layout = html.Div([
                      {'label':'sum', 'value':'sum'},
                      {'label':'none', 'value':'none'}],
              multi=False,
-             value='mean'
+             value='none'
              )
     ], 
         style={'width': '49%', 'display': 'inline-block', 'float': 'right'}),
@@ -174,7 +177,7 @@ app.layout = html.Div([
         html.H4("Select Columns to Display"),
         dcc.Dropdown(id = 'chosen_col',
              options=[{'label': i, 'value': i} 
-                      for i in all_col],
+                      for i in col],
              multi=True,
              value=['_id', 'EventDateYear']
              )
@@ -205,7 +208,10 @@ app.layout = html.Div([
                       Input("var_3", "value")])
 
 #--------------------------------------------------------------
+
 def update_graph(var1, var2, fig_type, agg_func, var_3):
+    
+    
     if agg_func != "none":
         new_data = data.groupby(var1)\
                 .agg({var2:agg_func})\
@@ -342,6 +348,8 @@ def query(given_name, surname, date_range_0, date_range_1, location, chosen_col)
     # produce result
     if len(query['$and'])==0:
         output = pd.DataFrame(list(database["Tax_Record_1867"].find().limit(5)))[chosen_col]
+    elif pd.DataFrame(list(database["Tax_Record_1867"].find(query))).empty:
+        output = pd.DataFrame(columns=list(database['Tax_Record_1867'].find_one().keys()))[chosen_col]
     else:
         output = pd.DataFrame(list(database["Tax_Record_1867"].find(query).limit(20)))[chosen_col]
 
