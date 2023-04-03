@@ -42,6 +42,9 @@ uri = "mongodb+srv://DS6013_Students_Ami:DS6013_Students_AK@countyrecords.4cdfgz
 client = MongoClient(uri)
 database = client['TaxRecords']
 
+data_dict = pd.DataFrame(list(database['Data_Dict'].find()))
+dict_fig = ff.create_table(data_dict[["Column", "Data Type", "Description"]])
+
 data = pd.DataFrame(list(database['Tax_Record_1867'].find()))
 
 cat_col=['EventDateYear',
@@ -195,6 +198,20 @@ app.layout = html.Div([
     html.Div([
         dcc.Graph(id='search_result')  
     ], style={'width':'90%','display': 'inline-block', 'float': 'center'}),
+    
+    html.Br(), #-----------Data Dict
+    html.Br(),
+    
+    html.H1(
+        children='Data Dictionary',
+        style={
+            'textAlign': 'center',
+            'color': 'black'
+        }
+    ),    
+    html.Div([
+        dcc.Graph(figure=dict_fig)
+    ], style={'width':'90%','display': 'inline-block', 'float': 'center'})
     
 ])
 
