@@ -33,6 +33,8 @@ external_stylesheets = ["https://codepen.io/chriddyp/pen/bWLwgP.css"]
     
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
+server = app.server # this needs to be commented out if you run on AWS - IanL
+
 #--------------------------------------------------------------
 
 # URI is specific to Ami's login credentials
