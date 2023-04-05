@@ -46,6 +46,7 @@ def records_list():
 
     return render_template(
         "records_list.html",
+        columns=columns,
         agg_func_list=agg_func_list,
         fig_type=fig_type
     )
