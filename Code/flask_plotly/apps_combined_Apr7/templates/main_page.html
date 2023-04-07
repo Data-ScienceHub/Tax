@@ -1,0 +1,60 @@
+{% extends "base.html" %}    
+{% block content %}
+
+{% block staticgraph %}
+<h1>Capstone Flask Application</h1>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> <!--this is new!-->
+<script>
+    function cb(selection) { //I think the problem here might be that the callback function doesn't know that graphJSON is a list?
+        $.getJSON({
+            url: "/callback", data: { 'data': selection }, success: function (result) {
+                Plotly.newPlot('chart', result, {staticPlot: true});;
+            }
+        });
+    }
+</script>
+
+
+    <h1>Total Tax Value by Role and County</h1>
+    <h2>Choose your county</h2>
+    <p>Make sure you spell it correctly with capital letter(s), e.g. Fluvanna</p>
+    <input type="text" id="fname" name="fname" onchange="cb(this.value)">
+    <div id="chart" class="chart"></div>
+    <p>Here's a description of the graph to the left.</p>
+    <h1>Count of Black Males Taxed by Role and County</h1>
+    <div id="chart2"  class="chart"></div>
+    <h1>Count of White Males Taxed by Role and County</h1>
+    <div id="chart3"  class="chart"></div>
+    <h1>Total Tax Value by Role and Confirmed or Unconfirmed Formerly Enslaved</h1>
+    <div id="chart4"  class="chart"></div>
+{% endblock %}
+
+<script>
+    graph1 = {{ graphJSON[0] | safe }};
+    //d.config={staticPlot: true};
+    Plotly.newPlot('chart', graph1, {});
+    
+</script>
+
+<script type="text/javascript">
+    graph2 = {{ graphJSON[1] | safe }};
+    
+    Plotly.newPlot('chart2', graph2, {});
+
+</script>
+
+<script type="text/javascript">
+    graph3 = {{ graphJSON[2] | safe }};
+    
+    Plotly.newPlot('chart3', graph3, {});
+
+</script>
+
+<script type="text/javascript">
+    graph4 = {{ graphJSON[3] | safe }};
+    
+    Plotly.newPlot('chart4', graph4, {});
+
+</script>
+
+{% endblock %}

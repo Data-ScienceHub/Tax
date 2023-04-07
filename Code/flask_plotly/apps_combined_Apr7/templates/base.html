@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+    <title>One Shared Story-Tax Records</title>
+    <h2>One Shared Story-Tax Records</h2>
+    <h3><a href="{{ url_for('index') }}" class="orange-link"><strong>Click Here</strong></a> to go to the Main
+        Page</h3> 
+    <h3><a href="{{ url_for('simple_search') }}" class="orange-link"><strong>Click Here</strong></a> to go to the Search
+        Page</h3> 
+    <h3><a href="{{ url_for('graph_interactive') }}" class="orange-link"><strong>Click Here</strong></a> to go to the Interactive Vizualization
+        Page</h3> 
+        <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+
+<body>
+    {% block content %}
+    {% endblock %}
+</body>
+
+</html>
+

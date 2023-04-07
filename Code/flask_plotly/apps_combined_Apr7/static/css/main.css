@@ -1,0 +1,104 @@
+
+body {
+  margin: 2;
+  padding: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #444;
+  text-align: center;
+}
+h1 {
+  margin: 0;
+  font-size: 3em;
+  color: #2a63a4;
+  float: center;
+  margin-top: 40px;
+  text-align: left;
+  letter-spacing: -2px;
+}
+  /*
+   * Formatting the header area
+   
+  header {
+    background-color: #DFB887;
+    height: 35px;
+    width: 100%;
+    opacity: .9;
+    margin-bottom: 10px;
+  }
+  header h1.logo {
+    margin: 0;
+    font-size: 3em;
+    color: #fff;
+    text-transform: uppercase;
+    float: left;
+  }
+  header h1.logo:hover {
+    color: #fff;
+    text-decoration: none;
+  }
+  /*
+   * Centering the body content
+   
+  .container {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  div.home {
+    padding: 10px 0 30px 0;
+    background-color: #E6E6FA;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+  }
+  div.about {
+    padding: 10px 0 30px 0;
+    background-color: #E6E6FA;
+    -webkit-border-radius: 6px;
+       -moz-border-radius: 6px;
+            border-radius: 6px;
+  }
+  div.row {
+    width:100%;
+  }
+  div.column {
+    width:50%;
+    height:200px;
+    float:left;
+  }
+  div.row:after {
+    clear:both;
+  }
+  h1 {
+    font-size: 3em;
+    margin-top: 50px;
+    text-align: center;
+    letter-spacing: -2px;
+  }
+  h2 {
+    font-size: 1.7em;
+    margin-top: 40px;
+    text-align: left;
+    letter-spacing: -2px;
+  }
+  h3 {
+    font-size: 1.7em;
+    font-weight: 100;
+    margin-top: 30px;
+    text-align: center;
+    letter-spacing: -1px;
+    color: #999;
+  }
+  /*.menu {
+    float: right;
+    margin-top: 8px;
+  }
+  .menu li {
+    display: inline;
+  }
+  .menu li + li {
+    margin-left: 35px;
+  }
+  .menu li a {
+    color: #444;
+    text-decoration: none;
+  }*/

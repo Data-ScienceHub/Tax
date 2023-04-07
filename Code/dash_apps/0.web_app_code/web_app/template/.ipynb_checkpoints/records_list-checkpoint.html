@@ -1,0 +1,61 @@
+{% extends "base.html" %}    
+{% block content %}
+
+<!-- title -->
+
+{% block title %}
+{% endblock %}
+
+<!-- search bar -->
+
+{% block searchbar %}
+
+<div class="row card red lighten-5 search-container">
+    <form action="{{ url_for('search') }}" method="POST" class="col s12">  <!--Is this correct? I didn't find where the search function is-->
+        <div class="row center-align">
+            <div class="input-field col s12 m4">
+                <label for="given_name">First Name:</label><br>
+                <input type="text" name="given_name" id="given_name" value="John" minlength="3" class="validate"> <br>
+                <label for="surname">Last Name:</label><br>
+                <input type="text" name="surname" id="surname" value="Doe" minlength="3" class="validate"><br>
+                <label for="location">County Name:</label><br>
+                <input type="text" name="location" id="location" value="Charlottesville" minlength="3" class="validate"><br>
+                <label for="date_range_1">Year Range:</label><br>
+                <input type="text" name="date_range_0" id="date_range_0" value="1686" minlength="3" class="validate">
+                <input type="text" name="date_range_1" id="date_range_1" value="1886" minlength="3" class="validate"><br>
+            </div>
+            <div class="input-field col s12 m4">
+                <label>Source:</label><br>
+                <select id="source" name="source" class="validate">
+                    <option value="" selected>All source</option>
+                    {% for source in sources %}
+                    <option value="{{ source }}">{{ source.capitalize() }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="search-buttons col s12 m4">
+                <a href="{{ url_for('search') }}" class="red btn-small">Reset</a>
+                <button type="search" class="light-blue darken-1 btn-small">
+                    <i class="fas fa-search left"></i> Search
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+<!-- list of tax records -->
+
+<div class="row">
+    {% if events %}  
+    {% for event in events %}  
+                    {{ event }}    
+    {% endfor %}
+    {% else %}
+    <div class="card-panel white-transparent">
+        <h4>No Tax Record to display</h4>
+    </div>
+    {% endif %}
+</div>
+
+{% endblock %}

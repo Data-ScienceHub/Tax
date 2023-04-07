@@ -1,0 +1,168 @@
+/*--------------------------------------------Colors*/
+
+.layer {
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
+.white-transparent {
+  background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.orange-transparent {
+  background-color: rgba(221, 44, 0, 0.8) !important;
+}
+
+.input-field>label {
+  color: #000000;
+}
+
+.label-black-bigger {
+  color: #000000;
+}
+
+.golden-star {
+  color: rgb(255, 215, 0);
+}
+
+.greyed-out {
+  color: rgb(148, 148, 148)
+}
+
+.orange-link {
+  color: rgb(221, 44, 0);
+}
+
+.white-link {
+  color: rgb(255, 255, 255);
+}
+
+.blue-link {
+  color: rgb(48, 0, 136);
+}
+
+footer p, footer h4 {
+  color: rgb(245, 245, 245);
+}
+
+/*--------------------------------------------Margins - Paddings*/
+
+.title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.footer {
+  margin: 0;
+}
+
+footer h4 {
+  margin-bottom: 5px;
+}
+
+.search-buttons {
+  position: relative;
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.review-description {
+  padding-top: 15px;
+}
+
+.btn-register, .btn-login {
+  margin-bottom: 10px;
+}
+
+.address, .contacts, .social {
+  padding: 20px 0px 0px 35px;
+}
+
+.row {
+  margin-bottom: 0px;
+}
+
+.new-restaurant-container {
+  margin-bottom: 20px;
+}
+
+.search-container {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.footer-social {
+  font-size: 25px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.btn-restaurant {
+  margin-top: 5px;
+}
+
+/*--------------------------------------------Font*/
+
+.label-black-bigger {
+  font-size: .9rem;
+}
+
+footer {
+  font-size: 15px;
+}
+
+footer h4 {
+  font-size: 20px;
+}
+
+/*--------------------------------------------Align*/
+
+.align-right {
+  text-align: right;
+}
+
+#logo {
+  vertical-align: bottom;
+}
+
+.float-right {
+  float: right;
+}
+
+/*--------------------------------------------Sizes*/
+
+#logo {
+  max-height: 56px;
+}
+
+.container {
+  width: 90%
+}
+
+.restaurant-card {
+  min-height: 250px;
+}
+
+.layer {
+  width: 100%;
+  min-height: 100vh;
+  display: inline-block;
+}
+
+.background {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/*--------------------------------------------Other*/
+
+.contacts {
+  overflow-wrap: break-word;
+}
+
+.background {
+  background-image: url("/static/img/table.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: inline-block;
+}

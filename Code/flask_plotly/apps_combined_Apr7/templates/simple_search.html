@@ -1,0 +1,53 @@
+{% extends "base.html" %}    
+{% block content %}
+
+<script>
+    function cb(selection) { //I think the problem here might be that the callback function doesn't know that graphJSON is a list?
+        $.getJSON({
+            url: "/callback", data: { 'data': selection }, success: function (result) {
+                Plotly.newPlot('chart', result, {staticPlot: true});;
+            }
+        });
+    }
+</script>
+
+<div class="row card red lighten-5 search-container">
+    <form action="{{ url_for('simple_search') }}" method="POST" class="col s12">  
+        <div class="row center-align">
+            <div class="input-field col s12 m4">
+                <label for="given_name">First Name:</label><br>
+                <input type="text" name="given_name" id="given_name" value="" minlength="3" class="validate", onchange="cb(this.value)"> <br>
+                <label for="surname">Last Name:</label><br>
+                <input type="text" name="surname" id="surname" value="" minlength="3" class="validate", onchange="cb(this.value)"><br>
+                <label for="location">County Name:</label><br>
+                <input type="text" name="location" id="location" value="" minlength="3" class="validate", onchange="cb(this.value)"><br>
+                <label for="date_range_1">Year Range:</label><br>
+                <input type="text" name="date_range_0" id="date_range_0" value="" minlength="4" class="validate", onchange="cb(this.value)">
+                <input type="text" name="date_range_1" id="date_range_1" value="" minlength="4" class="validate", onchange="cb(this.value)"><br>
+                <label for="chosen_col">Choose columns to display:</label><br>
+                <select multiple id="chosen_col" name="chosen_col" class="input--style-1", onchange="cb(this.value)">
+                    <option value="" selected> None </option>
+                    {% for c in columns %}
+                    <option value="{{ c }}">{{ c }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="search-buttons col s12 m4">
+                <button type="simple_search" class="light-blue darken-1 btn-small">
+                    <i class="fas fa-search left"></i> Search
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+
+<script type='text/javascript'>
+    var search = {{ searchJSON | safe }};
+    Plotly.newplot('search_table', searchJSON, {});
+</script>
+
+<div id='search_table' class="chart"></div>
+search: {{ search }}
+searchJSON: {{searchJSON}}
+
+{% endblock %}
