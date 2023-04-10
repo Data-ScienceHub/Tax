@@ -1,0 +1,80 @@
+{% extends "base.html" %}    
+{% block content %}
+
+<!-- title -->
+
+{% block title %}
+{% endblock %}
+
+
+{% block graphbar %}
+
+<h1>Interactive Graph</h1>
+<div class="row card red lighten-5 search-container">
+    <form action="{{ url_for('graph') }}" method="POST" class="col s12">  <!--Is this correct? I didn't find where the search function is-->
+        <div class="row center-align">
+            <div class="input-field col s12 m4">
+                <label for="x_col">X-Value:</label><br>
+                <select id="x_col" name="x_col" class="input--style-1">
+                    <option value='' selected> Select... </option>
+                    {% for c in columns %}
+                    <option value="{{ c }}">{{ c }}</option>
+                    {% endfor %}
+                </select><br>
+                <label for="y_col">Y-Value:</label><br>
+                <select id="y_col" name="y_col" class="input--style-1">
+                    <option value='' selected> Select... </option>
+                    {% for c in columns %}
+                    <option value="{{ c }}">{{ c }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="input-field col s12 m4">
+                <label for="group_col">Group:</label><br>
+                <select id="group_col" name="group_col" class="input--style-1">
+                    <option value="" selected> None </option>
+                    {% for c in columns %}
+                    <option value="{{ c }}">{{ c }}</option>
+                    {% endfor %}
+                </select><br>
+                <label for="agg_func">Aggregation fucntion:</label><br>
+                <select id="agg_func" name="agg_func" class="input--style-1">
+                    <option value="" selected> None </option>
+                    {% for a in agg_func_list %}
+                    <option value="{{ a }}">{{ a }}</option>
+                    {% endfor %}
+                </select><br>
+                <label for="fig_type">Figure type:</label><br>
+                <select id="fig_type" name="fig_type" class="input--style-1">
+                    <option value="" selected> Not Selected </option>
+                    {% for f in fig_type %}
+                    <option value="{{ f }}">{{ f }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="search-buttons col s12 m4">
+                <button type="make_graph" class="light-blue darken-1 btn-small">
+                    <i class="fas fa-search left"></i> Make graph
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
+{% endblock %}
+
+<div class="row">
+    {% if graphJSON %}  
+    <div id="chart2" class="chart">
+        <script type='text/javascript'>
+        graph = {{ graphJSON | safe }};
+        Plotly.plot('chart2', graph, {});
+        </script>
+    </div>
+    {% else %}
+        <div class="card-panel white-transparent">
+            <h5>No Tax Record to display</h5>
+        </div>
+    {% endif %}
+</div>
+
+{% endblock %}
