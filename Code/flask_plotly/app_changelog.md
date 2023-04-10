@@ -43,3 +43,21 @@ Changes:
 - Consolidated records_list and records_list_search into one: simple_search.html
 - Created new html graph_interactive.html
 - ISSUE: Plots in simple_search.html and graph_interactive.html do not show up. This is most likely due to changes in HTML.
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Date: 4/10/2023
+Author: Rachel Grace Treene
+
+Changes:
+- from a few days ago:
+    - added new CSS to customize colors, fonts, and font sizes
+    - added a menu in header (in base.html) for navigation
+    - added a column option to CSS which is used (and will be used more) on the home page to help with layout
+- from today:
+    - rewrote interactive graph code to be more explicit; added new if-statement logic; all done in app.py (no changes in HTML)
+    - tested code extensively in JupyterLab for all possible cases; all combinations of inputs now either return an error message directing the user to fix the problem or return a meaningful graph - see uploaded RGT_graph_code_testing.ipynb to see testing and code
+    - fixed search display problem by reverting simple_search.html to a much earlier iteration (April 5 I think)
+- functionality to dos:
+    - graph: make the agg_func and fig_type options buttons instead of drop-down menus... I had trouble because when I clicked the buttons it submitted the form and I want it to store the information but not submit until we click 'make graph'
+    - search: make it more intuitive to select columns to display... currently it's not clear how to select multiple and I think this needs to be improved for UX
