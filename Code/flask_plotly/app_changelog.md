@@ -66,3 +66,13 @@ Changes:
 - functionality to dos:
     - graph: make the agg_func and fig_type options buttons instead of drop-down menus... I had trouble because when I clicked the buttons it submitted the form and I want it to store the information but not submit until we click 'make graph'
     - search: make it more intuitive to select columns to display... currently it's not clear how to select multiple and I think this needs to be improved for UX
+    
+Date: 4/11/2023
+
+Author: Ami Kano
+
+Changes:
+- Changed Aggregation Function and Figure Type from dropdown menu to radio buttons
+- Added string output to show previous input selections
+- deleted files records_list.html and Tax_1867_Cleaned.csv
+
