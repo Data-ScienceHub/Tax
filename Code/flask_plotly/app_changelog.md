@@ -67,6 +67,8 @@ Changes:
     - graph: make the agg_func and fig_type options buttons instead of drop-down menus... I had trouble because when I clicked the buttons it submitted the form and I want it to store the information but not submit until we click 'make graph'
     - search: make it more intuitive to select columns to display... currently it's not clear how to select multiple and I think this needs to be improved for UX
     
+-----------------------------------------------------------------------------------------------------------------------
+
 Date: 4/11/2023
 
 Author: Ami Kano
@@ -76,3 +78,12 @@ Changes:
 - Added string output to show previous input selections
 - deleted files records_list.html and Tax_1867_Cleaned.csv
 
+-----------------------------------------------------------------------------------------------------------------------
+
+Date: 4/15/2023
+
+Author: Rachel Grace Treene
+
+Changes:
+- changed search dropdown menu to make it possible to select multiple non-consecutive columns - did this by making menu into a dropdown menu of checkboxes rather than a multiple select dropdown
+- fixed bug with graph page: problem was that the agg_options and fig_options didn't have a default value of None, so if nothing was selected the page submitted a bad request; added try/except statements to catch this issue
