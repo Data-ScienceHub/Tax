@@ -99,3 +99,16 @@ Changes:
 - fixed HTML issue with search page
 - changed colors of plotly graphs manually
 - made output string prettier
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Date: 4/17/2023
+
+Author: Rachel Grace Treene
+
+Changes:
+- updated CSS to match new Plotly color scheme
+- successfully centered graphs on home page
+- enlarged and formatted inputs and dropdown menus
+- enlarged and formatted navigation menu
+- still need to enlarge and format radio buttons

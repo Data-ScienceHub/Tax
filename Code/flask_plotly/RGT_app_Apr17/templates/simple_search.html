@@ -12,10 +12,11 @@
 </script>
 
 <h1>Search Records</h1>
+<h5>Enter Your Search Terms:</h5>
 <div class="row card red lighten-5 search-container">
     <form action="{{ url_for('simple_search') }}" method="POST" class="col s12">  
         <div class="row center-align">
-            <div class="input-field col s12 m4">
+            <div class="input-field col s16 m6">
                 <label for="given_name">First Name:</label><br>
                 <input type="text" name="given_name" id="given_name" value="" minlength="3" class="validate", onchange="cb(this.value)"> <br>
                 <label for="surname">Last Name:</label><br>
@@ -66,7 +67,7 @@
     </div>
    {% else %}
     <div class="card-panel white-transparent">
-        <h5>No Tax Record to display</h5>
+        <h7>No Tax Record to display</h7>
     </div>
     {% endif %}
 </div>
