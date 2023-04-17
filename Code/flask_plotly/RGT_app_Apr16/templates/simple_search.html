@@ -26,57 +26,12 @@
                 <input type="text" name="date_range_0" id="date_range_0" value="" minlength="4" class="validate", onchange="cb(this.value)">
                 <input type="text" name="date_range_1" id="date_range_1" value="" minlength="4" class="validate", onchange="cb(this.value)"><br>
                 <label for="chosen_col">Choose columns to display:</label><br>
-
-                <!--ChatGPT Try-->
-                {% for column in columns %}
-                <label>
-                  <input type="checkbox" name="columns" value="{{ column }}" onchange="cb(this.value)">
-                  <span>{{ column }}</span>
-                </label><br>
-                {% endfor %}
-
-
-
-                <!--{% for c in columns %}
-                <div class="checkbox" onchange="cb(this.value)">
-                    <label><input type="checkbox" name="check" value="{{ c }}">{{ c }}</label>
-                </div>
-                {% endfor %}-->
-
-
-                <!--select multiple id="chosen_col" name="chosen_col" class="input--style-1", onchange="cb(this.value)">
+                <select multiple id="chosen_col" name="chosen_col" class="input--style-1", onchange="cb(this.value)">
                     <option value="" selected> None </option>
                     {% for c in columns %}
-                    <div class="checkbox" onchange="cb(this.value)">
-                    <label><input type="checkbox" name="check" value="{{ c }}">{{ c }}</label>
-                    </div>
-                    {% endfor %}>
                     <option value="{{ c }}">{{ c }}</option>
-                </select-->
-
-                    <!--button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onchange="cb(this.value)">
-                        Choose column;
-                    </button-->
-
-                <!--div class="dropdown">
-                    <form class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        {% for c in columns %}
-                        <label class="dropdown-item"><input type="checkbox" name="{{ c }}" value="{{ c }}" onchange="cb(this.value)">{{ c }}</label>
-                        {% endfor %}
-                    </form>
-                  </div-->
-
-                <!--div id="checkboxes" onchange="cb(this.value)">
-                <label>Choose Columns to Display:</label>
-                <ul>
-                    {% for c in columns %}
-                    <li><input type="checkbox" name="{{ c }}" value="{{ c }}">{{ c }}</li>
                     {% endfor %}
-                </ul>
-                </div-->
-
-
-
+                </select>
             </div>
             <div class="search-buttons col s12 m4">
                 <button type="simple_search" class="light-blue darken-1 btn-small">
@@ -87,16 +42,20 @@
     </form>
 </div>
 
-<div class = "row">
-    <body>
+<div>
+    <h5>
         Selected Values: <br>
+    </h5>
+    <h6>
         Given Name: {{ selected_given_name }} <br>
         Surname: {{ selected_surname }} <br>
         Date Range: {{ selected_date_0 }}, {{ selected_date_1 }} <br>
         Location: {{ selected_location }} <br>
         Selected Columns to Display: {{ selected_chosen_col }} <br>
+    </h6>
+</div>
 
-    </body>
+<div class = "row">
 
     {% if searchJSON %}
     <div id="chart" class="chart">

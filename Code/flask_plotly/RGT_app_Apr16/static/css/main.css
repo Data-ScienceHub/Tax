@@ -60,10 +60,18 @@ h5 {
   text-align: left;
   letter-spacing: 0px;
 }
+h6 {
+  margin: 0;
+  font-size: 0.9em;
+  color: #1b324d;
+  float: center;
+  margin-top: 40px;
+  text-align: left;
+  letter-spacing: 0px;
+}
 
 .container {
-  display: flex;
-  flex-wrap: wrap;
+  text-align: center;
 }
 
 .left-column {
@@ -74,10 +82,10 @@ h5 {
   flex-basis: 50%;
 }
 .graph {
-  width: 49%;
-  height: 500px;
+  width: 90%;
   margin: 20px auto;
   text-align: center;
+  float: center;
 }
 .input-field {
   text-align: left;
@@ -171,7 +179,7 @@ nav {
 }
 
 input[type="checkbox"] {
-  display: inline-block;
+  display: none;
 }
 
 #menu-toggle:checked ~ .menu-list {
@@ -186,7 +194,12 @@ input[type="checkbox"] {
   list-style: none;
   float: left;
 }
-
+output-body {
+  margin: 2;
+  padding: 0;
+  color: #444;
+  text-align: left;
+}
   /*
    * Formatting the header area
    

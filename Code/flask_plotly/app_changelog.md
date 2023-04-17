@@ -87,3 +87,15 @@ Author: Rachel Grace Treene
 Changes:
 - changed search dropdown menu to make it possible to select multiple non-consecutive columns - did this by making menu into a dropdown menu of checkboxes rather than a multiple select dropdown
 - fixed bug with graph page: problem was that the agg_options and fig_options didn't have a default value of None, so if nothing was selected the page submitted a bad request; added try/except statements to catch this issue
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Date: 4/16/2023
+
+Author: Rachel Grace Treene
+
+Changes:
+- explored Plotly graphs not resizing; decided not to use columns because of an apparent unsolved bug
+- fixed HTML issue with search page
+- changed colors of plotly graphs manually
+- made output string prettier
