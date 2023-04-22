@@ -112,3 +112,21 @@ Changes:
 - enlarged and formatted inputs and dropdown menus
 - enlarged and formatted navigation menu
 - still need to enlarge and format radio buttons
+
+-----------------------------------------------------------------------------------------------------------------------
+Date: 4/22/2023
+
+Author: Ami Kano
+
+Changes:
+- home page:
+  - changed query for home page so it is column-specific instead of querying entire dataframe
+- search:
+  - eliminated '_id' field from "Choose columns to display" dropdown
+  - change query to column-specific ones 
+- interactive graph:
+  - eliminated '_id' field from x-value/y-value/groupby dropdowns
+  - changed value of list 'categoricals' to match updated data
+  - specific queries instead of querying entire dataframe
+  - allow aggregate function when generating table
+
