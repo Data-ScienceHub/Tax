@@ -130,3 +130,12 @@ Changes:
   - specific queries instead of querying entire dataframe
   - allow aggregate function when generating table
 
+-----------------------------------------------------------------------------------------------------------------------
+Date: 4/23/2023
+
+Author: Rachel Grace Treene
+
+Changes:
+- updated home page HTML with all predrafted text; addede columns for visual interest; added references
+- edited app.py plotly graphs to format titles
+- edited css to make text more readable, prettier, and better proportioned throughout the pages. Also updated color slightly.
