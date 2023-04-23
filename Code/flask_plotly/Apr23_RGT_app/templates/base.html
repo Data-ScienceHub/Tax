@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> <!--this is new!-->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<head> 
+    <title>One Shared Story-Tax Records</title>
+        <nav>
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle" class="menu-button">
+                <span class="menu-icon"></span>
+                <span class="menu-text">Menu</span>
+            </label>
+            <ul class="menu-list">
+                <li><a href="{{ url_for('index') }}">Home Page</a></li>
+                <li><a href="{{ url_for('simple_search') }}">Search Database</a></li>
+                <li><a href="{{ url_for('graph_interactive') }}">Interactive Graphing</a></li>
+            </ul>
+        </nav>
+</head>
+
+<body>
+    {% block content %}
+    {% endblock %}
+</body>
+
+</html>
+
