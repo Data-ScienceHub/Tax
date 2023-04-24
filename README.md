@@ -30,6 +30,7 @@ The contents of this repository are organized with the following structure:
     │   ├── integration
     │   └── unit
     ├── Resources
+    │   ├── documentation
     |   └── Images
     ├── README.md
     └── index.html
