@@ -1,0 +1,65 @@
+Column,Data Type,Description
+SourceSteward,object,Individual or Organization that holds the item from which the data was derived.
+SourceLocCity,object,City where the source document copy is located.
+SourceLocState,object,State where the source document is located.
+SourceTitle,object,Actual title of the source or a short descriptive title if no title appears on the document.
+SourceType,object,"Type of source like government record, pamphlet, image, oral history."
+SourceDateYearCreated,int64,Year in whch the source document was originally created.
+SourceCreator,object,"Original developer of source document like institution name, agency or organization."
+SourceLocCreatedCounty,object,County in which source document was originally created.
+SourceAuthorName,object,Creator of source document (like author or recorder).
+EventTitle,object,Type of event recorded (this standardized title will be provided by transcription project manager).
+EventLocJurisdictionCounty,object,County in which source document was created
+EventDateYear,int64,Year in which events recorded in source document took place
+EventTranscriberNotes,object,"Any concerns, uncertainties, or anomalies noticed by the transcriber during data development."
+PersonSurname,object,Surname of primary person recorded in this event.
+PersonGivenNames,object,Given name of primary person recorded in this event.
+PersonNameAlternate,object,Alternate name of primary person recorded in this event (used to indicate full name when an abbreviation is used in the historic entry or if there is ambiguity about the name as written.
+PersonNameSuffix,object,"Suffix of primary person recorded in this event (like Jr or III and can also be ""Est"" for estate)."
+PersonEventRole,object,Role the primary person plays in the event recorded (this standardized entry will be provided by the transcription project manager).
+PersonFN,object,Tax record notation for Free Negro.
+PersonsTaxedCountWMalesover21,object,Tax record count of white males 21 years and older covered by this payment.
+PersonsTaxedCountNMalesover21,object,Tax record count of negro males 21 years and older covered by this payment.
+PersonRoleLocSurnameEmployer,object,Surname of employer of primary person in event.
+PersonRoleGivenNamesEmployer,object,Given name of employer of primary person in event.
+PersonAlternateNameEmployer,object,Alternate name of employer of primary person in event.
+PersonRoleNameSuffixEmployer,object,"Name suffix of employer of primary person (like Jr or III and can also be ""Est"" for estate)."
+PersonRoleLocEmployment,object,The employing business or type of work for male negroes if employer is not listed.
+PersonRoleLocResidence,object,The place of residence of male negroes listed for taxation if employer is not listed.
+PersonTaxCountHorsesMules,object,Number of taxed horses and mules
+PersonTaxValueHorsesMules,object,Value of taxed horses and mules
+PersonTaxCountCattle,object,Number of taxed cattle
+PersonTaxValueCattle,object,Value of taxed cattle
+PersonTaxCountSheep,object,Number of taxed sheep
+PersonTaxValueSheep,object,Value of taxed sheep
+PersonTaxCountHogs,object,Number of taxed hogs
+PersonTaxValueHogs,object,Value of taxed hogs
+PersonTaxCountCarriageWagon,object,Number of taxed carriages
+PersonTaxValueCarriageWagon,object,Value of taxed carriages
+PersonTaxCountWatches,object,Number of taxed watches
+PersonTaxValueWatches,object,Value of taxed watches
+PersonTaxCountClocks,object,Number of taxed clocks
+PersonTaxValueClocks,object,Value of taxed clocks
+PersonTaxCountMusicalInstruments,object,Number of taxed musical instruments
+PersonTaxValueMusicalInstruments,object,Value of taxed musical instruments
+PersonTaxValueFurnishings,object,Aggregate value of all household and kitchen furniture (in dollars).
+PersonTaxValueJewelry,object,"Value of all gold and silver plate, plated ware and jewelry (in dollars)."
+PersonTaxValueAgProducts,object,Aggregate value of agricultural products assesed for tax like grain and tobacco.
+PersonTaxValueWatercraft,object,"Aggregate value of watercraft assesed for tax like ships, barges and boats."
+PersonTaxValueMoniesSchC1,object,Value of investments out of state.
+PersonTaxValueStockCosSchC2,object,Value of joint stock companies.
+PersonTaxValueLicensedBusinessSchC3,object,Value of capital invested in trade or business.
+PersonTaxValueJudgementReceivershipSchC4,object,Value of estates and judgements in receivership benefitting the tax payer.
+PersonTaxValueJudgementsSchC5,object,Value of judgements benefitting the tax payer.
+PersonTaxValueIncomeRentTollsSchC6,object,Yearly rent or annual value of all toll bridges and ferries.
+PersonTaxValueAggregatePersonlProperty,object,Aggregate value of personal property taxed in dollars.
+PersonTaxSalariesSchE,object,"Salaries and other compensation execeeding $1,000"
+PersonTaxOysterSales,object,Amount of gross sales of oysters taxed.
+PersonTaxStateAll,object,Total amount of state taxes on all subjects (two form columns represent dollars and cents for data entry - |60 is 0.60 while 27|30 is to be entered 27.30)
+PersonTaxStocksBonds,object,"Stock, bonds, evidences of debt etc."
+PersonTaxCountWMalesover16,object,Number of white males above the age of 16 years
+PersonTaxCountNMalesover16,object,Number of male negroes above the age of 16 years
+PersonTaxLeviedLand,object,Amount levied on land and other property assessed with state taxes.
+PersonTaxTotalCountyValue,object,Total levy on persons and property given as value in dollars and cents like 1.15.
+PersonTaxCommissionerRemarks,object,Remarks made by creator of source document (notations in margins should be included).
+EventImageLink,object,Link to digital file of source.
