@@ -18,13 +18,36 @@ In addition, this project entails data exploration for learning purposes. To tha
 
 The contents of this repository are organized with the following structure:
 
-/Code
-/Data
-/Resources
+    .
+    ├── Code
+    │   ├── IanL_aws
+    │   ├── dash_apps
+    |   ├── eda_cleaning
+    |   ├── flask_plotly
+    │   └── query_package_attempts
+    ├── Data
+    │   ├── benchmarks
+    │   ├── integration
+    │   └── unit
+    ├── Resources
+    |   └── Images
+    ├── README.md
+    └── index.html
 
-Within the OneSharedStory folder you will find several files which ultimately will be used to surface a web application using flask. The following are important notes about the files:
+The majority of this repository serves as an archive for the capstone project. The final product is within Code > flask_plotly > final_client_app. Another important application is in Code > flask_plotly > final_student_app. The client app is a reduced version of the application which strictly adheres to the client's requirements. The student final app includes a page for the presentation of data, as well as an interactive graphing page for user exploration.
 
-- app.py is our python file that powers the application. Here you'll find that we create a MongoDB database, add our data from csv files into collections within the database, and initialize get/post methods for each of our landing pages. 
-- .csv files contain the data from 
-- templates folder houses all of our .html files that contribute to the web application. 
-- static folder houses our CSS and JS files
+In each application folder, the following directory structure is present, with the following functionality:
+
+    .
+    ├── static
+    │   ├── css # defines our custom CSS stylesheet
+    |   │   └── main.css
+    │   └── js # contains javascript for the application
+    |   │   └──script.js
+    ├── templates # contains HTML for each page of the application
+    │   ├── 404.html
+    │   ├── base.html
+    │   ├── graph_interactive.html (for student app only)
+    │   ├── main_page.html (for student app only)
+    │   └── simple_search.html
+    └── app.py # queries the database and runs the application
