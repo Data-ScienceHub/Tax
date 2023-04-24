@@ -6,10 +6,21 @@
 OneSharedStory is a non-profit organization that helps African American families connect with their ancestry. The organization transcribes historical documents, allowing families to then search for information about their family history. To this point, these transcriptions have been housed in excel sheets. The goal of our project is to:
 
 1. Create a database to house previously transcribed data
-2. Create a software tool for future volunteers to transcribe data and have records entered into the database
-3. Create a software tool for families to search the database and learn about the historical records.
+2. Create a public-facing search tool for users to search the database and learn about the historical records
+3. Deploy the search tool as a web application that can later be deployed on the One Shared Story website
+
+In addition, this project entails data exploration for learning purposes. To that end, the project also has the following goals:
+
+4. Explore the data and present its significance
+5. Provide an interactive way for users to explore the data
 
 ### Code Format
+
+The contents of this repository are organized with the following structure:
+
+/Code
+/Data
+/Resources
 
 Within the OneSharedStory folder you will find several files which ultimately will be used to surface a web application using flask. The following are important notes about the files:
 
