@@ -147,3 +147,15 @@ Author: Ami Kano
 
 Changes:
 - Changed display of default search results
+
+-----------------------------------------------------------------------------------------------------------------------
+Date: 4/24/2023
+
+Author: Ami Kano
+
+Changes:
+- added Data Dictionary as a page in the web app
+  - added datadict.html
+  - added link to datadict.html to base.html
+- deleted main_page_og.html and mainog.css
+

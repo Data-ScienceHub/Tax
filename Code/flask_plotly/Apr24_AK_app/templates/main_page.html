@@ -1,0 +1,123 @@
+{% extends "base.html" %}    
+{% block content %}
+
+{% block staticgraph %}
+<h1>Meaning-Making with Incomplete Data</h1>
+<script>
+    function cb(selection) { //I think the problem here might be that the callback function doesn't know that graphJSON is a list?
+        $.getJSON({
+            url: "/callback", data: { 'data': selection }, success: function (result) {
+                Plotly.newPlot('chart', result, {staticPlot: true});;
+            }
+        });
+    }
+</script>
+    <h3>This web application explores personal property tax data from 1867 in five Virginia counties. On this page you’ll find our interpretation of the data. To explore on your own, navigate to the ‘Search Database’ and ‘Interactive Graphing’ pages.</h3>
+    <h2>What Data do We Have?</h2>
+    <body>
+        <div class="brown-block">
+            Our data consists of roughly 12000 observations with 64 features. Every observation has at least one missing value, and many features have very little data. The majority of features have been transcribed directly from the data source, which are handwritten tax records. A few features have been added by transcribers.<br><br>     
+            With sparsely populated data, extraction of meaning is difficult. However, these records come from a tumultuous time in the history of the United States, and can provide a glimpse into the lives of Reconstruction era Virginians. In 1867, black men and women had been recently freed from slavery, and for the first time were largely recorded as people rather than property. By investigating what the data can tell us about wealth distribution, race, and employment status, we discover that the data does contain a feature that can be treated as a proxy for race. Further, based on knowledge of surname conventions at the time, we can select a subset of individuals who were almost certainly enslaved and compare this group to others.</body>
+        </div>
+    </body>
+    <h2>Discovering a Proxy for Race</h2>
+        <div id="graph" class="graph"></div>
+        <div class="container">
+            <div class="left-column">
+                <h3><br>We posit that the feature ‘PersonEventRole’ can be treated as a proxy for race.</h3>
+            </div>
+            <div class="right-column">
+                <div class="brown-block"> 
+                    The data contains four features specifying the race recorded. The features ‘PersonTaxCountNMalesOver16’ and ‘PersonTaxCountWMalesOver16’ report the counts of black and white males over sixteen years of age reported for each taxpayer. The features ‘PersonsTaxedCountNMalesOver21’ and ‘PersonsTaxedCountWMalesOver21’ report the counts of black and white males over twenty-one years of age reported. One of these two columns generally contains at least a count of one, and most likely represents the taxpayer themself.
+                </div>
+            </div>
+        </div>
+        <div class="brown-block">
+            In the graph above, the role ‘taxpayer’ is compared with the role ‘resident and taxpayer.’ Across all five counties, taxpayers collectively pay more total state taxes on behalf of themselves or others. By contrast, residents and taxpayers pay far less. This indicates a clear difference in wealth across the two categories.
+        </div>
+    <div id="graph2"  class="graph"></div>
+    <div class="brown-block">
+        In the graph above, the count of black males over twenty-one is shown by role compared across counties. For all counties, black males are reported almost exclusively by residents and taxpayers. Very few black males are reported by taxpayers.
+    </div>
+    <div id="graph3"  class="graph"></div>
+    <div class="brown-block">
+        In the graph above, the count of white males over twenty-one is shown by role across counties. Similarly to the previous graph, white males are reported almost exclusively by one role; this time, the role is taxpayers. Very few white males are reported by residents and taxpayers.<br><br>
+        It’s worth noting that some black males are reported by taxpayers, particularly in Louisa county and Cumberland county. However, vanishingly few white males are reported by residents and taxpayers. Investigation of the data shows that the taxpayers reporting black males in Louisa are either an anomaly or a transcription error. However, taxpayers in Cumberland also report white males over twenty-one. In these cases, the black males reported by taxpayers may still have been considered property of their enslavers, the taxpayers.
+    </div>
+    <h2>Using Race to Identify Formerly Enslaved Persons</h2>
+        <div class="container">
+            <div class="left-column">
+                <div class="brown-block"> 
+                    In the antebellum south, it was customary for enslaved people to be given their enslaver’s last name. After emancipation, many freedmen and women changed their names as an exercise of freedom. However, in Virginia some former enslaved people remained in the same place as their enslavement and worked for their previous enslaver. These two historical occurrences mean that in our data, we find instances of employers and employees sharing the same last name. We can assume that this is an individual who has just been freed; in other words, we can assume that this person is a ‘confirmed’ former enslaved person.
+                </div>
+            </div>
+            <div class="right-column">
+                <h3><br>Enslaved persons’ surnames were not theirs to choose.</h3>
+            </div>
+        </div>
+    <div id="graph4"  class="graph"></div>
+    <div class="brown-block">
+        In the graph above, we can see that the only records of individuals with the same last name as their employer have the role of ‘resident and taxpayer.’ This graph also shows the counts of each group. A very small number of the records are ‘confirmed’ as former enslaved persons by our definition.
+    </div>
+    <div id="graph5"  class="graph"></div>
+    <div class="brown-block">
+        In the graph above, we can see a representation of average total tax value, or average wealth, compared across roles and former enslavement status. It is clear that taxpayers hold more wealth on average, and we observe that whether confirmed or unconfirmed former enslaved persons, residents and taxpayers hold less wealth on average. Though not shown here, this similarity between confirmed or unconfirmed former enslaved persons is evident across other metrics as well. This indicates that there may not be any real difference between these groups - that in fact, all residents and taxpayers may have been recently freed.
+    </div>
+    <div id="graph6"  class="graph"></div>
+    <div class="brown-block">
+        In the plot above, we continue to see a disparity in wealth between our small subselection of confirmed former enslaved persons and other groups. The plot shows two apparent trends: one, the distribution of points vertically along 0, indicates that some individuals that pay high taxes do not own land. The other, a somewhat positive linear increase in tax value with more tax on land, indicates that more land ownership is correlated with more wealth. The subset of individuals we are focusing on, confirmed former enslaved persons, are concentrated close to 0 on both axes, indicating their lack of wealth and land ownership.
+    </div>
+    <h2>What's Next?</h2>
+    <div class="brown-block">
+        Though incomplete, our data provides an opportunity to explore post-Civil war Virginia. Clear wealth disparities and racial divides are present in the data, allowing us to generate a speculative picture of that time. To explore more on your own, we encourage you to navigate to other pages on the site.
+    </div>
+    <h2>References</h2>
+    <div class="brown-block">
+        1. “Changing names,” Facing History and Ourselves. [Online]. Available: https://www.facinghistory.org/resource-library/changing-names. [Accessed: 23-Apr-2023].<br>
+        2. “The varied experience of emancipation · after slavery: Race, labor, and politics in the post-emancipation Carolinas · Lowcountry Digital history initiative,” LDHI. [Online]. Available: https://ldhi.library.cofc.edu/exhibits/show/after_slavery/introduction--a-critical-perio/varied_experience_of_emancipat. [Accessed: 23-Apr-2023].
+    </div>
+{% endblock %}
+
+<script>
+    graph1 = {{ graphJSON[0] | safe }};
+    //d.config={staticPlot: true};
+    Plotly.newPlot('graph', graph1, {});
+    
+</script>
+
+<script type="text/javascript">
+    graph2 = {{ graphJSON[1] | safe }};
+    
+    Plotly.newPlot('graph2', graph2, {});
+
+</script>
+
+<script type="text/javascript">
+    graph3 = {{ graphJSON[2] | safe }};
+    
+    Plotly.newPlot('graph3', graph3, {});
+
+</script>
+
+<script type="text/javascript">
+    graph4 = {{ graphJSON[3] | safe }};
+    
+    Plotly.newPlot('graph4', graph4, {});
+
+</script>
+
+<script type="text/javascript">
+    graph5 = {{ graphJSON[4] | safe }};
+    
+    Plotly.newPlot('graph5', graph5, {});
+
+</script>
+
+<script type="text/javascript">
+    graph6 = {{ graphJSON[5] | safe }};
+    
+    Plotly.newPlot('graph6', graph6, {});
+
+</script>
+
+{% endblock %}
