@@ -1,0 +1,27 @@
+{% extends "base.html" %}    
+{% block content %}
+
+<h1>Data Dictionary</h1>
+<h2>What is a Data Dictionary?</h2>
+<div class="brown-block">
+    The data dictionary is a table containing information about the data. 
+    Here, you can see the data type of each column in our data and what their content signify.
+</div>
+
+<div class = "row">
+
+    {% if dictJSON %}
+    <div id="graph" class="graph">
+        <script type="text/javascript">
+            graph = {{ dictJSON | safe }};
+            Plotly.plot('graph', graph, {})
+        </script>
+    </div>
+   {% else %}
+    <div class="card-panel white-transparent">
+        <h7>Something went wrong; No Data Dictionary to display</h7>
+    </div>
+    {% endif %}
+</div>
+
+{% endblock %}
