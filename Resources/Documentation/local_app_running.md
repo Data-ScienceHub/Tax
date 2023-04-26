@@ -10,4 +10,4 @@
      * Debug mode: off
      * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 5. Click on the URL to view and explore the application in your browser.
-6. Back in the terminal, press CTRL+C or CMD+C to stop the application.
+6. Back in the terminal, press CTRL+C (Windows) or CMD+C (Mac) to stop the application.
