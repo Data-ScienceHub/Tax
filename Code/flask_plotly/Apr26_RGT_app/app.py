@@ -122,7 +122,7 @@ def gm(EventLocJurisdictionCounty='Fluvanna'):
              width=800, height=500)
     
     fig4.update_layout(
-        title={'text':"Total Tax Amount by Role and Former Enslavement Status",
+        title={'text':"Record Count by Role and Former Enslavement Status",
                'x':0.5,
                'xanchor': 'center'},
         xaxis_title="Role",
