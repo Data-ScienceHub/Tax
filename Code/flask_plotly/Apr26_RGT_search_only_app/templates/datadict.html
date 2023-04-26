@@ -1,0 +1,29 @@
+{% extends "base.html" %}    
+{% block content %}
+
+<h1>Data Dictionary</h1>
+<h3>
+    The data dictionary is a table containing information about the data. 
+    Here, you can see the data type of each column in our data and what their content signify.
+</h3>
+
+<table border="1">
+    <thead>
+        <tr>
+            {% for col in colnames %}
+            <th>{{ col }}</th>
+            {% endfor %}
+        </tr>
+    </thead>
+    <tbody>
+        {% for record in records %}
+        <tr>
+            {% for col in colnames %}
+            <td>{{ record[col] }}</td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}
