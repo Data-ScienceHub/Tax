@@ -27,7 +27,7 @@ The contents of this repository are organized with the following structure:
     ├── Documentation
     │   ├── database_upload_data.md
     │   ├── local_app_running.md
-    │   ├── data_dict.csv
+    │   ├── DataDict.csv
     |   └── search_query_maintenance.md
     ├── README.md
     └── index.html
