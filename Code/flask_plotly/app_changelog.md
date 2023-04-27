@@ -159,3 +159,14 @@ Changes:
   - added link to datadict.html to base.html
 - deleted main_page_og.html and mainog.css
 
+-----------------------------------------------------------------------------------------------------------------------
+Date: 4/27/2023
+
+Author: Ami Kano
+
+Changes:
+- changed interactive graphing page to allow table outputs of count aggregation
+  - an input combination of a categorical x-variable, count aggregation function, and table figure type is now valid and produces a corresponding output. 
+  - this is in lines 593~606 of app.py
+
+
