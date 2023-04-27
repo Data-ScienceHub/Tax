@@ -19,23 +19,19 @@ In addition, this project entails data exploration for learning purposes. To tha
 The contents of this repository are organized with the following structure:
 
     .
-    ├── Code
-    │   ├── IanL_aws
-    │   ├── dash_apps
-    |   ├── eda_cleaning
-    |   ├── flask_plotly
-    │   └── query_package_attempts
-    ├── Data
-    │   ├── benchmarks
-    │   ├── integration
-    │   └── unit
-    ├── Resources
-    │   ├── documentation
-    |   └── Images
+    ├── Applications
+    │   ├── final_client_app
+    │   └── final_student_app
+    ├── Archive
+    │   └── ...
+    ├── Documentation
+    │   ├── database_upload_data.md
+    │   ├── local_app_running.md
+    |   └── search_query_maintenance.md
     ├── README.md
     └── index.html
 
-The majority of this repository serves as an archive for the capstone project. The final product is within Code > flask_plotly > final_client_app. Another important application is in Code > flask_plotly > final_student_app. The client app is a reduced version of the application which strictly adheres to the client's requirements. The student final app includes a page for the presentation of data, as well as an interactive graphing page for user exploration.
+The majority of this repository is located in the Archive directory and records the semester-long work on the capstone project. See the README file within the directory for more information. The final product is within Applications and comprises the directory final_client_app. Another important application is in Applications and comprises the directory final_student_app. The client app is a reduced version of the application which strictly adheres to the client's requirements. The student final app includes a page for the presentation of data, as well as an interactive graphing page for user exploration.
 
 In each application folder, the following directory structure is present, with the following functionality:
 
