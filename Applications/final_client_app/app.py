@@ -13,7 +13,7 @@ import numpy as np
 app = Flask(__name__, template_folder = 'templates')
 
 app.config["MONGO_DBNAME"] = "TaxRecords"
-app.config["MONGO_URI"] = "mongodb+srv://DS6013_Students_Ami:DS6013_Students_AK@countyrecords.4cdfgz2.mongodb.net/TaxRecords?retryWrites=true&w=majority"
+app.config["MONGO_URI"] = "mongodb+srv://ak7ra:ds6013_ak7ra@onesharedstory.9pydghi.mongodb.net/TaxRecords?retryWrites=true&w=majority"
 
 mongo = PyMongo(app)
 columns = list(mongo.db["Tax_Record_1867"].find_one({}, {'_id':False}))
