@@ -19,6 +19,9 @@ In addition, this project entails data exploration for learning purposes. To tha
 The contents of this repository are organized with the following structure:
 
     .
+    ├── AWS_Deployment
+    │   ├── tax_app_final_version
+    │   └── Deploy the Project on AWS EC2.md
     ├── Applications
     │   ├── final_client_app
     │   └── final_student_app
@@ -32,7 +35,7 @@ The contents of this repository are organized with the following structure:
     ├── README.md
     └── index.html
 
-The majority of this repository is located in the Archive directory and records the semester-long work on the capstone project. See the README file within the directory for more information. The final product is within Applications and comprises the directory final_client_app. Another important application is in Applications and comprises the directory final_student_app. The client app is a reduced version of the application which strictly adheres to the client's requirements. The student final app includes a page for the presentation of data, as well as an interactive graphing page for user exploration.
+The majority of this repository is located in the Archive directory and records the semester-long work on the capstone project. See the README file within the directory for more information. Directions for deploying the application on AWS, a requirement for finishing our project, are within the AWS_Deployment directory. See the README file and .md file in the directory for more information. The final product is within Applications and comprises the directory final_client_app. Another important application is in Applications and comprises the directory final_student_app. The client app is a reduced version of the application which strictly adheres to the client's requirements. The student final app includes a page for the presentation of data, as well as an interactive graphing page for user exploration.
 
 The Documentation directory includes instructions for adding data to the MongoDB, instructions for running the final applications on your local machine, and instructions for defining new feature names so that the search function will be able to access the data correctly.
 
